@@ -1,18 +1,46 @@
 /*** General ***************/
-body {background-color:#fff; color:#516064; margin:0; padding:0; text-align:center; font-size:75%; font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;}
-p {clear:both; font-size:1.427em; margin:0 0 1.5em;}
+body {
+    background-color:#fff;
+    color:#516064;
+    margin:0;
+    padding:0;
+    text-align:center;
+    font-size:75%;
+    font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+}
+p {
+    clear:both; 
+    font-size:1.427em; 
+    margin:0 0 1.5em;
+}
 
 
 /*** Links ****************/
-a:link, a:visited {color:#ff8a00; text-decoration:none;}
+a:link, a:visited {
+    color:#ff8a00; 
+    text-decoration:none;
+}
 a:hover {color:#feb925;}
 
 /*** Center Column ********/
-.center-column {width:58.334em; margin:0 0 0 15%; text-align:left; clear:both;}
+.center-column {
+    width:58.334em; 
+    margin:0 0 0 15%; 
+    text-align:left; 
+    clear:both;
+}
 
 /*** Headers ***************/
-h1 {color:#666666; font-size:2.5em; font-weight:bold; line-height:1em; padding-bottom:0.6em;}
-h1 a:link, h1 a:visited {color:#959ea1; text-decoration:none;}
+h1 {color:#666666; 
+    font-size:2.5em;
+    font-weight:bold;
+    line-height:1em;
+    padding-bottom:0.6em;
+}
+h1 a:link, h1 a:visited {
+    color:#959ea1; 
+    text-decoration:none;
+}
 h1 a:hover {color:#ff8a00;}
 
 h2 {font-size:2.0em; margin-bottom:0.75em;}
@@ -21,4 +49,10 @@ h4 {font-size:1.167em; margin-bottom:0.867em; text-transform:uppercase;}
 h5 {font-size:1.167em; margin-bottom:0.867em; text-transform:uppercase; color:#999;}
 h6 {font-size:1.167em; margin-bottom:0.867em; text-transform:uppercase; color:#ccc;}
 
-
+/*** Specific Picture styling */
+#headerpic {
+    border-radius: 25px;
+    vertical-align:-25px; 
+    max-height: 100px; 
+    margin: 0 10px 0 0;
+}
