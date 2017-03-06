@@ -20,7 +20,7 @@ theory through fibrations of the K3 surface. </p>
 <h2>Three Examples</h2>
 <center>
 <figure>
-  <img src="https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/three-example-curves.png?raw=true">
+  <img src="https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/three-example-curves.png?raw=true" width="800">
 </figure>
 </center>
 
@@ -29,7 +29,7 @@ derivatives vanish. That means that an elliptic curve could never look like the 
 <h2>Singular Curves</h2>
 <center>
 <figure>
-  <img src="https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/singular-curves.png?raw=true"  >
+  <img src="https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/singular-curves.png?raw=true" width="600">
 </figure>
 </center>
 <p>In fact, the last was never in the running, since it isn’t even a cubic equation.</p>
@@ -40,14 +40,27 @@ in its terms in order to be well-defined as a polynomial of variables
 in <span class="math"><script type="math/tex">\mathbb P^2</script></span>. We will denote these variables by capital <span class="math"><script type="math/tex">X, Y</script></span> and <span class="math"><script type="math/tex">Z</script></span>.</p>
 <p>It is important to distinguish between the projective plane and the affine plane, but there’s nothing stopping us from visualizing what the rays satisfying an elliptic curve might look like in 3-dimensional space. This forms a surface in <span class="math"><script type="math/tex">\mathbb R^3</script></span>.</p>
 <center>
+<table>
+<tr>
+<td>
+<center>
 <figure>
-  <img src="https://github.com/ctesta01/thesis-blog/blob/master/images/92b_spinning.gif?raw=true" alt="" width="304" height="228">
-  <figcaption>Projective with Affine Highlighted <span class="math"><script type="math/tex"> Y^2Z = X^3 - X^2Z + Z^3  </script></span></figcaption>
+<img src="https://github.com/ctesta01/thesis-blog/blob/master/images/92b_blue.png?raw=true" alt="" width="304" height="228">
+<figcaption> Affine Curve <span class="math"><script type="math/tex"> y^2 + y = x^3 - x + 1 </script></span></figcaption>
 </figure>
+</center>
+</td>
+<td>
+<center>
 <figure>
-  <img src="https://github.com/ctesta01/thesis-blog/blob/master/images/92b_blue.png?raw=true" alt="" width="304" height="228">
-  <figcaption> Affine Curve <span class="math"><script type="math/tex"> y^2 + y = x^3 - x + 1 </script></span></figcaption>
+<img src="https://github.com/ctesta01/thesis-blog/blob/master/images/92b_spinning.gif?raw=true" alt="" width="304" height="228">
+<figcaption>Projective with Affine Highlighted <span class="math"><script type="math/tex"> Y^2Z = X^3 - X^2Z + Z^3  </script></span></figcaption>
 </figure>
+</center>
+</td>
+</tr>
+</table>
+
 </center>
 <h2>So What Are They Good For?</h2>
 <p>Elliptic Curves are of significance primarily to number theorists, and have had a major impact on problems like fast integer factorization and Fermat’s Last Theorem. Elliptic curve cryptography has been one of the most popular public key cryptography systems from 2004 to now (2017), and was originally suggested in the 1980s. Further, understanding their rational points is of such significance that for proving the Birch-Swinnerton-Dyer conjecture which relates the analytic rank to the algebraic rank one can win $<span class="math"><script type="math/tex">10^6</script></span>.</p>

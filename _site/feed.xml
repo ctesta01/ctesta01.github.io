@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>https://ctesta01.github.io/</link>
     <atom:link href="https://ctesta01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Mar 2017 03:38:21 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 03:38:21 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2017 03:54:32 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 03:54:32 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -22,27 +22,16 @@ theory through fibrations of the K3 surface. &lt;/p&gt;
 &lt;h2&gt;Three Examples&lt;/h2&gt;
 &lt;center&gt;
 &lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/three-example-curves.png?raw=true&quot; /&gt;
-  &lt;figcaption&gt;
-  &lt;span class=&quot;math&quot;&gt;
-  &lt;script type=&quot;math/tex&quot;&gt;
-  y^2 = x^3 + x + 1
-  &lt;/script&gt;&lt;/span&gt;, &lt;br /&gt;
-  &lt;span class=&quot;math&quot;&gt;
-  &lt;script type=&quot;math/tex&quot;&gt;
-  y^2 = x^3 - x + 1  
-  &lt;/script&gt;&lt;/span&gt;, &lt;br /&gt;
-  &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 - x
-  &lt;/script&gt;&lt;/span&gt;
-  &lt;/figcaption&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/three-example-curves.png?raw=true&quot; width=&quot;800&quot; /&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 
 &lt;p&gt;These are just three examples, and it will be useful to think of elliptic curves abstractly as those cubics which are nonsingular with at least one point. To require that they are nonsingular is equivalent to requiring that no point is singular, that is there is no &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;P \in E&lt;/script&gt;&lt;/span&gt; such that all
 derivatives vanish. That means that an elliptic curve could never look like the following:&lt;/p&gt;
+&lt;h2&gt;Singular Curves&lt;/h2&gt;
 &lt;center&gt;
 &lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/acnode.png?raw=true&quot; /&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/singular-curves.png?raw=true&quot; width=&quot;600&quot; /&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 &lt;p&gt;In fact, the last was never in the running, since it isn’t even a cubic equation.&lt;/p&gt;
@@ -53,14 +42,27 @@ in its terms in order to be well-defined as a polynomial of variables
 in &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\mathbb P^2&lt;/script&gt;&lt;/span&gt;. We will denote these variables by capital &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;X, Y&lt;/script&gt;&lt;/span&gt; and &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;Z&lt;/script&gt;&lt;/span&gt;.&lt;/p&gt;
 &lt;p&gt;It is important to distinguish between the projective plane and the affine plane, but there’s nothing stopping us from visualizing what the rays satisfying an elliptic curve might look like in 3-dimensional space. This forms a surface in &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\mathbb R^3&lt;/script&gt;&lt;/span&gt;.&lt;/p&gt;
 &lt;center&gt;
+&lt;table&gt;
+&lt;tr&gt;
+&lt;td&gt;
+&lt;center&gt;
 &lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b_spinning.gif?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt;Projective with Affine Highlighted &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; Y^2Z = X^3 - X^2Z + Z^3  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b_blue.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+&lt;figcaption&gt; Affine Curve &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 + y = x^3 - x + 1 &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/center&gt;
+&lt;/td&gt;
+&lt;td&gt;
+&lt;center&gt;
 &lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b_blue.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt; Affine Curve &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 + y = x^3 - x + 1 &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b_spinning.gif?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+&lt;figcaption&gt;Projective with Affine Highlighted &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; Y^2Z = X^3 - X^2Z + Z^3  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;/center&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/table&gt;
+
 &lt;/center&gt;
 &lt;h2&gt;So What Are They Good For?&lt;/h2&gt;
 &lt;p&gt;Elliptic Curves are of significance primarily to number theorists, and have had a major impact on problems like fast integer factorization and Fermat’s Last Theorem. Elliptic curve cryptography has been one of the most popular public key cryptography systems from 2004 to now (2017), and was originally suggested in the 1980s. Further, understanding their rational points is of such significance that for proving the Birch-Swinnerton-Dyer conjecture which relates the analytic rank to the algebraic rank one can win $&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;10^6&lt;/script&gt;&lt;/span&gt;.&lt;/p&gt;
