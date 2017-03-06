@@ -26,6 +26,7 @@ theory through fibrations of the K3 surface. </p>
 
 <p>These are just three examples, and it will be useful to think of elliptic curves abstractly as those cubics which are nonsingular with at least one point. To require that they are nonsingular is equivalent to requiring that no point is singular, that is there is no <span class="math"><script type="math/tex">P \in E</script></span> such that all
 derivatives vanish. That means that an elliptic curve could never look like the following:</p>
+<h2>Singular Curves</h2>
 <center>
 <figure>
   <img src="https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/singular-curves.png?raw=true"  >
