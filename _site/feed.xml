@@ -5,51 +5,44 @@
     <description>My blog about math, experiments, and life.</description>
     <link>https://ctesta01.github.io/</link>
     <atom:link href="https://ctesta01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Mar 2017 03:10:21 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 03:10:21 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Mar 2017 03:35:41 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 03:35:41 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Introduction to Elliptic Curves</title>
         <description>&lt;h1 id=&quot;introduction-to-elliptic-curves&quot;&gt;Introduction to Elliptic Curves&lt;/h1&gt;
 
-&lt;h2&gt;Definining an Elliptic Curve&lt;/h2&gt;
-&lt;p&gt;Elliptic curves are degree three nonsingular plane curves with at least one rational point.&lt;/p&gt;
-&lt;p&gt;They often look something like this:&lt;/p&gt;
+&lt;p&gt;Elliptic curves are degree three nonsingular plane curves with at least one rational point.
+In some sense, that makes them like &quot;slightly more complicated conics.&quot; Elliptic curves
+are studied in many contexts, including Number Theory, Diophantine Equations, Complex Analysis,
+and are applied to subjects like cryptography, lattice packing, and even connected to string
+theory through fibrations of the K3 surface. &lt;/p&gt;
+
+&lt;h2&gt;Three Examples&lt;/h2&gt;
 &lt;center&gt;
 &lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/496a1.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 + x + 1
-  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b1.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 - x + 1  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/32a2.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 - x
-  &lt;/script&gt;&lt;/span&gt; &lt;/figcaption&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/three-example-curves.png?raw=true&quot; /&gt;
+  &lt;figcaption&gt;
+  &lt;span class=&quot;math&quot;&gt;
+  &lt;script type=&quot;math/tex&quot;&gt;
+  y^2 = x^3 + x + 1
+  &lt;/script&gt;&lt;/span&gt;, &lt;br /&gt;
+  &lt;span class=&quot;math&quot;&gt;
+  &lt;script type=&quot;math/tex&quot;&gt;
+  y^2 = x^3 - x + 1  
+  &lt;/script&gt;&lt;/span&gt;, &lt;br /&gt;
+  &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 - x
+  &lt;/script&gt;&lt;/span&gt;
+  &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
+
 &lt;p&gt;These are just three examples, and it will be useful to think of elliptic curves abstractly as those cubics which are nonsingular with at least one point. To require that they are nonsingular is equivalent to requiring that no point is singular, that is there is no &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;P \in E&lt;/script&gt;&lt;/span&gt; such that all
 derivatives vanish. That means that an elliptic curve could never look like the following:&lt;/p&gt;
 &lt;center&gt;
 &lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/acnode.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 - x^2  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/singular-cusp.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;y^2 = x^3  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/singular-node.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 + x^2  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/tacnode.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
-  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; (x^2 + y^2 - 3x)^2 = 4x^2(2-x)  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/acnode.png?raw=true&quot; /&gt;
 &lt;/figure&gt;
 &lt;/center&gt;
 &lt;p&gt;In fact, the last was never in the running, since it isn’t even a cubic equation.&lt;/p&gt;
@@ -80,7 +73,7 @@ in &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\m
 &lt;h2&gt;Where To From Here?&lt;/h2&gt;
 &lt;p&gt;At the Second International Congress in 1900 the incredible mathematician &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Hilbert&quot;&gt;David Hilbert&lt;/a&gt; presented 10 of &lt;a href=&quot;http://mathworld.wolfram.com/HilbertsProblems.html&quot;&gt;23 problems&lt;/a&gt; that were then unsolved. The tenth of these was to find
 a general algorithm deciding the solvability of an arbitrary Diophantine equation. Matiyasevich’s Theorem from 1970 yielded the discovery that no such algorithm can exist. This certainly makes finding and describing the complete solution set of a Diophantine problem more difficult. Progress in Algebraic-Geometry and the proof of Fermat’s Last Theorem make Diophantine Equations an exciting subject, and the rational points on elliptic curves
-are one of many mysterious behaviors to explore.&lt;/p&gt;
+are one of many mysterious behaviors to explore within this subject.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
         <link>https://ctesta01.github.io/articles/2017-03/Intro-to-Elliptic-Curves</link>
