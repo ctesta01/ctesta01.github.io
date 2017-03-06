@@ -2,7 +2,7 @@
 layout: post
 title: Getting Started
 excerpt: "Blogs can get involved, can't they."
-modified: 2017-03-05
+modified: 2017-03-04
 tags: [about-me]
 comments: true
 image:
