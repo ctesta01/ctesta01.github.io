@@ -3,11 +3,11 @@
   <channel>
     <title>Christian Testa | A Blog</title>
     <description>My blog about math, experiments, and life.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 06 Mar 2017 01:03:47 +0000</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 01:03:47 +0000</lastBuildDate>
-    <generator>Jekyll v3.4.1</generator>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Mar 2017 02:58:56 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 02:58:56 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>Getting Started</title>
@@ -34,10 +34,107 @@
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/first-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/first-post</guid>
+        <link>/articles/2017-03/first-post</link>
+        <guid isPermaLink="true">/articles/2017-03/first-post</guid>
         
         <category>about-me</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Elliptic Curves</title>
+        <description>&lt;h1 id=&quot;introduction-to-elliptic-curves&quot;&gt;Introduction to Elliptic Curves&lt;/h1&gt;
+
+&lt;h2 id=&quot;defining-an-elliptic-curve&quot;&gt;Defining an Elliptic Curve&lt;/h2&gt;
+
+&lt;p&gt;Elliptic curves are degree three nonsingular plane curves with at least one rational point.&lt;/p&gt;
+
+&lt;p&gt;They often look something like this:&lt;/p&gt;
+
+&lt;center&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/496a1.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 + x + 1
+  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b1.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 - x + 1  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/32a2.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 - x
+  &lt;/script&gt;&lt;/span&gt; &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/center&gt;
+
+&lt;p&gt;These are just three examples, and it will be useful to think of elliptic curves abstractly as those cubics which are nonsingular with at least one point. To require that they are nonsingular is equivalent to requiring that no point is singular, that is there is no $P \in E$ such that all
+derivatives vanish. That means that an elliptic curve could never look like the following:&lt;/p&gt;
+
+&lt;center&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/acnode.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 - x^2  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/singular-cusp.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;y^2 = x^3  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/singular-node.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 = x^3 + x^2  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/tacnode.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt;&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; (x^2 + y^2 - 3x)^2 = 4x^2(2-x)  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/center&gt;
+
+&lt;p&gt;In fact, the last was never in the running, since it isn’t even a cubic equation.&lt;/p&gt;
+
+&lt;p&gt;There are many different ways of considering an elliptic curve. Most often they are depicted in the affine or cartesian plane, but they also exist in projective space. To construct the projective plane, we identify the lines through the origin in 3-dimensional affine or Euclidean space ($\mathbb A^2$) as the points of projective 2-dimensional space $\mathbb P^2$.&lt;/p&gt;
+
+&lt;p&gt;We denote the points of the projective plane as $(x:y:z)$ since it is only the ratio between these points which identifies the point. If we consider a
+cubic nonsingular curve, we immediately find that it must be homogenous
+in its terms in order to be well-defined as a polynomial of variables
+in $\mathbb P^2$. We will denote these variables by capital $X, Y$ and $Z$.&lt;/p&gt;
+
+&lt;p&gt;It is important to distinguish between the projective plane and the affine plane, but there’s nothing stopping us from visualizing what the rays satisfying an elliptic curve might look like in 3-dimensional space. This forms a surface in $\mathbb R^3$.&lt;/p&gt;
+
+&lt;center&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b_spinning.gif?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt;Projective with Affine Highlighted &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; Y^2Z = X^3 - X^2Z + Z^3  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b_blue.png?raw=true&quot; alt=&quot;&quot; width=&quot;304&quot; height=&quot;228&quot; /&gt;
+  &lt;figcaption&gt; Affine Curve &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 + y = x^3 - x + 1 &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/center&gt;
+
+&lt;h2 id=&quot;so-what-are-they-good-for&quot;&gt;So What Are They Good For?&lt;/h2&gt;
+
+&lt;p&gt;Elliptic Curves are of significance primarily to number theorists, and have had a major impact on problems like fast integer factorization and Fermat’s Last Theorem. Elliptic curve cryptography has been one of the most popular public key cryptography systems from 2004 to now (2017), and was originally suggested in the 1980s. Further, understanding their rational points is of such significance that for proving the Birch-Swinnerton-Dyer conjecture which relates the analytic rank to the algebraic rank one can win $$10^6$.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization&quot;&gt;Lenstra’s Elliptic Curve Factorization Algorithm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Elliptic_curve_cryptography&quot;&gt;Elliptic Curve Cryptography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Modularity_theorem&quot;&gt;The Modularity Theorem&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture&quot;&gt;The Birch and Swinnerton-Dyer Conjecture&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;where-to-from-here&quot;&gt;Where To From Here?&lt;/h2&gt;
+
+&lt;p&gt;At the Second International Congress in 1900 the incredible mathematician &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Hilbert&quot;&gt;David Hilbert&lt;/a&gt; presented 10 of &lt;a href=&quot;http://mathworld.wolfram.com/HilbertsProblems.html&quot;&gt;23 problems&lt;/a&gt; that were then unsolved. The tenth of these was to find
+a general algorithm deciding the solvability of an arbitrary Diophantine equation. Matiyasevich’s Theorem from 1970 yielded the discovery that no such algorithm can exist. This certainly makes finding and describing the complete solution set of a Diophantine problem more difficult. Progress in Algebraic-Geometry and the proof of Fermat’s Last Theorem make Diophantine Equations an exciting subject, and the rational points on elliptic curves
+are one of many mysterious behaviors to explore.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+        <link>/articles/2017-03/Intro-to-Elliptic-Curves</link>
+        <guid isPermaLink="true">/articles/2017-03/Intro-to-Elliptic-Curves</guid>
+        
+        <category>elliptic-curves</category>
         
         
       </item>
