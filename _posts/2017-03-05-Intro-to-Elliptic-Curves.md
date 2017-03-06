@@ -5,6 +5,9 @@ excerpt: "An elliptic curve is a degree three nonsingular curve with a rational 
 modified: 2017-03-05
 tags: [elliptic-curves]
 comments: true
+image:
+    feature: "2017-03-05/three-example-curves.png"
+
 ---
 # Introduction to Elliptic Curves
 
