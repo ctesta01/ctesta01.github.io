@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christian Testa | A Blog</title>
+    <description>My blog about math, experiments, and life.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 06 Mar 2017 01:02:42 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Mar 2017 01:02:42 +0000</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
+    
+      <item>
+        <title>Getting Started</title>
+        <description>&lt;p&gt;This is my new blog! It’s hosted on GitHub using Jekyll. I’m excited to use Jekyll, since it allows me to write out mathematical ideas much more easily and render them as an aesthetically website. Using Markdown I can easily include links and images and with MathJax to render LaTeX math, I should be unstoppable! (At least, on paper!)&lt;/p&gt;
+
+&lt;p&gt;I would be lying if I said I didn’t create this blog to share images that I’ve been producing for my undergraduate thesis on Elliptic Curves. Elliptic Curves are delightful, and I want to tell the world about them. Surely many posts on this blog will have something to do with elliptic curves.&lt;/p&gt;
+
+&lt;p&gt;Pictures of elliptic curves phenomena will be a major theme of this blog, but another will be data visualization and analysis. I want to tell everybody that they’re missing out if they aren’t using everything at their disposal to explore the world around them. For me, that means using mathematics and programming to explore the properties of all kinds of data, abstract or hands-on.&lt;/p&gt;
+
+&lt;p&gt;Lastly, I provide the following as a test that the MathJax is working for myself, as well as a short todo list. Please enjoy the blog!&lt;/p&gt;
+
+&lt;p&gt;This beautiful equation is the MacDonald equation for Ramanujan’s Tau function:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\tau (n) = \sum \frac{(a-b)(a-c)(a-d)(a-e)(b-c)(b-d)(b-e)(c-d)(c-e)(d-e)}{1!2!3!4!}&lt;/script&gt;
+
+&lt;p&gt;My Todo List:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[] About Me&lt;/li&gt;
+  &lt;li&gt;[] Discuss Integration&lt;/li&gt;
+  &lt;li&gt;[] Transfer Posts from Thesis Page&lt;/li&gt;
+  &lt;li&gt;[] Come up with something in addition to elliptic curves&lt;/li&gt;
+  &lt;li&gt;[] Maybe move some txties content over too&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-03/first-post</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/first-post</guid>
+        
+        <category>about-me</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
