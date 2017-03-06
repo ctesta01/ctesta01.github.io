@@ -21,18 +21,6 @@ theory through fibrations of the K3 surface. </p>
 <center>
 <figure>
   <img src="https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/three-example-curves.png?raw=true">
-  <figcaption>
-  <span class="math">
-  <script type="math/tex">
-  y^2 = x^3 + x + 1
-  </script></span>, <br>
-  <span class="math">
-  <script type="math/tex">
-  y^2 = x^3 - x + 1  
-  </script></span>, <br>
-  <span class="math"><script type="math/tex"> y^2 = x^3 - x
-  </script></span>
-  </figcaption>
 </figure>
 </center>
 
@@ -40,7 +28,7 @@ theory through fibrations of the K3 surface. </p>
 derivatives vanish. That means that an elliptic curve could never look like the following:</p>
 <center>
 <figure>
-  <img src="https://github.com/ctesta01/thesis-blog/blob/master/images/acnode.png?raw=true"  >
+  <img src="https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/singular-curves.png?raw=true"  >
 </figure>
 </center>
 <p>In fact, the last was never in the running, since it isn’t even a cubic equation.</p>
