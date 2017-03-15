@@ -24,7 +24,7 @@ $$ \tau (n) = \sum \frac{(a-b)(a-c)(a-d)(a-e)(b-c)(b-d)(b-e)(c-d)(c-e)(d-e)}{1!2
 My Todo List:
 
 - [] About Me
-- [] Discuss Integration
+- [] Can I use KaTeX instead of MathJax? 
 - [] Transfer Posts from Thesis Page
 - [] Come up with something in addition to elliptic curves
 - [] Maybe move some txties content over too
