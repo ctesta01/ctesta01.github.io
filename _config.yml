@@ -38,9 +38,9 @@ owner:
   job: "A student in all things abstract"
   bio: ""
   email:
-  disqus-shortname:
-  twitter: #username
-  facebook: #username
+  disqus-shortname: ctesta
+  twitter: ctesta000
+  facebook: ctesta000
   google:
     plus: #username
     analytics:
@@ -48,7 +48,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: ctesta01
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
