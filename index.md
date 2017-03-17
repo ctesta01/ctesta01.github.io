@@ -3,7 +3,7 @@ layout: page
 permalink: /
 ---
 
- 
+# []()
 # how long until bots take over the world? 🍵
 
 ## resources
