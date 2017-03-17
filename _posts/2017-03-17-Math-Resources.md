@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Mathematical Resources"
 excerpt: ""
 modified: 2017-03-17
