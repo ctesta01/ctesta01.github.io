@@ -1714,8 +1714,10 @@ a.read-more {
 .post-image-feature {
   margin-bottom: 40px; }
   .post-image-feature .feature-image {
-    width: 100%;
-    max-height: 500px; }
+    display: block;
+    margin: auto;
+    max-width: 500px;
+    max-height: 300px; }
 
 .share-buttons {
   padding-top: 1em;
