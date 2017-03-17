@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Elliptic Curves"
 excerpt: "An elliptic curve is a degree three nonsingular curve with a rational point."
 modified: 2017-03-05
-tags: [elliptic-curves]
+tags: [math, elliptic-curves]
 comments: true
 image:
 ---

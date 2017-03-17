@@ -6,9 +6,9 @@ modified: 2017-03-17
 tags: [math]
 comments: true
 image:
-  feature: polynomialroots05expi02.png
-  credit: John Baez' Beauty of Roots
-  creditlink: https://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/
+    feature: "2017-03-17/polynomialroots05expi02.png"
+    credit: John Baez' Beauty of Roots
+    creditlink: https://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/
 
 ---
 

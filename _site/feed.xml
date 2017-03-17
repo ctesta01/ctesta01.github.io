@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Mar 2017 23:44:31 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Mar 2017 23:44:31 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Mar 2017 23:50:05 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Mar 2017 23:50:05 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -187,6 +187,8 @@ are one of many mysterious behaviors to explore within this subject.&lt;/p&gt;
         <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/articles/2017-03/Intro-to-Elliptic-Curves</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Intro-to-Elliptic-Curves</guid>
+        
+        <category>math</category>
         
         <category>elliptic-curves</category>
         
