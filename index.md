@@ -2,17 +2,15 @@
 layout: page
 permalink: /
 ---
-
+# 
 # how long until bots take over the world? 🍵
 
 ## resources
-- [this is a test]()
-- [more testing]()
-- []()
+- [Mathematics Resources](http://ctesta.com/articles/2017-03/Math-Resources)
+- ...
 
 ## writings
-- here is some body text to go with things. 
-
+- ...
 
 ## casually interesting
-- [one more link]()
+- ...
