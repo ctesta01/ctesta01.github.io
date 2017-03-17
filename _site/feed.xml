@@ -3,17 +3,110 @@
   <channel>
     <title>Christian Testa | A Blog</title>
     <description>My blog about math, experiments, and life.</description>
-    <link>https://ctesta01.github.io/</link>
-    <atom:link href="https://ctesta01.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Mar 2017 21:04:17 +0000</pubDate>
-    <lastBuildDate>Fri, 17 Mar 2017 21:04:17 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 17 Mar 2017 23:36:20 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Mar 2017 23:36:20 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title>Introduction to Elliptic Curves</title>
-        <description>&lt;h1 id=&quot;introduction-to-elliptic-curves&quot;&gt;Introduction to Elliptic Curves&lt;/h1&gt;
+        <title>Mathematical Resources</title>
+        <description>&lt;p&gt;Knowledge is the Great Equalizer, and when we live in a time of great
+wealth inequality, I believe mathematics is a way forward to empower those
+who have found themselves as underdogs. Whether it is for personal need,
+for a job, for money, or for a grand cause, to find beauty and elegance in
+the world, mathematics is meant to be shared and enjoyed by many.
+Individuals may approach mathematics from different perspectives,
+motivations, and mindsets, and regardless, mathematics strengthens,
+mystifies, and emboldens those who consume it. It is my hope that among these
+links readers will find interesting ideas and useful directions for their
+own personal benefit.&lt;/p&gt;
 
-&lt;p&gt;Elliptic curves are degree three nonsingular plane curves with at least one rational point.
+&lt;ul&gt;
+  &lt;li&gt;“A mathematician is a device for turning coffee into theorems.”&lt;/li&gt;
+  &lt;li&gt;“God may not play dice with the universe, but something strange
+is going on with the prime numbers.”&lt;/li&gt;
+  &lt;li&gt;“It is not enough to be in the right place at the right time.
+You should also have an open mind at the right time.”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;communities&quot;&gt;Communities&lt;/h2&gt;
+
+&lt;p&gt;One of the most important components of truly engaging with mathematics is
+to find others to engage with mathematics together.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://reddit.com/r/math&quot;&gt;Math Reddit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://math.stackexchange.com/&quot;&gt;Math.StackExchange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mathoverflow.net/&quot;&gt;MathOverflow&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;online-articles-discussions-and-places-of-wonder&quot;&gt;Online Articles, Discussions, and Places of Wonder&lt;/h2&gt;
+
+&lt;p&gt;These links provide a seemingly infinite amount of mathematical content.
+I recommend losing yourself in them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quantamagazine.org/tag/mathematics/&quot;&gt;Quanta Magazine’s Math Section&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://math.stackexchange.com/questions?sort=votes&quot;&gt;Math.StackExchange ordered by Votes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles&quot;&gt;The Best Lecture Notes from Math.StackExchange&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mathoverflow.net/questions?sort=votes&quot;&gt;MathOverflow sorted by Votes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mathoverflow.net/questions/60457/elementaryshortuseful&quot;&gt;Elementary Short and Useful Proofs from MathOverflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Wikipedia
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Outline_of_mathematics&quot;&gt;Outline of Mathematics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lists_of_mathematics_topics&quot;&gt;List of Mathematical Topics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Areas_of_mathematics&quot;&gt;Areas of Mathematics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Glossary_of_areas_of_mathematics&quot;&gt;Glossary of Areas of Mathematics&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Mathematics_Subject_Classification#First-level_areas&quot;&gt;Mathematics Subject Classification&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;blogs-and-websites&quot;&gt;Blogs and Websites&lt;/h2&gt;
+
+&lt;p&gt;These are websites and blogs I find enlightening and entertaining.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hbpms.blogspot.com/&quot;&gt;How to Become a Pure Mathematician&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jeremykun.com/&quot;&gt;Math ∩ Programming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://terrytao.wordpress.com/&quot;&gt;Terence Tao’s What’s New&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jackschaedler.github.io/circles-sines-signals/&quot;&gt;Circles Sines and Signals&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;learning-material&quot;&gt;Learning Material&lt;/h2&gt;
+
+&lt;p&gt;Learning mathematics requires time, effort, and resources. Of course
+mathematical content is available in books, on the internet, and from professionals.
+However, Sci-Hub and other book-sharing projects also exist to freely spread information,
+and should be used at the reader’s own discretion. Promisingly, open source
+books are beginning to become popular in mathematics. Time and Energy are
+not cheap, but if the cost of the information can be free, perhaps many
+more will be able to appreciate the beauty of mathematics.&lt;/p&gt;
+
+&lt;p&gt;It is my hope that by aggregating this content and material, the barrier of
+entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lowered.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.efnet-math.org/w/Book_Recommendations&quot;&gt;Efnet’s Recommended Math Books&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ystael/chicago-ug-math-bib&quot;&gt;University of Chicago’s Undergrad Math Bibliography&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/math/comments/da36n/what_is_the_best_way_to_learn_more_math/&quot;&gt;Math Reddit’s Video Lectures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free&quot;&gt;MathOverflow’s Video Lectures&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://icerm.brown.edu/video_archive/#/index&quot;&gt;ICERM Video Lectures&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2017-03/Math-Resources</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Math-Resources</guid>
+        
+        <category>math</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Introduction to Elliptic Curves</title>
+        <description>&lt;p&gt;Elliptic curves are degree three nonsingular plane curves with at least one rational point.
 In some sense, that makes them like &quot;slightly more complicated conics.&quot; Elliptic curves
 are studied in many contexts, including Number Theory, Diophantine Equations, Complex Analysis,
 and are applied to subjects like cryptography, lattice packing, and are even connected to string
@@ -92,8 +185,8 @@ are one of many mysterious behaviors to explore within this subject.&lt;/p&gt;
 &lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-        <link>https://ctesta01.github.io/articles/2017-03/Intro-to-Elliptic-Curves</link>
-        <guid isPermaLink="true">https://ctesta01.github.io/articles/2017-03/Intro-to-Elliptic-Curves</guid>
+        <link>http://localhost:4000/articles/2017-03/Intro-to-Elliptic-Curves</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Intro-to-Elliptic-Curves</guid>
         
         <category>elliptic-curves</category>
         
@@ -104,9 +197,11 @@ are one of many mysterious behaviors to explore within this subject.&lt;/p&gt;
         <title>Getting Started</title>
         <description>&lt;p&gt;This is my new blog! It’s hosted on GitHub using Jekyll. I’m excited to use Jekyll, since it allows me to write out mathematical ideas much more easily and render them as an aesthetically website. Using Markdown I can easily include links and images and with MathJax to render LaTeX math, I should be unstoppable! (At least, on paper!)&lt;/p&gt;
 
-&lt;p&gt;I would be lying if I said I didn’t create this blog to share images that I’ve been producing for my undergraduate thesis on Elliptic Curves. Elliptic Curves are delightful, and I want to tell the world about them. Surely many posts on this blog will have something to do with elliptic curves.&lt;/p&gt;
+&lt;p&gt;I would be lying if I said I didn’t create this blog to share images that I’ve been producing for my undergraduate thesis on Elliptic Curves. Elliptic Curves are delightful, and I want to tell the world about them. Surely many posts on this blog will have something to do with elliptic curves. Pictures of elliptic curves phenomena will be a major theme of this blog, but another will be data visualization and analysis. I want to tell everybody that they’re missing out if they aren’t using everything at their disposal to explore the world around them. For me, that means using mathematics and programming to explore the properties of all kinds of data, abstract or hands-on.&lt;/p&gt;
 
-&lt;p&gt;Pictures of elliptic curves phenomena will be a major theme of this blog, but another will be data visualization and analysis. I want to tell everybody that they’re missing out if they aren’t using everything at their disposal to explore the world around them. For me, that means using mathematics and programming to explore the properties of all kinds of data, abstract or hands-on.&lt;/p&gt;
+&lt;p&gt;I am not going to attempt to formalize what this blog will and will not come to include, but I can 
+anticipate lots and lots of mathematics. Number theory, data visualization, algebra, art, 
+geometry,&lt;/p&gt;
 
 &lt;p&gt;Lastly, I provide the following as a test for myself that the $\LaTeX$ LaTeX is working, as well as a short todo list. This beautiful equation is MacDonald equation for &lt;a href=&quot;https://en.wikipedia.org/wiki/Ramanujan_tau_function&quot;&gt;Ramanujan’s Tau function&lt;/a&gt;:&lt;/p&gt;
 
@@ -125,8 +220,8 @@ are one of many mysterious behaviors to explore within this subject.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
-        <link>https://ctesta01.github.io/articles/2017-03/first-post</link>
-        <guid isPermaLink="true">https://ctesta01.github.io/articles/2017-03/first-post</guid>
+        <link>http://localhost:4000/articles/2017-03/first-post</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/first-post</guid>
         
         <category>about-me</category>
         

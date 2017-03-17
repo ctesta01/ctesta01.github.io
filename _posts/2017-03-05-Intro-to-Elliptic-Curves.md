@@ -6,10 +6,7 @@ modified: 2017-03-05
 tags: [elliptic-curves]
 comments: true
 image:
-    feature: "2017-03-05/three-example-curves.png"
-
 ---
-# Introduction to Elliptic Curves
 
 <p>Elliptic curves are degree three nonsingular plane curves with at least one rational point.
 In some sense, that makes them like "slightly more complicated conics." Elliptic curves

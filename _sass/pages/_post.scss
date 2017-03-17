@@ -20,7 +20,7 @@
 }
 
 .image-credit {
-  float: right;
+  float: left;
   font-weight: bold;
   font-style: italic;
   color: $info;
@@ -153,7 +153,7 @@ a.read-more {
     display: block;
     margin: auto;
     max-width: 500px;
-    max-height: 300px;
+    max-height: 400px;
   }
 }
 
@@ -221,17 +221,17 @@ a.read-more {
   }
 }
 .hacker-news {
-  background-color: #f60;
+  background-color: #DD9458;
   color: $white;
-  border-color: #f60;
+  border-color: #DD9458;
   &:visited {
     color: $white;
-    border-color: #f60;
+    border-color: #DD9458;
   }
   &:hover {
     background-color: $white;
     color: #f60;
-    border-color: #f60;
+    border-color: #DD9458;
   }
 }
 .reddit {
