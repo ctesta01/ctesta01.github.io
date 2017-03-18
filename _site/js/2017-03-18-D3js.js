@@ -1,11 +1,3 @@
-d3.select(self.frameElement).style("height", "1800px");
-d3.select(self.frameElement).style("width", "1200px");
-
-// This example draws a Radial Hub and Spoke Graph on a page with
-// multiple HTML layout constructs.
-// Created by Frank Guerino : "http://www.guerino.net"
-
-// Data Used for this example...
 
 var focalNodeID = "N1";
 
@@ -136,6 +128,7 @@ function drawCluster( drawingName, focalNode, nodeSet, linkSet, selectString, co
   var centerNodeSize = 50;
   var nodeSize = 10;
   var color_hash = [];
+  var vis = d3.select(self.frameElement).style("height", "1000px", "max-width", "1000");
 
   var typeMouseOver = function() {
 
