@@ -10,10 +10,10 @@ d3.select(self.frameElement).style("width", "1200px");
 var focalNodeID = "N1";
 
 var nodeSet = [
-  {id: "N1", name: "Smith, John", fixed: true, x: 10, y: 0, type: "Resource", hlink: "http://nounz.if4it.com/Nouns/Resources/Smith_John.NodeCluster.html"},
-  {id: "N2", name: "Product 2", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_2.NodeCluster.html"},
-  {id: "N3", name: "Cee, Washing D", type: "Resource", hlink: "http://nounz.if4it.com/Nouns/Resources/Cee_Washington_D.NodeCluster.html"},
-  {id: "N4", name: "Product 4", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_4.NodeCluster.html"},
+  {id: "N1", name: "Elliptic Curves", fixed: true, x: 10, y: 0, type: "Resource", hlink: "http://nounz.if4it.com/Nouns/Resources/Smith_John.NodeCluster.html"},
+  {id: "N2", name: "$E(\mathbb F_q)$", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_2.NodeCluster.html"},
+  {id: "N3", name: "$E(\mathbb Q)", type: "Resource", hlink: "http://nounz.if4it.com/Nouns/Resources/Cee_Washington_D.NodeCluster.html"},
+  {id: "N4", name: "$E(\mathbb C)", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_4.NodeCluster.html"},
   {id: "N5", name: "Contract 3", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_3.NodeCluster.html"},
   {id: "N6", name: "Product 6", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_6.NodeCluster.html"},
   {id: "N7", name: "Product 7", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_7.NodeCluster.html"},
@@ -29,11 +29,7 @@ var nodeSet = [
   {id: "N17", name: "Product 17", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_17.NodeCluster.html"},
   {id: "N18", name: "Contract 18", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_18.NodeCluster.html"},
   {id: "N19", name: "Contract 19", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_19.NodeCluster.html"},
-  {id: "N20", name: "United Kingdom", type: "Country", hlink: "http://nounz.if4it.com/Nouns/Countries/United_Kingdom.NodeCluster.html"},
-  {id: "N21", name: "Product 21", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_21.NodeCluster.html"},
-  {id: "N22", name: "Product 22", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_22.NodeCluster.html"},
-  {id: "N23", name: "Executive, Emily", type: "Resource", hlink: "http://nounz.if4it.com/Nouns/Resources/Executive_Emily_A.NodeCluster.html"},
-  {id: "N24", name: "Product 24", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_24.NodeCluster.html"}
+  {id: "N20", name: "United Kingdom", type: "Country", hlink: "http://nounz.if4it.com/Nouns/Countries/United_Kingdom.NodeCluster.html"}
 ];
 
 var linkSet = [

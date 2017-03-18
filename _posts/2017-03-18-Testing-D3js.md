@@ -19,20 +19,8 @@ this stackoverflow post:
 https://stackoverflow.com/questions/14113559/how-to-tune-layout-for-a-particular-page-post-in-jekyll
 
 -->
-<table class="table_Body">
-  <tr>
-    <td class="td_BodyLeft">
-    </td>
-    <td class="td_BodyRight">
-      <div class="div_RootBody">
-        <h1 style="text-align:center; font: bold 1.5em Arial;">D3 Based Node Cluster Chart in an HTML Page</h1>
-      </div>
-      <div class="div_RootBody" id="cluster_chart">
-      <div class="chart"></div>
-      </div>
-    </td>
-  </tr>
-</table>
+<div class="div_RootBody" id="cluster_chart">
+<div class="chart"></div>
 
 <script type="text/javascript">
 </script>
