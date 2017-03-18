@@ -1,8 +1,3 @@
-$.getScript('http://mbostock.github.com/d3/d3.js?2.4.', function() {
-  // Loading D3 with jQuery's getscript
-  // https://stackoverflow.com/questions/18261214/load-external-js-file-in-another-js-file
-});
-
 d3.select(self.frameElement).style("height", "1800px");
 d3.select(self.frameElement).style("width", "1200px");
 
@@ -508,3 +503,5 @@ function drawCluster( drawingName, focalNode, nodeSet, linkSet, selectString, co
       .on("mouseout", typeMouseOut);
 
     };
+
+drawCluster("Drawing 1", focalNodeID, nodeSet, linkSet, "#cluster_chart .chart", "colorScale20");

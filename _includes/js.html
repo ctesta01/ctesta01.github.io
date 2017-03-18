@@ -2,7 +2,7 @@
 <script type="text/javascript" src="{{ site.url }}/js/main.js"></script>
 
 {% for js_name in page.extra-js %}
-    <script type="text/javascript" src="{{ site.url }}/js/js_name"></script>
+    <script type="text/javascript" src="{{ js_name }}"></script>
 {% endfor %}
 
 {% if site.owner.google.analytics %}
