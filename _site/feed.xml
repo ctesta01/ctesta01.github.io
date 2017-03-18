@@ -3,10 +3,10 @@
   <channel>
     <title>Christian Testa | A Blog</title>
     <description>My blog about math, experiments, and life.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Mar 2017 01:25:09 +0000</pubDate>
-    <lastBuildDate>Sat, 18 Mar 2017 01:25:09 +0000</lastBuildDate>
+    <link>http://ctesta.com/</link>
+    <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 18 Mar 2017 04:43:49 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Mar 2017 04:43:49 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -80,7 +80,7 @@ I recommend losing yourself in them.&lt;/p&gt;
 mathematical content is available in books, in journals, and from professionals.
 However, Sci-Hub and other book-sharing projects like LibGen and BookZZ
 exist to help freely spread information and can be used at the reader’s
-discretion. Promisingly, open source books are beginning to become popular 
+discretion. Promisingly, open source books are beginning to become popular
 in mathematics. Time and Energy are not cheap, but if the cost of the information
 can be free, perhaps many more will be able to appreciate the beauty of mathematics.&lt;/p&gt;
 
@@ -96,10 +96,69 @@ entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lower
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/Math-Resources</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Math-Resources</guid>
+        <link>http://ctesta.com/articles/2017-03/Math-Resources</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Math-Resources</guid>
         
         <category>math</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Data Science Resources</title>
+        <description>&lt;p&gt;Data Science is the future. As humans become more technologically
+sophisticated, there is simply more data with more precision and with
+more meaning to be uncovered. Statistics, linear algebra, and algorithms
+have coalesced in the subject of data science, and its appeal stretches
+across amazingly diverse domains. In science, there is observation,
+conjecture, and proof. And Data Science has fundamentally sharpened
+the modern researcher’s observational step.&lt;/p&gt;
+
+&lt;h2 id=&quot;r&quot;&gt;R&lt;/h2&gt;
+
+&lt;p&gt;I have enjoyed working in R, despite its quirkiness as a language. The
+libraries ggplot2, dplyr, htmltools, and d3 integrations make developing
+in R an exciting experience. At the R console raw data can be transformed in
+moments into rich visualizations, and this has always made R exciting for me.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://arrgh.tim-smith.us&quot;&gt;aRrgh : An Angry Guide to R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/qinwf/awesome-R&quot;&gt;Qinwf : Awesome-R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gitlogs.com/most_popular?language=R&quot;&gt;Gitlogs : Top R GitHub Repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/138/free-resources-for-learning-r&quot;&gt;StackExchange : Best Free R Resources Thread&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://adv-r.had.co.nz/&quot;&gt;Hadley Wickham : (Book) Advanced R &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r-pkgs.had.co.nz/&quot;&gt;Hadley Wickham : (Book) R Packages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rstudio.com/resources/cheatsheets/&quot;&gt;Rstudio Cheat Sheets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.htmlwidgets.org/&quot;&gt;HTML Widgets for R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shiny.rstudio.com/&quot;&gt;Shiny : A web application framework for R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;python&quot;&gt;Python&lt;/h2&gt;
+
+&lt;p&gt;Python is ubiquitous, writing Python feels natural, its community
+has written packages for anything and everything.
+The quality of research enabled by Jupyter notebooks and the speed
+data can be processed at in parallel makes Python a powerful skill
+to have in one’s pocket. Access to these high precision and powerful tools
+creates new opportunity for both more subtle and more
+computationally intensive projects.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://awesome-python.com/&quot;&gt;Awesome-Python.com : Awesome-Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://python.libhunt.com/&quot;&gt;Python.Libhunt.com : Awesome Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ujjwalkarn/DataSciencePython&quot;&gt;Ujjwalkarn : Python Data Science&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jyotiska.github.io/blog/posts/python_libraries.html&quot;&gt;Jyotiska : Lesser Known Python Libraries&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jonathanslenders/ptpython&quot;&gt;PtPython : A Better Python REPL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gleitz/howdoi&quot;&gt;HowDoI : Instant Coding Answers via the Command Line&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jtoy/awesome-tensorflow/&quot;&gt;Jtoy : Awesome-TensorFlow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://keras.io/&quot;&gt;Keras : A High-Level Neural Networks API&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://ctesta.com/articles/2017-03/Data-Science-Resources</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Data-Science-Resources</guid>
+        
+        <category>data-science</category>
         
         
       </item>
@@ -185,8 +244,8 @@ are one of many mysterious behaviors to explore within this subject.&lt;/p&gt;
 &lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/Intro-to-Elliptic-Curves</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Intro-to-Elliptic-Curves</guid>
+        <link>http://ctesta.com/articles/2017-03/Intro-to-Elliptic-Curves</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Intro-to-Elliptic-Curves</guid>
         
         <category>math</category>
         
@@ -222,8 +281,8 @@ geometry,&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/first-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/first-post</guid>
+        <link>http://ctesta.com/articles/2017-03/first-post</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/first-post</guid>
         
         <category>about-me</category>
         

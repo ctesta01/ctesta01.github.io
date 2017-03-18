@@ -9,7 +9,6 @@ image:
     feature: "2017-03-17/polynomialroots05expi02.png"
     credit: John Baez' Beauty of Roots
     creditlink: https://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/
-
 ---
 
 Knowledge is the Great Equalizer. And when we live in a time of great
@@ -70,7 +69,7 @@ Learning mathematics requires time, effort, and resources. Of course
 mathematical content is available in books, in journals, and from professionals.
 However, Sci-Hub and other book-sharing projects like LibGen and BookZZ
 exist to help freely spread information and can be used at the reader's
-discretion. Promisingly, open source books are beginning to become popular 
+discretion. Promisingly, open source books are beginning to become popular
 in mathematics. Time and Energy are not cheap, but if the cost of the information
 can be free, perhaps many more will be able to appreciate the beauty of mathematics.
 
