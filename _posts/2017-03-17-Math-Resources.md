@@ -12,14 +12,14 @@ image:
 
 ---
 
-Knowledge is the Great Equalizer, and when we live in a time of great
+Knowledge is the Great Equalizer. And when we live in a time of great
 wealth inequality, I believe mathematics is a way forward to empower those
 who have found themselves as underdogs. Whether it is for personal need,
 for a job, for money, or for a grand cause, to find beauty and elegance in
 the world, mathematics is meant to be shared and enjoyed by many.
 Individuals may approach mathematics from different perspectives,
-motivations, and mindsets, and regardless, mathematics strengthens,
-mystifies, and emboldens those who consume it. It is my hope that among these
+motivations, and mindsets, and regardless, mathematics strengthens
+and mystifies those who consume it. It is my hope that among these
 links readers will find interesting ideas and useful directions for their
 own personal benefit.
 
@@ -67,12 +67,12 @@ These are websites and blogs I find enlightening and entertaining.
 ## Learning Material
 
 Learning mathematics requires time, effort, and resources. Of course
-mathematical content is available in books, on the internet, and from professionals.
-However, Sci-Hub and other book-sharing projects also exist to freely spread information,
-and should be used at the reader's own discretion. Promisingly, open source
-books are beginning to become popular in mathematics. Time and Energy are
-not cheap, but if the cost of the information can be free, perhaps many
-more will be able to appreciate the beauty of mathematics.
+mathematical content is available in books, in journals, and from professionals.
+However, Sci-Hub and other book-sharing projects like LibGen and BookZZ
+exist to help freely spread information and can be used at the reader's
+discretion. Promisingly, open source books are beginning to become popular 
+in mathematics. Time and Energy are not cheap, but if the cost of the information
+can be free, perhaps many more will be able to appreciate the beauty of mathematics.
 
 It is my hope that by aggregating this content and material, the barrier of
 entry into mathematics is (perhaps by some $\epsilon > 0$) slightly lowered.
