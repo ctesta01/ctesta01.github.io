@@ -9,6 +9,10 @@
   <!-- CSS files -->
   <link rel="stylesheet" href="{{ site.url }}/css/font-awesome.min.css">
   <link rel="stylesheet" href="{{ site.url }}/css/main.css">
+  {% for css_name in page.extra-css %}
+  <link rel="stylesheet" href="{{ site.url }}/css/{{ css_name }}">
+  {% endfor %}
+
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.url }}" />
