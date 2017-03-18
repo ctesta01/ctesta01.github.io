@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 permalink: /
 title: Christian Testa | A Blog
 ---
