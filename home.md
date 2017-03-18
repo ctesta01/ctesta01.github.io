@@ -3,8 +3,6 @@ layout: page
 permalink: /
 ---
 
-# []()
-
 # Hello, and welcome to my blog.
 
 This is a collection of posts, ideas, and creations of mine. I hope you enjoy.
