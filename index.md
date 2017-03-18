@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 permalink: /
+title: Christian Testa | A Blog
 ---
 
 # Hello, and welcome to my blog.
@@ -10,7 +11,7 @@ This is a collection of posts, ideas, and creations of mine. I hope you enjoy.
 ## Resources
 - [Mathematics Resources](http://ctesta.com/articles/2017-03/Math-Resources)
 - [Data Science Resources](http://ctesta.com/articles/2017-03/Data-Science-Resources)
-- [Writing Code in Luxury]()
+- [Coding in Luxury]()
 
 ## Writing
 - ...
