@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 18 Mar 2017 05:02:44 +0000</pubDate>
-    <lastBuildDate>Sat, 18 Mar 2017 05:02:44 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Mar 2017 05:27:03 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Mar 2017 05:27:03 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -159,6 +159,97 @@ computationally intensive projects.&lt;/p&gt;
         <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Data-Science-Resources</guid>
         
         <category>data-science</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Coding in Luxury</title>
+        <description>&lt;p&gt;Customizing and tweaking the terminal is one way a geek can endlessly
+find delight.&lt;/p&gt;
+
+&lt;p&gt;Remember, Vim is the way of the Jedi, and may the Regex be with you.&lt;/p&gt;
+
+&lt;h2 id=&quot;vim-&quot;&gt;Vim 🎑&lt;/h2&gt;
+
+&lt;p&gt;Vim is one of many powerful text editors catered towards programming. I prefer
+it to others because it ascribes movements and actions to keys, and
+I find that binding behaviors to keystrokes in ways that can be combined and
+scripted with very powerful.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.vim.org/&quot;&gt;vim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vimsheet.com/&quot;&gt;vimsheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://statico.github.io/vim.html&quot;&gt;vim after 11 years&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://statico.github.io/vim2.html&quot;&gt;everything missed in vim after 11 years&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?id=RxOcCgAAQBAJ&quot;&gt;book : practical vim&lt;/a&gt;, and &lt;a href=&quot;http://bookzz.org/?ft=on&amp;amp;q=practical+vim&quot;&gt;a bookzz search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vimawesome.com/&quot;&gt;vimawesome : plugins&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/gmccreight/7519289&quot;&gt;master.vim : master vim through a script&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sanctum.geek.nz/arabesque/vim-koans/&quot;&gt;vim koans&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;tmux-&quot;&gt;Tmux 🌱&lt;/h2&gt;
+
+&lt;p&gt;Tmux is a terminal tiling manager which allows the user to handle multiple
+windows of terminal processes at once. With a little adjustment, using a
+terminal multiplexer like tmux, screen, byobu, or another is
+a significant productivity boost for anybody that works at the terminal.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tmux.github.io/&quot;&gt;tmux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/MohamedAlaa/2961058&quot;&gt;the most starred tmux cheatsheet on gist.github&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rothgar/awesome-tmux&quot;&gt;awesome-tmux : a list of resources&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tangledhelix.com/blog/2012/07/16/tmux-and-mouse-mode/&quot;&gt;tmux and mouse mode&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/&quot;&gt;prettifying tmux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;git-&quot;&gt;Git 🗺&lt;/h2&gt;
+
+&lt;p&gt;Git is version controlling software for anybody developing software. It’s
+incredibly useful for developing software collaboratively and I recommend
+using it if only for saving a coding project’s history.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/&quot;&gt;git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gitlogs.com&quot;&gt;gitlogs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.alexkras.com/19-git-tips-for-everyday-use/&quot;&gt;intermediate git tips&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://git-scm.com/book/en/v2&quot;&gt;book : pro git&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://durdn.com/blog/2012/11/22/must-have-git-aliases-advanced-examples/&quot;&gt;must have git aliases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;bash-&quot;&gt;Bash 🐌&lt;/h2&gt;
+
+&lt;p&gt;The Bourne Again Shell is one of the most popular shells in the *nix world,
+and fluency is an absolute must for anybody working heavily in the command
+line environment.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tuxarena.com/intro/cheatsheet.html&quot;&gt;bash cheat sheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.commandlinefu.com/commands/browse/sort-by-votes&quot;&gt;commandlinefu : sorted by votes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cyberciti.biz/tips/bash-aliases-mac-centos-linux-unix.html&quot;&gt;bash aliases&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;fish-&quot;&gt;Fish 🔥&lt;/h2&gt;
+
+&lt;p&gt;Fish is my favorite shell for general purpose terminal use. Browsing file
+structures is easy with Fish’s fuzzy matching and autocomplete, and many
+of its themes go out of their way to highlight the status of a git repository
+in the prompt. These useful functionalities are helpful to me almost every day,
+and I find Fish’s performance slightly better than Zsh after tacking on all the
+functionality I’m looking for in packages.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fishshell.com/&quot;&gt;fish&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish&quot;&gt;oh-my-fish&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md&quot;&gt;fish themes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/fisherman/awesome-fish&quot;&gt;awesome fish&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://ctesta.com/articles/2017-03/Coding-in-Luxury</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Coding-in-Luxury</guid>
+        
+        <category>coding</category>
         
         
       </item>

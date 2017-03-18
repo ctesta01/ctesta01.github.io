@@ -11,7 +11,7 @@ This is a collection of posts, ideas, and creations of mine. I hope you enjoy.
 ## Resources
 - [Mathematics Resources](http://ctesta.com/articles/2017-03/Math-Resources)
 - [Data Science Resources](http://ctesta.com/articles/2017-03/Data-Science-Resources)
-- [Coding in Luxury]()
+- [Coding in Luxury](http://ctesta.com/articles/2017-03/Coding-in-Luxury)
 
 ## Writing
 - ...
