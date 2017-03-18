@@ -10,52 +10,84 @@ d3.select(self.frameElement).style("width", "1200px");
 var focalNodeID = "N1";
 
 var nodeSet = [
-  {id: "N1", name: "Elliptic Curves", fixed: true, x: 10, y: 0, type: "Resource", hlink: "http://nounz.if4it.com/Nouns/Resources/Smith_John.NodeCluster.html"},
-  {id: "N2", name: "$E(\mathbb F_q)$", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_2.NodeCluster.html"},
-  {id: "N3", name: "$E(\mathbb Q)", type: "Resource", hlink: "http://nounz.if4it.com/Nouns/Resources/Cee_Washington_D.NodeCluster.html"},
-  {id: "N4", name: "$E(\mathbb C)", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_4.NodeCluster.html"},
-  {id: "N5", name: "Contract 3", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_3.NodeCluster.html"},
-  {id: "N6", name: "Product 6", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_6.NodeCluster.html"},
-  {id: "N7", name: "Product 7", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_7.NodeCluster.html"},
-  {id: "N8", name: "Contract 5", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_5.NodeCluster.html"},
-  {id: "N9", name: "Contract 9", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_9.NodeCluster.html"},
-  {id: "N10", name: "Product 10", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_10.NodeCluster.html"},
-  {id: "N11", name: "Contract 11", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_11.NodeCluster.html"},
-  {id: "N12", name: "Super, Susan", type: "Resource", hlink: "http://nounz.if4it.com/Nouns/Resources/Super_Susan.NodeCluster.html"},
-  {id: "N13", name: "Product 13", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_13.NodeCluster.html"},
-  {id: "N14", name: "Contract 14", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_14.NodeCluster.html"},
-  {id: "N15", name: "Product 15", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_15.NodeCluster.html"},
-  {id: "N16", name: "United States", type: "Country", hlink: "http://nounz.if4it.com/Nouns/Countries/United_States.NodeCluster.html"},
-  {id: "N17", name: "Product 17", type: "Product", hlink: "http://nounz.if4it.com/Nouns/Products/Product_17.NodeCluster.html"},
-  {id: "N18", name: "Contract 18", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_18.NodeCluster.html"},
-  {id: "N19", name: "Contract 19", type: "Contract", hlink: "http://nounz.if4it.com/Nouns/Contracts/Contract_19.NodeCluster.html"},
-  {id: "N20", name: "United Kingdom", type: "Country", hlink: "http://nounz.if4it.com/Nouns/Countries/United_Kingdom.NodeCluster.html"}
+  {id: "N1", name: "Elliptic Curves", fixed: true, x: 10, y: 0, type: "Subject Area", hlink: "https://en.wikipedia.org/wiki/Elliptic_curve"},
+  {id: "N2", name: "E(ℚ)", type: "Definition", hlink: "https://en.wikipedia.org/wiki/Elliptic_curve#Elliptic_curves_over_the_rational_numbers"},
+  {id: "N3", name: "E(𝔽q)", type: "Definition", hlink: "https://en.wikipedia.org/wiki/Elliptic_curve#Elliptic_curves_over_finite_fields"},
+  {id: "N4", name: "E(ℂ)", type: "Definition", hlink: "https://en.wikipedia.org/wiki/Elliptic_curve#Elliptic_curves_over_the_complex_numbers"},
+  {id: "N5", name: "Modular Forms", type: "Subject Area", hlink: "https://en.wikipedia.org/wiki/Modular_form"},
+  {id: "N6", name: "Modular Discriminant Δ", type: "Functions", hlink: "https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions#Modular_discriminant"},
+  {id: "N7", name: "Klein's j-invariant", type: "Functions", hlink: "https://en.wikipedia.org/wiki/J-invariant"},
+  {id: "N8", name: "Eisenstein's Series G, E", type: "Functions", hlink: "https://en.wikipedia.org/wiki/Eisenstein_series"},
+  {id: "N9", name: "Weierstrass Elliptic Functions ℘", type: "Functions", hlink: "https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions"},
+  {id: "N10", name: "Ramanujan's 𝜏 Function", type: "Functions", hlink: "https://en.wikipedia.org/wiki/Ramanujan_tau_function"},
+  {id: "N11", name: "Birch and Swinnerton-Dyer's Conjecture", type: "Conjecture", hlink: "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture"},
+  {id: "N12", name: "Riemann's Hypothesis Curves over Finite Fields", type: "Theorem", hlink: "https://en.wikipedia.org/wiki/Local_zeta-function#Riemann_hypothesis_for_curves_over_finite_fields"},
+  {id: "N13", name: "Divisor Function 𝜎", type: "Functions", hlink: "https://en.wikipedia.org/wiki/Divisor_function"},
+  {id: "N14", name: "Hilbert's 12th Problem", type: "Conjecture", hlink: "https://en.wikipedia.org/wiki/Hilbert's_twelfth_problem"},
+  {id: "N15", name: "Monstrous Moonshine", type: "Subject Area", hlink: "https://en.wikipedia.org/wiki/Monstrous_moonshine"},
+  {id: "N16", name: "Elliptic Curve Cryptography", type: "Algorithm", hlink: "https://en.wikipedia.org/wiki/Elliptic_curve_cryptography"},
+  {id: "N17", name: "Partition Function p", type: "Functions", hlink: "https://en.wikipedia.org/wiki/Partition_(number_theory)"},
+  {id: "N18", name: "Lenstra's Integer Factorization Algorithm", type: "Algorithm", hlink: "https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization"},
+  {id: "N19", name: "String Theory", type: "Subject Area", hlink: "https://en.wikipedia.org/wiki/String_theory"},
+  {id: "N20", name: "Algebraic Geometry", type: "Subject Area", hlink: "https://en.wikipedia.org/wiki/Algebraic_geometry"},
+  {id: "N21", name: "Number Theory", type: "Subject Area", hlink: "https://en.wikipedia.org/wiki/Number_theory"},
+  {id: "N22", name: "Class Field Theory", type: "Subject Area", hlink: "https://en.wikipedia.org/wiki/Class_field_theory"},
+  {id: "N24", name: "Classification of Finite Simple Groups", type: "Theorem", hlink: "https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups"}
 ];
 
 var linkSet = [
-  {sourceId: "N1", linkName: "Relationship 1", targetId: "N2"},
-  {sourceId: "N3", linkName: "Relationship 2", targetId: "N1"},
-  {sourceId: "N4", linkName: "Relationship 3", targetId: "N1"},
-  {sourceId: "N1", linkName: "Relationship 4", targetId: "N5"},
-  {sourceId: "N6", linkName: "Relationship 5", targetId: "N1"},
-  {sourceId: "N1", linkName: "Relationship 6", targetId: "N7"},
-  {sourceId: "N1", linkName: "Relationship 7", targetId: "N8"},
-  {sourceId: "N9", linkName: "Relationship 8", targetId: "N1"},
-  {sourceId: "N1", linkName: "Relationship 9", targetId: "N10"},
-  {sourceId: "N11", linkName: "Relationship 10", targetId: "N1"},
-  {sourceId: "N1", linkName: "Relationship 11", targetId: "N12"},
-  {sourceId: "N13", linkName: "Relationship 12", targetId: "N1"},
-  {sourceId: "N1", linkName: "Relationship 13", targetId: "N14"},
-  {sourceId: "N1", linkName: "Relationship 14", targetId: "N15"},
-  {sourceId: "N16", linkName: "Relationship 15", targetId: "N1"},
-  {sourceId: "N17", linkName: "Relationship 16", targetId: "N1"},
-  {sourceId: "N18", linkName: "Relationship 17", targetId: "N1"},
-  {sourceId: "N19", linkName: "Relationship 18", targetId: "N1"},
-  {sourceId: "N20", linkName: "Relationship 19", targetId: "N1"},
-  {sourceId: "N21", linkName: "Relationship 20", targetId: "N1"},
-  {sourceId: "N22", linkName: "Relationship 21", targetId: "N1"},
-  {sourceId: "N1", linkName: "Relationship 22", targetId: "N23"},
-  {sourceId: "N1", linkName: "Relationship 23", targetId: "N24"}
+  {sourceId: "N1", linkName: "", targetId: "N2"},
+  {sourceId: "N1", linkName: "", targetId: "N3"},
+  {sourceId: "N1", linkName: "", targetId: "N4"},
+
+  {sourceId: "N2", linkName: "", targetId: "N5"},
+  {sourceId: "N2", linkName: "", targetId: "N11"},
+
+  {sourceId: "N3", linkName: "", targetId: "N12"},
+  {sourceId: "N3", linkName: "", targetId: "N18"},
+
+  {sourceId: "N4", linkName: "", targetId: "N9"},
+  {sourceId: "N4", linkName: "", targetId: "N20"},
+
+  {sourceId: "N5", linkName: "", targetId: "N6"},
+  {sourceId: "N5", linkName: "", targetId: "N8"},
+  {sourceId: "N5", linkName: "", targetId: "N9"},
+  {sourceId: "N5", linkName: "", targetId: "N10"},
+  {sourceId: "N5", linkName: "", targetId: "N13"},
+  {sourceId: "N5", linkName: "", targetId: "N17"},
+  {sourceId: "N5", linkName: "", targetId: "N19"},
+  {sourceId: "N5", linkName: "", targetId: "N20"},
+  {sourceId: "N5", linkName: "", targetId: "N21"},
+
+  {sourceId: "N6", linkName: "", targetId: "N1"},
+  {sourceId: "N6", linkName: "", targetId: "N8"},
+  {sourceId: "N6", linkName: "", targetId: "N9"},
+  {sourceId: "N6", linkName: "", targetId: "N10"},
+
+  {sourceId: "N7", linkName: "", targetId: "N8"},
+  {sourceId: "N7", linkName: "", targetId: "N9"},
+  {sourceId: "N7", linkName: "", targetId: "N14"},
+  {sourceId: "N7", linkName: "", targetId: "N15"},
+
+  {sourceId: "N8", linkName: "", targetId: "N9"},
+  {sourceId: "N8", linkName: "", targetId: "N13"},
+  {sourceId: "N8", linkName: "", targetId: "N17"},
+  {sourceId: "N8", linkName: "", targetId: "N17"},
+
+  {sourceId: "N10", linkName: "", targetId: "N13"},
+  {sourceId: "N10", linkName: "", targetId: "N17"},
+
+  {sourceId: "N11", linkName: "", targetId: "N12"},
+
+  {sourceId: "N12", linkName: "", targetId: "N20"},
+
+  {sourceId: "N14", linkName: "", targetId: "N22"},
+
+  {sourceId: "N15", linkName: "", targetId: "N24"},
+
+  {sourceId: "N17", linkName: "", targetId: "N21"},
+
+  {sourceId: "N18", linkName: "", targetId: "N21"}
 ];
 
 
@@ -100,7 +132,7 @@ function drawCluster( drawingName, focalNode, nodeSet, linkSet, selectString, co
   };
 
   var width = 1000;
-  var height = 600;
+  var height = 1000;
   var centerNodeSize = 50;
   var nodeSize = 10;
   var color_hash = [];
