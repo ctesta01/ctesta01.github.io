@@ -6,7 +6,7 @@ modified: ""
 tags: [elliptic-curves, math]
 comments: true
 extra-css:
-  - http://ctesta.com/css/2017-03-18-D3js.css
+  - http://localhost:4000/css/2017-03-18-D3js.css
 extra-js:
   - http://mbostock.github.com/d3/d3.js?2.6.0
   - http://localhost:4000/js/2017-03-18-D3js2.js
@@ -22,7 +22,10 @@ Symbols were sourced from here:
 http://www.dionysia.org/html/entities/symbols.html
 https://en.wikipedia.org/wiki/Blackboard_bold
 -->
-<svg width="1200" height="900"></svg>
+<div id="container" class="svg-container">
+<!-- <svg id="chart" width="1050px" height="700"></svg> -->
+</div>
+
 
 <!--  
 Sources:
@@ -46,7 +49,9 @@ fluid flow, sphere packing, modular forms, and string theory. Elliptic curves
 are the degree three nonsingular algebraic plane curves with at least one
 rational point.
 
-![]({{ site.url }}/img/2017-03-05/three-example-curves.png)
+<center>
+<img width="65%" src="{{ site.url }}/img/2017-03-05/three-example-curves.png">
+</center>
 
 Their existence was considered by Diophantus in the 2nd century a.d. in
 his text Arithmetica. The question he originally posed has been rephrased

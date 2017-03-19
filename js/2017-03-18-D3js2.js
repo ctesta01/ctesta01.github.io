@@ -1,28 +1,14 @@
-$(document).ready(function() {
-	$('.popup-gallery').magnificPopup({
-		delegate: 'a',
-		type: 'image',
-		tLoading: 'Loading image #%curr%...',
-		mainClass: 'mfp-img-mobile',
-		gallery: {
-			enabled: true,
-			navigateByImgClick: true,
-			preload: [0,1] // Will preload 0 - before current, and 1 after the current image
-		},
-		image: {
-			tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
-			titleSrc: function(item) {
-				return item.el.attr('title') + '<small>by Marsel Van Oosten</small>';
-			}
-		}
-	});
-});
-
-var w = 1200, h = 800;
+var w = 1050, h = 700;
 
 var labelDistance = 0;
 
-var vis = d3.select("svg").append("svg:svg").attr("width", w).attr("height", h);
+// var vis = d3.select("svg").append("svg:svg").attr("width", w).attr("height", h);
+
+var vis = d3.select("div#container")
+  .append("svg")
+  .attr("preserveAspectRatio", "xMinYMin meet")
+  .attr("viewBox", "0 0 1050 700")
+  .classed("svg-content", true);
 
 var nodes = [];
 var labelAnchors = [];
@@ -41,7 +27,7 @@ nodes = [
 {id: "N9", label: "Weierstrass Elliptic Functions ℘", fixed: true, x: w/2+2*w/9, y: h/2+h/9, type: "Functions", hlink: "https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions"},
 {id: "N10", label: "Ramanujan's 𝜏 Function", fixed: true, x: w/2-2*w/9, y: h/2+3*h/9, type: "Functions", hlink: "https://en.wikipedia.org/wiki/Ramanujan_tau_function"},
 {id: "N11", label: "Birch and Swinnerton-Dyer's Conjecture", type: "Conjecture", hlink: "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture"},
-{id: "N12", label: "Riemann's Hypothesis Curves over Finite Fields", type: "Theorem", hlink: "https://en.wikipedia.org/wiki/Local_zeta-function#Riemann_hypothesis_for_curves_over_finite_fields"},
+{id: "N12", label: "Riemann Hypothesis for Finite Fields", type: "Theorem", hlink: "https://en.wikipedia.org/wiki/Local_zeta-function#Riemann_hypothesis_for_curves_over_finite_fields"},
 {id: "N13", label: "Divisor Function 𝜎", type: "Functions", hlink: "https://en.wikipedia.org/wiki/Divisor_function"},
 {id: "N14", label: "Hilbert's 12th Problem", type: "Conjecture", hlink: "https://en.wikipedia.org/wiki/Hilbert's_twelfth_problem"},
 {id: "N15", label: "Monstrous Moonshine", type: "Subject Area", hlink: "https://en.wikipedia.org/wiki/Monstrous_moonshine"},
@@ -118,7 +104,7 @@ var force = d3.layout.force().size([w, h]).nodes(nodes).links(links).gravity(1).
 
 force.start();
 
-var force2 = d3.layout.force().nodes(labelAnchors).links(labelAnchorLinks).gravity(0).linkDistance(0).linkStrength(8).charge(-200).size([w, h]);
+var force2 = d3.layout.force().nodes(labelAnchors).links(labelAnchorLinks).gravity(0).linkDistance(0).linkStrength(8).charge(-100).size([w, h]);
 force2.start();
 
 var link = vis.selectAll("line.link").data(links).enter().append("svg:line").attr("class", "link").style("stroke", "#CCC");
