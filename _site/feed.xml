@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 21:04:57 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 21:04:57 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 21:16:20 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 21:16:20 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -54,7 +54,7 @@ rational point.&lt;/p&gt;
 &lt;/center&gt;
 
 &lt;p&gt;Their existence was considered by Diophantus in the 2nd century a.d. in
-his text Arithmetica. The question he originally posed has been rephrased
+his text &lt;em&gt;Arithmetica&lt;/em&gt;. The question he originally posed has been rephrased
 in modern language: “To divide a given number into two numbers such that their
 product is a cube minus its side.” That is, given $a \in \mathbb N$ find
 $x,y \in \mathbb Z$ such that
@@ -173,8 +173,8 @@ satisfy certain invariance properties under their arguments translation
 by particular matrix groups. Elliptic Curves are a seemingly simple class
 of curves, with a natural group law
 arising from Bezout’s theorem
-and Algebra-Geometric arguments, and they are tied into Number Theory in
-profound unanticipated ways.&lt;/p&gt;
+and Algebra-Geometric arguments, and yet we have found that they are
+tied into Number Theory in profound and unanticipated ways.&lt;/p&gt;
 
 &lt;p&gt;To a Weierstraß equation is associated two useful invariants:
 the $j$-invariant and the $\Delta$ discriminant. Klein’s $j$-Invariant is
@@ -194,9 +194,7 @@ curve is singular.&lt;/p&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
 &lt;img width=&quot;50%&quot; height=&quot;30%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/37/KleinInvariantJ.jpg&quot; /&gt;
 &lt;br /&gt;
-&lt;span class=&quot;image-credit&quot;&gt;
-&lt;a href=&quot;https://en.wikipedia.org/wiki/J-invariant&quot;&gt;The $j$-Invariant as a modular form&lt;/a&gt;
-&lt;/span&gt;
+&lt;span class=&quot;image-credit&quot;&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/J-invariant&quot;&gt;The $j$-Invariant as a modular form&lt;/a&gt; &lt;/span&gt;
 &lt;/div&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -219,9 +217,9 @@ expansion of the discriminant $\Delta$.&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;\text{ where } q=\exp(2\pi iz).&lt;/script&gt;
 
-&lt;p&gt;Ramanujan was able to conjecture powerful number theoretic congruences on this
-$\tau$ function through the use of Modular Forms. Separately Ramanujan used
-Eisenstein series and other Modular Forms to produce astounding congruences
+&lt;p&gt;Ramanujan was able to conjecture powerful number theoretic congruences describing this
+$\tau$ function through modular forms. Separately Ramanujan used
+Eisenstein series and other modular forms to produce astounding congruences
 describing the partition function $p(n)$, the function which counts the
 ways a whole number can be partitioned not counting ordering. The following
 have been established as theory.&lt;/p&gt;
@@ -240,7 +238,7 @@ p(11k+6) &amp; \equiv 0 \pmod {11}.
 \end{align} %]]&gt;&lt;/script&gt;
 
 &lt;p&gt;These are some of the most beautiful congruences in Number Theory and Mathematics.
-In a 1972 lecture by Freeman Dyson on the Missed Opportunities between Mathematics
+In a 1972 lecture by Freeman Dyson on the &lt;em&gt;Missed Opportunities&lt;/em&gt; between Mathematics
 and Physics, he begins with the story of the following MacDonald equation for
 Ramanujan’s Tau Function.&lt;/p&gt;
 
@@ -249,7 +247,7 @@ Ramanujan’s Tau Function.&lt;/p&gt;
 &lt;img width=&quot;75%&quot; height=&quot;30%&quot; src=&quot;http://ctesta.com/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png&quot; /&gt;
 &lt;br /&gt;
 &lt;span class=&quot;image-credit&quot;&gt;
-Image Credit: &lt;a href=&quot;http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman&quot;&gt;The Concinnitas Project&lt;/a&gt;
+Image Credit: &lt;a class=&quot;info&quot; href=&quot;http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman&quot;&gt;The Concinnitas Project&lt;/a&gt;
 &lt;/span&gt;
 &lt;/div&gt;
 &lt;/center&gt;

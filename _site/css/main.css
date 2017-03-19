@@ -1614,7 +1614,6 @@ ul.tag-cloud {
       top: 0; } }
 
 .image-credit {
-  float: left;
   font-weight: bold;
   font-style: italic;
   color: #4B8F8C;

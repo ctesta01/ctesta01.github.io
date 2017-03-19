@@ -6,7 +6,7 @@ modified: ""
 tags: [elliptic-curves, math]
 comments: true
 extra-css:
-  - http://ctesta.com/css/2017-03-18-D3js.css
+  - localhost:4000/css/2017-03-18-D3js.css
 extra-js:
   - http://mbostock.github.com/d3/d3.js?2.6.0
   - http://ctesta.com/js/2017-03-18-D3js2.js
@@ -56,7 +56,7 @@ rational point.
 </center>
 
 Their existence was considered by Diophantus in the 2nd century a.d. in
-his text Arithmetica. The question he originally posed has been rephrased
+his text *Arithmetica*. The question he originally posed has been rephrased
 in modern language: "To divide a given number into two numbers such that their
 product is a cube minus its side." That is, given $a \in \mathbb N$ find
 $x,y \in \mathbb Z$ such that
@@ -175,8 +175,8 @@ satisfy certain invariance properties under their arguments translation
 by particular matrix groups. Elliptic Curves are a seemingly simple class
 of curves, with a natural group law
 arising from Bezout's theorem
-and Algebra-Geometric arguments, and they are tied into Number Theory in
-profound unanticipated ways.
+and Algebra-Geometric arguments, and yet we have found that they are
+tied into Number Theory in profound and unanticipated ways.
 
 To a Weierstraß equation is associated two useful invariants:
 the $j$-invariant and the $\Delta$ discriminant. Klein's $j$-Invariant is
@@ -196,9 +196,7 @@ $$ j(\tau) = 1728 \frac{g_2^3}{\Delta}. $$
 <div style="display: block; margin: auto">
 <img width='50%' height='30%' src="https://upload.wikimedia.org/wikipedia/commons/3/37/KleinInvariantJ.jpg">
 <br>
-<span class="image-credit">
-<a href="https://en.wikipedia.org/wiki/J-invariant">The $j$-Invariant as a modular form</a>
-</span>
+<span class="image-credit"> <a href="https://en.wikipedia.org/wiki/J-invariant">The $j$-Invariant as a modular form</a> </span>
 </div>
 </center>
 <br>
@@ -222,9 +220,9 @@ $$\sum_{n\geq 1}\tau(n)q^n=q\prod_{n\geq 1}(1-q^n)^{24} =\Delta(z),$$
 
 $$\text{ where } q=\exp(2\pi iz).$$
 
-Ramanujan was able to conjecture powerful number theoretic congruences on this
-$\tau$ function through the use of Modular Forms. Separately Ramanujan used
-Eisenstein series and other Modular Forms to produce astounding congruences
+Ramanujan was able to conjecture powerful number theoretic congruences describing this
+$\tau$ function through modular forms. Separately Ramanujan used
+Eisenstein series and other modular forms to produce astounding congruences
 describing the partition function $p(n)$, the function which counts the
 ways a whole number can be partitioned not counting ordering. The following
 have been established as theory.
@@ -242,7 +240,7 @@ p(11k+6) & \equiv 0 \pmod {11}.
 \end{align} $$
 
 These are some of the most beautiful congruences in Number Theory and Mathematics.
-In a 1972 lecture by Freeman Dyson on the Missed Opportunities between Mathematics
+In a 1972 lecture by Freeman Dyson on the *Missed Opportunities* between Mathematics
 and Physics, he begins with the story of the following MacDonald equation for
 Ramanujan's Tau Function.
 
@@ -251,7 +249,7 @@ Ramanujan's Tau Function.
 <img width='75%' height='30%' src="{{ site.url }}/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png">
 <br>
 <span class="image-credit">
-Image Credit: <a href="http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman">The Concinnitas Project</a>
+Image Credit: <a class="info" href="http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman">The Concinnitas Project</a>
 </span>
 </div>
 </center>
