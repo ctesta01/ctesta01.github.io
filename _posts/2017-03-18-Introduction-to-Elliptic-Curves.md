@@ -16,7 +16,7 @@ extra-js:
 <!-- I learned how to set up the extra-css and extra-js from
 this stackoverflow post:
 https://stackoverflow.com/questions/14113559/how-to-tune-layout-for-a-particular-page-post-in-jekyll
-I made the SVG responsive following instructions here 
+I made the SVG responsive following instructions here
 http://soqr.fr/testsvg/embed-svg-liquid-layout-responsive-web-design.php
 This example was incredibly helpful
 http://bl.ocks.org/MoritzStefaner/1377729
@@ -256,5 +256,6 @@ still just beginning to understand their tremendous structure.
 - [J.S. Milne : Elliptic Curves](http://www.jmilne.org/math/Books/ectext5.pdf)
 - [Joseph H. Silverman : Advanced Topics in the Arithmetic of Elliptic Curves](https://books.google.com/books?isbn=0387943250)
 - [Joseph H. Silverman : Elliptic Curves](https://books.google.com/books?isbn=1475719205)
+- [Neal I. Koblitz : Elliptic Curves and Modular Forms](https://books.google.com/books?isbn=1461209099)
 - [Silverman and Tate : Rational Points on Elliptic Curves](https://books.google.com/books?isbn=3319185888)
 - [Tom M. Apostol : Modular Functions and Dirichlet Series in Number Theory](https://books.google.com/books?id=zkrUBwAAQBAJ)
