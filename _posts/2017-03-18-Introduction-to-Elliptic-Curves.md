@@ -83,6 +83,15 @@ In 1687 Newton wrote down the majority of Bezout's Theorem, which
 states that given two irreducible degree curves their intersection
 counting multiplicity has the product of the degrees of the curves.
 
+<center>
+<div style="display: block; margin: auto">
+<img height='35%' width='35%' alt='Point Addition' src="{{ site.url }}/img/2017-03-17/ch2-point-addition.png" />
+<img height='35%' width='35%' alt='Point Multiplication' src="{{ site.url }}/img/2017-03-17/ch2-point-multiplication.png" />
+<br>
+Point Addition and Multiplication
+</div>
+</center>
+
 Elliptic functions, before connecting to elliptic curves,
 were inverted and considered as elliptic integrals by mathematicians such
 as Abel, Gauss, Jacobi, and notably Weierstraß. The motivation for doing
@@ -180,16 +189,6 @@ Later in 1984 a conjecture by Mordell was proven by Faltings stating
 that the genus 0 curves over $\mathbb Q$ have either $\emptyset$ or
 infinitely $\infty$ many points, genus 1 curves have $\emptyset$,
 finitely many $\mathbb Q$-points, or $\infty$-ly many.
-
-<center>
-<div style="display: block; margin: auto">
-<img height='15%' width='15%' alt='Point Addition' src="{{ site.url }}/img/2017-03-17/ch2-point-addition.png" />
-<img height='15%' width='15%' alt='Point Multiplication' src="{{ site.url }}/img/2017-03-17/ch2-point-multiplication.png" />
-<br>
-Point Addition and Multiplication
-</div>
-</center>
-
 
 Ramanujan defined his $\tau$ function by the Fourier series
 expansion of the discriminant $\Delta$.
