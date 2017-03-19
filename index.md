@@ -6,7 +6,8 @@ title: Christian Testa | A Blog
 
 # Hello, and welcome to my blog.
 
-This is a collection of posts, ideas, and creations of mine. I hope you enjoy.
+This is a collection of posts, ideas, and creations of mine, as well as
+references to many others fascinating work. I hope you enjoy.
 
 ## Resources
 - [Mathematics Resources](http://ctesta.com/articles/2017-03/Math-Resources)
@@ -14,7 +15,7 @@ This is a collection of posts, ideas, and creations of mine. I hope you enjoy.
 - [Coding in Luxury](http://ctesta.com/articles/2017-03/Coding-in-Luxury)
 
 ## Writing
-- ...
+- [Introduction to the Theory of Elliptic Curves](http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves)
 
 ## Casually Interesting
 - [The Buddhabrot Fractal in 4k](https://www.youtube.com/watch?v=zxIcydL7wwY)
