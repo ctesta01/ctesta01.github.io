@@ -6,7 +6,7 @@ modified: ""
 tags: [elliptic-curves, math]
 comments: true
 extra-css:
-  - localhost:4000/css/2017-03-18-D3js.css
+  - http://ctesta.com/css/2017-03-18-D3js.css
 extra-js:
   - http://mbostock.github.com/d3/d3.js?2.6.0
   - http://ctesta.com/js/2017-03-18-D3js2.js
