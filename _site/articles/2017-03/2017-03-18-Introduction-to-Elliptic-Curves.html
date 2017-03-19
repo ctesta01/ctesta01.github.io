@@ -8,15 +8,24 @@ Symbols were sourced from here:
 http://www.dionysia.org/html/entities/symbols.html
 https://en.wikipedia.org/wiki/Blackboard_bold
 -->
-<svg width="1200" height="900"></svg>
+<div id="container" class="svg-container">
+<!-- <svg id="chart" width="1050px" height="700"></svg> -->
+</div>
 
 <!--  
 Sources:
 - Fluid Flow: https://web.stanford.edu/~cantwell/Difficult_to_find_publications/Elliptic_Curves_and_3D_flow_patterns_Cantwell_2000.pdf
 - Sphere Packing: http://www.jmilne.org/math/Books/ectext5.pdf
 - String Theory: Husemöller's Text on Elliptic Curves
+- History of Curves
+- http://www.math.vt.edu/people/brown/doc/dioellip.pdf
+- http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf
+- https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964
 
 -->
+
+<h3 id="an-introduction-to-the-theory-of-elliptic-curves">An Introduction to the Theory of Elliptic Curves</h3>
+
 <p>Elliptic curves are a subject, simple to construct and ubiquitous, that have found
 themselves at the forefront of Number Theory and Algebraic Geometry research.
 The subject has roots in some of the oldest Mathematics, and its modern
@@ -25,7 +34,9 @@ fluid flow, sphere packing, modular forms, and string theory. Elliptic curves
 are the degree three nonsingular algebraic plane curves with at least one
 rational point.</p>
 
-<p><img src="http://ctesta.com/img/2017-03-05/three-example-curves.png" alt="" /></p>
+<center>
+<img width="65%" src="http://ctesta.com/img/2017-03-05/three-example-curves.png" />
+</center>
 
 <p>Their existence was considered by Diophantus in the 2nd century a.d. in
 his text Arithmetica. The question he originally posed has been rephrased
@@ -37,7 +48,7 @@ $x,y \in \mathbb Z$ such that
 <p>Most individuals are familiar with the plane conics, the degree
 two nonsingular algebraic curves. Elliptic curves, in some sense,
 are their slightly more complicated, yet seemingly infinitely more subtle,
-older sibling.</p>
+older sibling. This will be realized later through the concept of genus.</p>
 
 <p>Elliptic curves are contemporarily thought of as plane curves,
 however they originally arose in the context of calculating arc-lengths
@@ -58,6 +69,19 @@ as surprising group law for these infinite series.</p>
 <script type="math/tex; mode=display">\int_{\infty}^{x_1} \frac{dx}{y} + \int_{\infty}^{x_2} \frac{dx}{y} =
 \int_{\infty}^{x_3} \frac{dx}{y}.</script>
 
+<p>In 1687 Newton wrote down the majority of Bezout’s Theorem, which
+states that given two irreducible degree curves their intersection
+counting multiplicity has the product of the degrees of the curves.</p>
+
+<center>
+<div style="display: block; margin: auto">
+<img height="35%" width="35%" alt="Point Addition" src="http://ctesta.com/img/2017-03-17/ch2-point-addition.png" />
+<img height="35%" width="35%" alt="Point Multiplication" src="http://ctesta.com/img/2017-03-17/ch2-point-multiplication.png" />
+<br />
+Point Addition and Multiplication
+</div>
+</center>
+
 <p>Elliptic functions, before connecting to elliptic curves,
 were inverted and considered as elliptic integrals by mathematicians such
 as Abel, Gauss, Jacobi, and notably Weierstraß. The motivation for doing
@@ -72,8 +96,145 @@ These are Weierstraß’ elliptic functions</p>
 <script type="math/tex; mode=display">\wp:\mathbb C \to \mathbb C / \Lambda \text{ for some } \Lambda \cong
 \mathbb Z\omega_1 +\mathbb Z\omega_2,</script>
 
-<script type="math/tex; mode=display">\wp(z) = \frac{1}{z^2} + \sum_{\omega \in \Lambda - \{ 0\} } \left( \frac{1}{(z-\omega)^2} -\frac{1}{\omega}^2 \right).</script>
+<script type="math/tex; mode=display">\wp(z \; \omega_1,\omega_2) = \frac{1}{z^2} + \sum_{n^2+m^2 \ne 0} \left( \frac{1}{(z+m\omega_1+n\omega_2)^2} -\frac{1}{\left(m\omega_1+n\omega_2\right)^2} \right)
+,</script>
 
-<ul class="photo-gallery">
-  
+<script type="math/tex; mode=display">\wp(z) = \frac{1}{z^2} + \sum_{\omega \in \Lambda - \{ 0\} } \left( \frac{1}{(z-\omega)^2} -\frac{1}{\omega}^2 \right),</script>
+
+<p>where $\omega_1$ and $\omega_2$ generate the complex lattice
+$\Lambda = { \mathbb Z \omega_1 + \mathbb Z \omega_2 }$, or if
+$\omega_2$ is normalized to 1, simply $\Lambda = \mathbb Z \omega + \mathbb Z$.</p>
+
+<center>
+<div style="display: block; margin: auto">
+<img height="15%" width="15%" alt="Wikipedia Lattice Construction" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Lattice_torsion_points.svg/450px-Lattice_torsion_points.svg.png" />
+<img height="15%" width="15%" alt="Wikipedia Lattice Construction" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Weierstrass_p.svg/150px-Weierstrass_p.svg.png" />
+<img height="15%" width="15%" alt="Wikipedia Lattice Construction" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weierstrass_elliptic_function_P.png/1280px-Weierstrass_elliptic_function_P.png" />
+<br />
+<a href="https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions">Weierstraß' $\wp$ function.</a>
+</div>
+</center>
+
+<p>Indeed, what these mathematicians surrounding the 18th Century had discovered
+is that calculating arc-lengths of ellipses most naturally involved thinking
+about the problem in an algebraically closed field such as the
+complex numbers $\mathbb C$, where the problem is translated to one with
+doubly periodic structure. This structure is isomorphic to that of a torus.
+One way to think of this is by “identifying edges.” If $z$ drifts of the top
+of the fundamental parallelogram, it’s image re-appears on the bottom
+of the parallelogram under a doubly periodic function, and similarly for drifting over the side.
+This is stating that as a Riemann surface an elliptic function have a topology with a single hole,
+like a torus, and that it has genus $g = 1$. This suggests a major separation
+in the theory of elliptic curves from those of conics, since the
+conics are genus zero curves.</p>
+
+<p>Weierstraß discovered that all doubly periodic functions could be expressed
+through his $\wp$ function, and that it followed the following differential
+equation:</p>
+
+<script type="math/tex; mode=display">\wp' (z)^2 = 4 \wp^3 (z) -g_2 \wp (z) - g_3,</script>
+
+<p>where $g_2 = 60G_4$ and $g_3 = 140G_6$ and $G_n$ is Eisenstein’s series given by
+<script type="math/tex">G_n = \sum_{\omega \neq 0} \frac{1}{\omega^n}.</script></p>
+
+<p>Corresponding to this complex doubly periodic structure,
+Weierstraß had found a way to classify the equations of elliptic curves.
+Any degree three nonsingular algebraic plane curve over a field $k$
+can be transformed to Weierstraß form:</p>
+
+<script type="math/tex; mode=display">y^2 = x^3 + ax + b, \text{ provided } \text{characteristic}(k) \neq 2,3,</script>
+
+<script type="math/tex; mode=display">\text{ and always at least } y^2 + a_1 xy + a_3y = x^3 + a_2x^2 + a_4 x + a_6 \text{ even if } \text{characteristic}(k) = 2,3.</script>
+
+<p>Indeed, Elliptic Curves defined over the Complex Numbers $\mathbb C$
+are isomorphic to complex lattices given by $\mathbb C / \Lambda$ for a lattice
+$\Lambda$. Startling connections were born of this fact.</p>
+
+<p>The Eisenstein series are examples of modular forms, which are
+incredibly deep number theoretical objects, described by complex functions which
+satisfy certain invariance properties under their arguments translation
+by particular matrix groups. Elliptic Curves are a seemingly simple class
+of curves, with a natural group law
+arising from Bezout’s theorem
+and Algebra-Geometric arguments, and they are tied into Number Theory in
+profound unanticipated ways.</p>
+
+<p>To a Weierstraß equation is associated two useful invariants:
+the $j$-invariant and the $\Delta$ discriminant. Klein’s $j$-Invariant is
+among other things, a representative of the elliptic curve’s isomorphism
+class over the algebraically closure, and the discriminant is a polynomial
+defined as a product such that when a polynomial has factors with
+multiplicity, that is to say it vanishes, $\Delta = 0$, when the
+curve is singular.</p>
+
+<p>These are found to have the following equations</p>
+
+<script type="math/tex; mode=display">\Delta=g_2^3-27g_3^2,</script>
+
+<script type="math/tex; mode=display">j(\tau) = 1728 \frac{g_2^3}{\Delta}.</script>
+
+<p>In 1922 the Mordell-Weil Theorem was proven, which states that
+all abelian varieties over are finitely generated abelian groups.
+Later in 1984 a conjecture by Mordell was proven by Faltings stating
+that the genus 0 curves over $\mathbb Q$ have either $\emptyset$ or
+infinitely $\infty$ many points, genus 1 curves have $\emptyset$,
+finitely many $\mathbb Q$-points, or $\infty$-ly many.</p>
+
+<p>Ramanujan defined his $\tau$ function by the Fourier series
+expansion of the discriminant $\Delta$.</p>
+
+<script type="math/tex; mode=display">\sum_{n\geq 1}\tau(n)q^n=q\prod_{n\geq 1}(1-q^n)^{24} =\Delta(z),</script>
+
+<script type="math/tex; mode=display">\text{ where } q=\exp(2\pi iz).</script>
+
+<p>Ramanujan was able to conjecture powerful number theoretic congruences on this
+$\tau$ function through the use of Modular Forms. Separately Ramanujan used
+Eisenstein series and other Modular Forms to produce astounding congruences
+describing the partition function $p(n)$.</p>
+
+<script type="math/tex; mode=display">\begin{align}
+\tau(mn) = \tau(m) \tau(n) \text{ if } (m,n) = 1 \text{ i.e. they are relatively prime,} \\
+\tau(p^{r + 1}) = \tau(p)\tau(p^r) - p^{11}\tau(p^{r - 1}), \\
+|\tau(p)| \leq 2p^{11/2} \text{ for primes } p. \\
+\end{align}</script>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{align}
+p(5k+4) & \equiv 0 \pmod 5 \\
+p(7k+5) & \equiv 0 \pmod 7 \\
+p(11k+6) & \equiv 0 \pmod {11}.
+\end{align} %]]></script>
+
+<p>These are some of the most beautiful functions in Mathematics. In 1972, Dyson gave
+an lecture on the Missed Opportunities between Mathematics and Physics. He
+begins with the story of the MacDonald equation for Ramanujan’s Tau Function.</p>
+
+<center>
+<div style="display: block; margin: auto">
+<img width="75%" height="30%" src="http://ctesta.com/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png" />
+</div>
+</center>
+
+<p>In the early 1990s Andrew Wiles established the Modularity Theorem,
+an equivalence between modular forms and the rational structure of
+an elliptic curve $E(\mathbb Q)$ and consequently proved Fermat’s Last Theorem.
+After the 20th Century, Elliptic Curves have found themselves amidst deep
+Number Theory whilst being employed in applications from cryptography to
+engineering. The Birch and Swinnerton-Dyer conjecture remains open,
+and we have yet
+to fully understand the rank of the group $E(\mathbb Q)$. Elliptic Curves
+may have been with us from the very origins of algebra, but we are
+still just beginning to understand their tremendous structure.</p>
+
+<h3 id="sources">Sources</h3>
+
+<ul>
+  <li><a href="https://books.google.com/books?isbn=0387215778">Dale Husemöller : Elliptic Curves</a></li>
+  <li><a href="http://www.math.vt.edu/people/brown/doc/dioellip.pdf">Ezra Brown and Bruce T. Myers : Elliptic Curves from Mordell to Diophantus and Back</a></li>
+  <li><a href="https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964">Freeman Dyson : Missed Opportunities</a></li>
+  <li><a href="http://www.jmilne.org/math/Books/ectext5.pdf">J.S. Milne : Elliptic Curves</a></li>
+  <li><a href="https://books.google.com/books?isbn=0387943250">Joseph H. Silverman : Advanced Topics in the Arithmetic of Elliptic Curves</a></li>
+  <li><a href="https://books.google.com/books?isbn=1475719205">Joseph H. Silverman : Elliptic Curves</a></li>
+  <li><a href="https://books.google.com/books?isbn=3319185888">Silverman and Tate : Rational Points on Elliptic Curves</a></li>
+  <li><a href="https://books.google.com/books?id=zkrUBwAAQBAJ">Tom M. Apostol : Modular Functions and Dirichlet Series in Number Theory</a></li>
 </ul>
