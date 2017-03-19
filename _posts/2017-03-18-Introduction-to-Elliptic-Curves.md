@@ -12,7 +12,7 @@ extra-js:
   - http://ctesta.com/js/2017-03-18-D3js2.js
 ---
 
-### First, An Elliptic Curve Subject Area Wikipedia Link Graph
+### First, An Elliptic Curve Subject Area Wikipedia Hyperlink Graph
 <!-- I learned how to set up the extra-css and extra-js from
 this stackoverflow post:
 https://stackoverflow.com/questions/14113559/how-to-tune-layout-for-a-particular-page-post-in-jekyll
