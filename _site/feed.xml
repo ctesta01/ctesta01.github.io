@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 20:08:45 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 20:08:45 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 20:09:56 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 20:09:56 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -15,6 +15,8 @@
 &lt;!-- I learned how to set up the extra-css and extra-js from
 this stackoverflow post:
 https://stackoverflow.com/questions/14113559/how-to-tune-layout-for-a-particular-page-post-in-jekyll
+I made the SVG responsive following instructions here 
+http://soqr.fr/testsvg/embed-svg-liquid-layout-responsive-web-design.php
 This example was incredibly helpful
 http://bl.ocks.org/MoritzStefaner/1377729
 Symbols were sourced from here:
