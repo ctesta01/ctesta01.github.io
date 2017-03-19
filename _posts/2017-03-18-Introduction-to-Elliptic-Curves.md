@@ -204,6 +204,9 @@ $$ j(\tau) = 1728 \frac{g_2^3}{\Delta}. $$
 <br>
 
 
+The 20th Century saw great progess in Algebraic-Geometric methods and as a
+result an elliptic curve's rational points, denoted $E(\mathbb Q)$, are
+somewhat better understood.
 In 1922 the Mordell-Weil Theorem was proven, which states that
 all abelian varieties over are finitely generated abelian groups.
 Later in 1984 a conjecture by Mordell was proven by Faltings stating
@@ -211,7 +214,8 @@ that the genus 0 curves over $\mathbb Q$ have either $\emptyset$ or
 infinitely $\infty$ many points, genus 1 curves have $\emptyset$,
 finitely many $\mathbb Q$-points, or $\infty$-ly many.
 
-Ramanujan defined his $\tau$ function by the Fourier series
+However, simultaneous progress was being made in the theory of
+Modular Forms. Ramanujan defined his $\tau$ function by the Fourier series
 expansion of the discriminant $\Delta$.
 
 $$\sum_{n\geq 1}\tau(n)q^n=q\prod_{n\geq 1}(1-q^n)^{24} =\Delta(z),$$
@@ -222,7 +226,8 @@ Ramanujan was able to conjecture powerful number theoretic congruences on this
 $\tau$ function through the use of Modular Forms. Separately Ramanujan used
 Eisenstein series and other Modular Forms to produce astounding congruences
 describing the partition function $p(n)$, the function which counts the
-ways a whole number can be partitioned not counting ordering.
+ways a whole number can be partitioned not counting ordering. The following
+have been established as theory.
 
 $$ \begin{align}
 \tau(mn) = \tau(m) \tau(n) \text{ if } (m,n) = 1 \text{ i.e. they are relatively prime,} \\
@@ -237,8 +242,8 @@ p(11k+6) & \equiv 0 \pmod {11}.
 \end{align} $$
 
 These are some of the most beautiful congruences in Number Theory and Mathematics.
-In 1972, Dyson gave a lecture on the Missed Opportunities between Mathematics
-and Physics where he began with the story of the following MacDonald equation for
+In a 1972 lecture by Freeman Dyson on the Missed Opportunities between Mathematics
+and Physics, he begins with the story of the following MacDonald equation for
 Ramanujan's Tau Function.
 
 <center>
