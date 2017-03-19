@@ -228,7 +228,7 @@ ways a whole number can be partitioned not counting ordering. The following
 have been established as theory.
 
 $$ \begin{align}
-\tau(mn) = \tau(m) \tau(n) \text{ if } (m,n) = 1 \text{ i.e. they are relatively prime,} \\
+\tau(mn) = \tau(m) \tau(n) \text{ if } m \text{ and } n \text{ are relatively prime,} \\
 \tau(p^{r + 1}) = \tau(p)\tau(p^r) - p^{11}\tau(p^{r - 1}), \\
 |\tau(p)| \leq 2p^{11/2} \text{ for primes } p. \\
 \end{align} $$
@@ -261,7 +261,7 @@ born out of the discriminant $\Delta$, reaches into the abstract world.
 
 In the early 1990s Andrew Wiles established the Modularity Theorem,
 an equivalence between modular forms and the rational structure of
-an elliptic curve $E(\mathbb Q)$ and consequently proved Fermat's Last Theorem.
+an elliptic curve $E(\mathbb Q)$, and consequently proved Fermat's Last Theorem.
 After the 20th Century, Elliptic Curves have found themselves amidst deep
 Number Theory whilst being employed in applications from cryptography to
 engineering. The Birch and Swinnerton-Dyer conjecture remains open,
