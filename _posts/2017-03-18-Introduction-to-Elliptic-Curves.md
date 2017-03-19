@@ -131,7 +131,7 @@ $\omega_2$ is normalized to 1, simply $\Lambda = \mathbb Z \omega + \mathbb Z$.
 </center>
 
 Indeed, what these mathematicians surrounding the 18th Century had discovered
-is that calculating arc-lengths of ellipses most naturally involved thinking
+is that calculating arc-lengths of ellipses naturally involved thinking
 about the problem in an algebraically closed field such as the
 complex numbers $\mathbb C$, where the problem is translated to one with
 doubly periodic structure. This structure is isomorphic to that of a torus.
@@ -226,8 +226,13 @@ begins with the story of the MacDonald equation for Ramanujan's Tau Function.
 <center>
 <div style="display: block; margin: auto">
 <img width='75%' height='30%' src="{{ site.url }}/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png">
+<br>
+<span class="image-credit">
+Image Credit: <a href="http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman">The Concinnitas Project</a>
+</span>
 </div>
 </center>
+<br>
 
 In the early 1990s Andrew Wiles established the Modularity Theorem,
 an equivalence between modular forms and the rational structure of

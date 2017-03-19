@@ -5,12 +5,12 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 19:56:00 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 19:56:00 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 20:06:30 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 20:06:30 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
-        <title></title>
+        <title>Introduction to the Theory of Elliptic Curves</title>
         <description>&lt;h3 id=&quot;first-an-elliptic-curve-subject-area-wikipedia-link-graph&quot;&gt;First, An Elliptic Curve Subject Area Wikipedia Link Graph&lt;/h3&gt;
 &lt;!-- I learned how to set up the extra-css and extra-js from
 this stackoverflow post:
@@ -129,7 +129,7 @@ $\omega_2$ is normalized to 1, simply $\Lambda = \mathbb Z \omega + \mathbb Z$.&
 &lt;/center&gt;
 
 &lt;p&gt;Indeed, what these mathematicians surrounding the 18th Century had discovered
-is that calculating arc-lengths of ellipses most naturally involved thinking
+is that calculating arc-lengths of ellipses naturally involved thinking
 about the problem in an algebraically closed field such as the
 complex numbers $\mathbb C$, where the problem is translated to one with
 doubly periodic structure. This structure is isomorphic to that of a torus.
@@ -225,8 +225,13 @@ begins with the story of the MacDonald equation for Ramanujan’s Tau Function.&
 &lt;center&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
 &lt;img width=&quot;75%&quot; height=&quot;30%&quot; src=&quot;http://ctesta.com/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png&quot; /&gt;
+&lt;br /&gt;
+&lt;span class=&quot;image-credit&quot;&gt;
+Image Credit: &lt;a href=&quot;http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman&quot;&gt;The Concinnitas Project&lt;/a&gt;
+&lt;/span&gt;
 &lt;/div&gt;
 &lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;In the early 1990s Andrew Wiles established the Modularity Theorem,
 an equivalence between modular forms and the rational structure of
@@ -252,9 +257,13 @@ still just beginning to understand their tremendous structure.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?id=zkrUBwAAQBAJ&quot;&gt;Tom M. Apostol : Modular Functions and Dirichlet Series in Number Theory&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </description>
-        <pubDate>Sun, 19 Mar 2017 19:56:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/2017-03-18-Introduction-to-Elliptic-Curves</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/2017-03-18-Introduction-to-Elliptic-Curves</guid>
+        <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves</guid>
+        
+        <category>elliptic-curves</category>
+        
+        <category>math</category>
         
         
       </item>
