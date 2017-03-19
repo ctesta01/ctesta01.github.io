@@ -27,20 +27,16 @@ var nodeSet = [
   {id: "N24", name: "Classification of Finite Simple Groups", type: "Theorem", hlink: "https://en.wikipedia.org/wiki/Classification_of_finite_simple_groups"}
 ];
 
-var linkSet = [
+var id_links = [
   {sourceId: "N1", linkName: "", targetId: "N2"},
   {sourceId: "N1", linkName: "", targetId: "N3"},
   {sourceId: "N1", linkName: "", targetId: "N4"},
-
   {sourceId: "N2", linkName: "", targetId: "N5"},
   {sourceId: "N2", linkName: "", targetId: "N11"},
-
   {sourceId: "N3", linkName: "", targetId: "N12"},
   {sourceId: "N3", linkName: "", targetId: "N18"},
-
   {sourceId: "N4", linkName: "", targetId: "N9"},
   {sourceId: "N4", linkName: "", targetId: "N20"},
-
   {sourceId: "N5", linkName: "", targetId: "N6"},
   {sourceId: "N5", linkName: "", targetId: "N8"},
   {sourceId: "N5", linkName: "", targetId: "N9"},
@@ -50,35 +46,25 @@ var linkSet = [
   {sourceId: "N5", linkName: "", targetId: "N19"},
   {sourceId: "N5", linkName: "", targetId: "N20"},
   {sourceId: "N5", linkName: "", targetId: "N21"},
-
   {sourceId: "N6", linkName: "", targetId: "N1"},
   {sourceId: "N6", linkName: "", targetId: "N8"},
   {sourceId: "N6", linkName: "", targetId: "N9"},
   {sourceId: "N6", linkName: "", targetId: "N10"},
-
   {sourceId: "N7", linkName: "", targetId: "N8"},
   {sourceId: "N7", linkName: "", targetId: "N9"},
   {sourceId: "N7", linkName: "", targetId: "N14"},
   {sourceId: "N7", linkName: "", targetId: "N15"},
-
   {sourceId: "N8", linkName: "", targetId: "N9"},
   {sourceId: "N8", linkName: "", targetId: "N13"},
   {sourceId: "N8", linkName: "", targetId: "N17"},
   {sourceId: "N8", linkName: "", targetId: "N17"},
-
   {sourceId: "N10", linkName: "", targetId: "N13"},
   {sourceId: "N10", linkName: "", targetId: "N17"},
-
   {sourceId: "N11", linkName: "", targetId: "N12"},
-
   {sourceId: "N12", linkName: "", targetId: "N20"},
-
   {sourceId: "N14", linkName: "", targetId: "N22"},
-
   {sourceId: "N15", linkName: "", targetId: "N24"},
-
   {sourceId: "N17", linkName: "", targetId: "N21"},
-
   {sourceId: "N18", linkName: "", targetId: "N21"}
 ];
 

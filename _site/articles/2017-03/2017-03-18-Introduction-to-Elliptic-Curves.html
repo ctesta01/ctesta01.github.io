@@ -1,0 +1,79 @@
+<h3 id="first-an-elliptic-curve-subject-area-wikipedia-link-graph">First, An Elliptic Curve Subject Area Wikipedia Link Graph</h3>
+<!-- I learned how to set up the extra-css and extra-js from
+this stackoverflow post:
+https://stackoverflow.com/questions/14113559/how-to-tune-layout-for-a-particular-page-post-in-jekyll
+This example was incredibly helpful
+http://bl.ocks.org/MoritzStefaner/1377729
+Symbols were sourced from here:
+http://www.dionysia.org/html/entities/symbols.html
+https://en.wikipedia.org/wiki/Blackboard_bold
+-->
+<svg width="1200" height="900"></svg>
+
+<!--  
+Sources:
+- Fluid Flow: https://web.stanford.edu/~cantwell/Difficult_to_find_publications/Elliptic_Curves_and_3D_flow_patterns_Cantwell_2000.pdf
+- Sphere Packing: http://www.jmilne.org/math/Books/ectext5.pdf
+- String Theory: Husemöller's Text on Elliptic Curves
+
+-->
+<p>Elliptic curves are a subject, simple to construct and ubiquitous, that have found
+themselves at the forefront of Number Theory and Algebraic Geometry research.
+The subject has roots in some of the oldest Mathematics, and its modern
+connections tie it to an incredible span of research including
+fluid flow, sphere packing, modular forms, and string theory. Elliptic curves
+are the degree three nonsingular algebraic plane curves with at least one
+rational point.</p>
+
+<p><img src="http://ctesta.com/img/2017-03-05/three-example-curves.png" alt="" /></p>
+
+<p>Their existence was considered by Diophantus in the 2nd century a.d. in
+his text Arithmetica. The question he originally posed has been rephrased
+in modern language: “To divide a given number into two numbers such that their
+product is a cube minus its side.” That is, given $a \in \mathbb N$ find
+$x,y \in \mathbb Z$ such that
+<script type="math/tex">y(a-y) = x^3 - x.</script></p>
+
+<p>Most individuals are familiar with the plane conics, the degree
+two nonsingular algebraic curves. Elliptic curves, in some sense,
+are their slightly more complicated, yet seemingly infinitely more subtle,
+older sibling.</p>
+
+<p>Elliptic curves are contemporarily thought of as plane curves,
+however they originally arose in the context of calculating arc-lengths
+of ellipses. It is these arc-lengths
+of ellipses which in part created elliptic curve’s early ubiquity.
+These are the elliptic functions.</p>
+
+<script type="math/tex; mode=display">\int \frac{d\theta}{\sqrt{C + \cos \theta}} =
+- \int \frac{dx}{\sqrt{(1-x^2)(C+x)}} =
+\int \frac{dx}{y}, \text{ where } y^2 = (1-x^2)(C+x).</script>
+
+<p>Apollonius first considered calculating the arc-length of an ellipse
+around 200 b.c. and found that he was unable to do it. This problem
+defied progress until the 17th century when Euler and others found
+infinite series expressions for arc-lengths. Further, Euler discovered
+as surprising group law for these infinite series.</p>
+
+<script type="math/tex; mode=display">\int_{\infty}^{x_1} \frac{dx}{y} + \int_{\infty}^{x_2} \frac{dx}{y} =
+\int_{\infty}^{x_3} \frac{dx}{y}.</script>
+
+<p>Elliptic functions, before connecting to elliptic curves,
+were inverted and considered as elliptic integrals by mathematicians such
+as Abel, Gauss, Jacobi, and notably Weierstraß. The motivation for doing
+so is that the inverse of $\int \frac{dx}{\sqrt{1-x^2}} = \arcsin(x)$
+is significantly more friendly a function.</p>
+
+<p>While it may be that Diophantus considered solutions to the equation
+describing an elliptic curve, their modern formulation rests on their
+analytic construction as the doubly periodic functions over $\mathbb C$.
+These are Weierstraß’ elliptic functions</p>
+
+<script type="math/tex; mode=display">\wp:\mathbb C \to \mathbb C / \Lambda \text{ for some } \Lambda \cong
+\mathbb Z\omega_1 +\mathbb Z\omega_2,</script>
+
+<script type="math/tex; mode=display">\wp(z) = \frac{1}{z^2} + \sum_{\omega \in \Lambda - \{ 0\} } \left( \frac{1}{(z-\omega)^2} -\frac{1}{\omega}^2 \right).</script>
+
+<ul class="photo-gallery">
+  
+</ul>
