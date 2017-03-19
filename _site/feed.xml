@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 20:29:59 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 20:29:59 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 20:43:06 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 20:43:06 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -189,6 +189,17 @@ curve is singular.&lt;/p&gt;
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;\Delta=g_2^3-27g_3^2,&lt;/script&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;j(\tau) = 1728 \frac{g_2^3}{\Delta}.&lt;/script&gt;
+
+&lt;center&gt;
+&lt;div style=&quot;display: block; margin: auto&quot;&gt;
+&lt;img width=&quot;50%&quot; height=&quot;30%&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/3/37/KleinInvariantJ.jpg&quot; /&gt;
+&lt;br /&gt;
+&lt;span class=&quot;image-credit&quot;&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/J-invariant&quot;&gt;The $j$-Invariant as a complex function&lt;/a&gt;
+&lt;/span&gt;
+&lt;/div&gt;
+&lt;/center&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;In 1922 the Mordell-Weil Theorem was proven, which states that
 all abelian varieties over are finitely generated abelian groups.

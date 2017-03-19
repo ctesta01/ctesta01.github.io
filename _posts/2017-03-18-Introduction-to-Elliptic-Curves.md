@@ -192,6 +192,18 @@ $$ \Delta=g_2^3-27g_3^2, $$
 
 $$ j(\tau) = 1728 \frac{g_2^3}{\Delta}. $$
 
+<center>
+<div style="display: block; margin: auto">
+<img width='50%' height='30%' src="https://upload.wikimedia.org/wikipedia/commons/3/37/KleinInvariantJ.jpg">
+<br>
+<span class="image-credit">
+<a href="https://en.wikipedia.org/wiki/J-invariant">The $j$-Invariant as a complex function</a>
+</span>
+</div>
+</center>
+<br>
+
+
 In 1922 the Mordell-Weil Theorem was proven, which states that
 all abelian varieties over are finitely generated abelian groups.
 Later in 1984 a conjecture by Mordell was proven by Faltings stating
