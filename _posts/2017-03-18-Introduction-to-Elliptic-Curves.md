@@ -209,7 +209,8 @@ $$\text{ where } q=\exp(2\pi iz).$$
 Ramanujan was able to conjecture powerful number theoretic congruences on this
 $\tau$ function through the use of Modular Forms. Separately Ramanujan used
 Eisenstein series and other Modular Forms to produce astounding congruences
-describing the partition function $p(n)$.
+describing the partition function $p(n)$, the function which counts the
+ways a whole number can be partitioned not counting ordering.
 
 $$ \begin{align}
 \tau(mn) = \tau(m) \tau(n) \text{ if } (m,n) = 1 \text{ i.e. they are relatively prime,} \\
@@ -223,9 +224,10 @@ p(7k+5) & \equiv 0 \pmod 7 \\
 p(11k+6) & \equiv 0 \pmod {11}.
 \end{align} $$
 
-These are some of the most beautiful functions in Mathematics. In 1972, Dyson gave
-an lecture on the Missed Opportunities between Mathematics and Physics. He
-begins with the story of the MacDonald equation for Ramanujan's Tau Function.
+These are some of the most beautiful congruences in Number Theory and Mathematics.
+In 1972, Dyson gave a lecture on the Missed Opportunities between Mathematics
+and Physics where he began with the story of the following MacDonald equation for
+Ramanujan's Tau Function.
 
 <center>
 <div style="display: block; margin: auto">
@@ -237,6 +239,10 @@ Image Credit: <a href="http://www.concinnitasproject.org/portfolio/gallery.php?i
 </div>
 </center>
 <br>
+
+The MacDonald Equation is an astonishing formula, but to have also found
+connections to physics highlights the depth to which Ramanujan's $\tau$-function,
+born out of the discriminant $\Delta$, reaches into the abstract world.
 
 In the early 1990s Andrew Wiles established the Modularity Theorem,
 an equivalence between modular forms and the rational structure of
