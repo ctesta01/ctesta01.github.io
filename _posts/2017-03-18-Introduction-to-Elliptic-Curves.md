@@ -197,7 +197,7 @@ $$ j(\tau) = 1728 \frac{g_2^3}{\Delta}. $$
 <img width='50%' height='30%' src="https://upload.wikimedia.org/wikipedia/commons/3/37/KleinInvariantJ.jpg">
 <br>
 <span class="image-credit">
-<a href="https://en.wikipedia.org/wiki/J-invariant">The $j$-Invariant as a complex function</a>
+<a href="https://en.wikipedia.org/wiki/J-invariant">The $j$-Invariant as a modular form</a>
 </span>
 </div>
 </center>
