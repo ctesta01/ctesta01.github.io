@@ -148,7 +148,7 @@ in the theory of elliptic curves from those of conics, since the
 conics are genus zero curves.
 
 Weierstraß discovered that all doubly periodic functions could be expressed
-through his $\wp$ function, and that it followed the following differential
+through his $\wp$ function, and that it followed the differential
 equation:
 
 $$ \wp' (z)^2 = 4 \wp^3 (z) -g_2 \wp (z) - g_3,$$
