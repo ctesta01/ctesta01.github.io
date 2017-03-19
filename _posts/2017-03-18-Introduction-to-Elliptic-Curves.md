@@ -6,10 +6,10 @@ modified: ""
 tags: [elliptic-curves, math]
 comments: true
 extra-css:
-  - {{ site.url }}/css/2017-03-18-D3js.css
+  - http://ctesta.com/css/2017-03-18-D3js.css
 extra-js:
   - http://mbostock.github.com/d3/d3.js?2.6.0
-  - {{ site.url }}/js/2017-03-18-D3js2.js
+  - http://ctesta.com/js/2017-03-18-D3js2.js
 ---
 
 ### First, An Elliptic Curve Subject Area Wikipedia Link Graph
