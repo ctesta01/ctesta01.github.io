@@ -88,7 +88,9 @@ $$ \int_{\infty}^{x_1} \frac{dx}{y} + \int_{\infty}^{x_2} \frac{dx}{y} =
 
 In 1687 Newton wrote down the majority of Bezout's Theorem, which
 states that given two irreducible degree curves their intersection
-counting multiplicity has the product of the degrees of the curves.
+counting multiplicity has the product of the degrees of the curves. This gave
+algebraic motivation for what had already been observed: there is group structure
+to the rational points of an elliptic curve.
 
 <center>
 <div style="display: block; margin: auto">

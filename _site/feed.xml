@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 19 Mar 2017 20:12:36 +0000</pubDate>
-    <lastBuildDate>Sun, 19 Mar 2017 20:12:36 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Mar 2017 20:21:54 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Mar 2017 20:21:54 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -86,7 +86,9 @@ as surprising group law for these infinite series.&lt;/p&gt;
 
 &lt;p&gt;In 1687 Newton wrote down the majority of Bezout’s Theorem, which
 states that given two irreducible degree curves their intersection
-counting multiplicity has the product of the degrees of the curves.&lt;/p&gt;
+counting multiplicity has the product of the degrees of the curves. This gave
+algebraic motivation for what had already been observed: there is group structure
+to the rational points of an elliptic curve.&lt;/p&gt;
 
 &lt;center&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
