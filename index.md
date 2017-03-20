@@ -14,8 +14,10 @@ references to many others fascinating work. Enjoy.
 - [Data Science Resources](http://ctesta.com/articles/2017-03/Data-Science-Resources)
 - [Coding in Luxury](http://ctesta.com/articles/2017-03/Coding-in-Luxury)
 
-## My Projects 
+## My Projects
 - [Introduction to the Theory of Elliptic Curves](http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves)
+- [QualtricsTools : An R Web App](http://ctesta.com/articles/2017-03/Qualtrics-Tools)
+- [YouTube Clipper : A Simple Static Site](http://ctesta.com/articles/2017-03/YouTube-Clipper)
 
 ## Casually Interesting
 - [The Buddhabrot Fractal in 4k](http://ctesta.com/articles/2017-03/Buddhabrot.html)

@@ -5,17 +5,17 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 00:41:15 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 00:41:15 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 00:44:47 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 00:44:47 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>YouTube Clipper</title>
-        <description>&lt;center&gt;
+        <description>&lt;center&gt;&lt;a href=&quot;https://ctesta01.github.io/youtube-clipper/&quot;&gt;
 &lt;img src=&quot;http://ctesta.com/img/2017-03-17/YouTube-Clipper.png&quot; width=&quot;90%&quot; /&gt;
 &lt;br /&gt;
-&lt;span class=&quot;image-credit&quot;&gt;&lt;a href=&quot;https://ctesta01.github.io/youtube-clipper/&quot;&gt;YouTube Clipper is a simple static site
-to create trimmed embed codes for YouTube videos.&lt;/a&gt;&lt;/span&gt;
+&lt;span class=&quot;image-credit&quot;&gt;YouTube Clipper is a simple static site
+to create trimmed embed codes for YouTube videos.&lt;/span&gt;&lt;/a&gt;
 &lt;/center&gt;
 
 &lt;p&gt;This is a project born out of helping my grandmother embed YouTube videos
@@ -41,11 +41,11 @@ This is a simple solution to a simple problem.&lt;/p&gt;
     
       <item>
         <title>QualtricsTools : Automated Survey Processing</title>
-        <description>&lt;center&gt;
+        <description>&lt;p&gt;&amp;lt;center&lt;a href=&quot;https://github.com/ctesta01/QualtricsTools&quot;&gt;&amp;gt;
 &lt;img src=&quot;http://ctesta.com/img/2017-03-17/QualtricsTools.png&quot; width=&quot;90%&quot; /&gt;
 &lt;br /&gt;
-&lt;span class=&quot;image-credit&quot;&gt;&lt;a href=&quot;https://github.com/ctesta01/QualtricsTools&quot;&gt;QualtricsTools, an R web-app&lt;/a&gt;&lt;/span&gt;
-&lt;/center&gt;
+&lt;span class=&quot;image-credit&quot;&gt;QualtricsTools, an R web-app&lt;/span&gt;&lt;/a&gt;
+&amp;lt;/center&amp;gt;&lt;/p&gt;
 
 &lt;p&gt;QualtricsTools is an application, &lt;a href=&quot;https://github.com/ctesta01/QualtricsTools&quot;&gt;open source and on GitHub&lt;/a&gt;
 which allows users to upload a Qualtrics JSON QSF Survey File, and response data

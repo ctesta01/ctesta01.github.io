@@ -7,11 +7,11 @@ tags: [javascript, web-app]
 comments: true
 ---
 
-<center>
+<center><a href="https://ctesta01.github.io/youtube-clipper/">
 <img src="http://ctesta.com/img/2017-03-17/YouTube-Clipper.png" width="90%">
 <br>
-<span class='image-credit'><a href="https://ctesta01.github.io/youtube-clipper/">YouTube Clipper is a simple static site
-to create trimmed embed codes for YouTube videos.</a></span>
+<span class='image-credit'>YouTube Clipper is a simple static site
+to create trimmed embed codes for YouTube videos.</span></a>
 </center>
 
 This is a project born out of helping my grandmother embed YouTube videos

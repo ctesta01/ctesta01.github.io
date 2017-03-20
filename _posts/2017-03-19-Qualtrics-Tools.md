@@ -7,10 +7,10 @@ tags: [R, web-app]
 comments: true
 ---
 
-<center>
+<center<a href="https://github.com/ctesta01/QualtricsTools">>
 <img src="{{ site.url }}/img/2017-03-17/QualtricsTools.png" width="90%">
 <br>
-<span class='image-credit'><a href="https://github.com/ctesta01/QualtricsTools">QualtricsTools, an R web-app</a></span>
+<span class='image-credit'>QualtricsTools, an R web-app</span></a>
 </center>
 
 QualtricsTools is an application, [open source and on GitHub](https://github.com/ctesta01/QualtricsTools)
