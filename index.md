@@ -9,7 +9,7 @@ image:
 # Hello, and welcome to my blog.
 
 This is a collection of posts, ideas, and creations of mine, as well as
-references to many others fascinating work. Enjoy.
+references to many others' fascinating work. Enjoy.
 
 ## Resources
 - [Mathematics Resources](http://ctesta.com/articles/2017-03/Math-Resources)
