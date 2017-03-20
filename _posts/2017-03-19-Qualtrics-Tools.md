@@ -8,7 +8,7 @@ comments: true
 image: http://ctesta.com/img/2017-03-17/QualtricsTools.png
 ---
 
-<center<a href="https://github.com/ctesta01/QualtricsTools">>
+<center><a href="https://github.com/ctesta01/QualtricsTools">
 <img src="{{ site.url }}/img/2017-03-17/QualtricsTools.png" width="90%">
 <br>
 <span class='image-credit'>QualtricsTools, an R web-app</span></a>
