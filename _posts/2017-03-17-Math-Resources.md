@@ -76,6 +76,7 @@ can be free, perhaps many more will be able to appreciate the beauty of mathemat
 It is my hope that by aggregating this content and material, the barrier of
 entry into mathematics is (perhaps by some $\epsilon > 0$) slightly lowered.
 
+- [Open Textbook Library](https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7)
 - [The Best Lecture Notes from Math.StackExchange](https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles)
 - [Efnet's Recommended Math Books](http://www.efnet-math.org/w/Book_Recommendations)
 - [University of Chicago's Undergrad Math Bibliography](https://github.com/ystael/chicago-ug-math-bib)

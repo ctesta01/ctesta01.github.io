@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 01:06:35 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 01:06:35 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 01:11:03 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 01:11:03 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -446,6 +446,7 @@ can be free, perhaps many more will be able to appreciate the beauty of mathemat
 entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lowered.&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.umn.edu/opentextbooks/SearchResults.aspx?subjectAreaId=7&quot;&gt;Open Textbook Library&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles&quot;&gt;The Best Lecture Notes from Math.StackExchange&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.efnet-math.org/w/Book_Recommendations&quot;&gt;Efnet’s Recommended Math Books&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/ystael/chicago-ug-math-bib&quot;&gt;University of Chicago’s Undergrad Math Bibliography&lt;/a&gt;&lt;/li&gt;
