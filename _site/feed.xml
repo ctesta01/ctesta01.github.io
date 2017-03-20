@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 03:42:07 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 03:42:07 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 04:41:39 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 04:41:39 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -254,7 +254,7 @@ the $j$-invariant and the $\Delta$ discriminant. Klein’s $j$-Invariant is
 among other things, a representative of the elliptic curve’s isomorphism
 class over the algebraically closure, and the discriminant is a polynomial
 defined as a product such that when a polynomial has factors with
-multiplicity, that is to say it vanishes, $\Delta = 0$, when the
+multiplicity it vanishes, that is to say $\Delta = 0$ when the
 curve is singular.&lt;/p&gt;
 
 &lt;p&gt;These are found to have the following equations&lt;/p&gt;
