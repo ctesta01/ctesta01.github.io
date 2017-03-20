@@ -5,6 +5,7 @@ excerpt: ""
 modified: ""
 tags: [javascript, web-app]
 comments: true
+image: http://ctesta.com/img/2017-03-17/YouTube-Clipper.png
 ---
 
 <center><a href="https://ctesta01.github.io/youtube-clipper/">

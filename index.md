@@ -2,6 +2,8 @@
 layout: page
 permalink: /
 title: Christian Testa | A Blog
+image:
+  - http://ctesta.com/img/2017-03-17/about-me.jpg
 ---
 
 # Hello, and welcome to my blog.
