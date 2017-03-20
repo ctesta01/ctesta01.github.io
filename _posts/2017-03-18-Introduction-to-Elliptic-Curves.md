@@ -202,7 +202,7 @@ $$ j(\tau) = 1728 \frac{g_2^3}{\Delta}. $$
 <br>
 
 
-The 20th Century saw great progess in Algebraic-Geometric methods and as a
+The 20th Century saw great progess in Algebraic-Geometry and as a
 result an elliptic curve's rational points, denoted $E(\mathbb Q)$, are
 somewhat better understood.
 In 1922 the Mordell-Weil Theorem was proven, which states that
