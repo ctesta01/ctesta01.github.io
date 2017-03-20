@@ -5,9 +5,59 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 00:14:11 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 00:14:11 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 00:40:40 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 00:40:40 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>YouTube Clipper</title>
+        <description>&lt;center&gt;
+&lt;img src=&quot;http://ctesta.com/img/2017-03-17/YouTube-Clipper.png&quot; width=&quot;90%&quot; /&gt;
+&lt;br /&gt;
+&lt;span class=&quot;image-credit&quot;&gt;&lt;a href=&quot;https://ctesta01.github.io/youtube-clipper/&quot;&gt;YouTube Clipper is a simple static site
+to create trimmed embed codes for YouTube videos.&lt;/a&gt;&lt;/span&gt;
+&lt;/center&gt;
+
+&lt;p&gt;This is a project born out of helping my grandmother embed YouTube videos
+into her Geology lectures. Trimming YouTube videos is an ability available
+in the YouTube API, but not easily discovered in the traditional interface.
+This is a simple solution to a simple problem.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ctesta01/youtube-clipper&quot;&gt;GitHub for YouTube Clipper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ctesta01.github.io/youtube-clipper&quot;&gt;http://ctesta01.github.io/youtube-clipper/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://ctesta.com/articles/2017-03/YouTube-Clipper</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/YouTube-Clipper</guid>
+        
+        <category>R</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>QualtricsTools : Automated Survey Processing</title>
+        <description>&lt;center&gt;
+&lt;img src=&quot;http://ctesta.com/img/2017-03-17/QualtricsTools.png&quot; width=&quot;90%&quot; /&gt;
+&lt;br /&gt;
+&lt;span class=&quot;image-credit&quot;&gt;&lt;a href=&quot;https://github.com/ctesta01/QualtricsTools&quot;&gt;QualtricsTools, an R web-app&lt;/a&gt;&lt;/span&gt;
+&lt;/center&gt;
+
+&lt;p&gt;QualtricsTools is an application, &lt;a href=&quot;https://github.com/ctesta01/QualtricsTools&quot;&gt;open source and on GitHub&lt;/a&gt;
+which allows users to upload a Qualtrics JSON QSF Survey File, and response data
+in CSV format and automatically calculate tables and frequencies custom to the survey’s
+questions types, format, and responses. Check out the GitHub project for more information.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
+        <link>http://ctesta.com/articles/2017-03/Qualtrics-Tools</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Qualtrics-Tools</guid>
+        
+        <category>R</category>
+        
+        
+      </item>
     
       <item>
         <title>Buddhabrot Fractal</title>

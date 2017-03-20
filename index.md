@@ -14,7 +14,7 @@ references to many others fascinating work. Enjoy.
 - [Data Science Resources](http://ctesta.com/articles/2017-03/Data-Science-Resources)
 - [Coding in Luxury](http://ctesta.com/articles/2017-03/Coding-in-Luxury)
 
-## Writing
+## My Projects 
 - [Introduction to the Theory of Elliptic Curves](http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves)
 
 ## Casually Interesting
