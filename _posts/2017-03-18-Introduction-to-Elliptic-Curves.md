@@ -244,14 +244,14 @@ In a 1972 lecture by Freeman Dyson on the *Missed Opportunities* between Mathema
 and Physics, he begins with the story of the following MacDonald equation for
 Ramanujan's Tau Function.
 
-<center>
+<center><a class="info" href="http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman">
 <div style="display: block; margin: auto">
 <img width='75%' height='30%' src="{{ site.url }}/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png">
 <br>
 <span class="image-credit">
-Image Credit: <a class="info" href="http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman">The Concinnitas Project</a>
+Image Credit: The Concinnitas Project
 </span>
-</div>
+</div></a>
 </center>
 <br>
 
