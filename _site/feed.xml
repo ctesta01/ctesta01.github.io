@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 00:40:40 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 00:40:40 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 00:41:15 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 00:41:15 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -32,7 +32,9 @@ This is a simple solution to a simple problem.&lt;/p&gt;
         <link>http://ctesta.com/articles/2017-03/YouTube-Clipper</link>
         <guid isPermaLink="true">http://ctesta.com/articles/2017-03/YouTube-Clipper</guid>
         
-        <category>R</category>
+        <category>javascript</category>
+        
+        <category>web-app</category>
         
         
       </item>
@@ -55,6 +57,8 @@ questions types, format, and responses. Check out the GitHub project for more in
         <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Qualtrics-Tools</guid>
         
         <category>R</category>
+        
+        <category>web-app</category>
         
         
       </item>

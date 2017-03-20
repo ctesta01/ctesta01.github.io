@@ -3,7 +3,7 @@ layout: post
 title: "YouTube Clipper"
 excerpt: ""
 modified: ""
-tags: [R]
+tags: [javascript, web-app]
 comments: true
 ---
 
