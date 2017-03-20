@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 00:52:55 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 00:52:55 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 00:57:22 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 00:57:22 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -608,97 +608,6 @@ functionality I’m looking for in packages.&lt;/p&gt;
         <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Coding-in-Luxury</guid>
         
         <category>coding</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Introduction to Elliptic Curves</title>
-        <description>&lt;p&gt;Elliptic curves are degree three nonsingular plane curves with at least one rational point.
-In some sense, that makes them like &quot;slightly more complicated conics.&quot; Elliptic curves
-are studied in many contexts, including Number Theory, Diophantine Equations, Complex Analysis,
-and are applied to subjects like cryptography, lattice packing, and are even connected to string
-theory through fibrations of the K3 surface. &lt;/p&gt;
-
-&lt;h2&gt;Three Examples&lt;/h2&gt;
-&lt;center&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/three-example-curves.png?raw=true&quot; width=&quot;800&quot; /&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-
-&lt;p&gt;These are just three examples, and it will be useful to think of elliptic curves abstractly as those cubics which are nonsingular with at least one point. To require that they are nonsingular is equivalent to requiring that no point is singular, that is there is no &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;P \in E&lt;/script&gt;&lt;/span&gt; such that all
-derivatives vanish. That means that an elliptic curve could never look like the following:&lt;/p&gt;
-&lt;h2&gt;Singular Curves&lt;/h2&gt;
-&lt;center&gt;
-&lt;figure&gt;
-  &lt;img src=&quot;https://github.com/ctesta01/ctesta01.github.io/blob/master/img/2017-03-05/singular-curves.png?raw=true&quot; width=&quot;600&quot; /&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;p&gt;None of these are elliptic curves, because they are singular. In fact, the last was never in the running, since it isn’t even a cubic equation.&lt;/p&gt;
-
-&lt;h2&gt;Projective and Affine Plane Curves&lt;/h2&gt;
-&lt;p&gt;There are many different ways of considering an elliptic curve. Most often they are depicted in the affine or cartesian plane, but they also exist in projective space. To construct the projective plane, we identify the lines through the origin in 3-dimensional affine or Euclidean space (&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\mathbb A^2&lt;/script&gt;&lt;/span&gt;) as the points of projective 2-dimensional space &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\mathbb P^2&lt;/script&gt;&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;We denote the points of the projective plane as &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;(x:y:z)&lt;/script&gt;&lt;/span&gt; since it is only the ratio between these points which identifies the point. If we consider a
-cubic nonsingular curve, we immediately find that it must be homogenous
-in its terms in order to be well-defined as a polynomial of variables
-in &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\mathbb P^2&lt;/script&gt;&lt;/span&gt;. We will denote these variables by capital &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;X, Y&lt;/script&gt;&lt;/span&gt; and &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;Z&lt;/script&gt;&lt;/span&gt;.&lt;/p&gt;
-&lt;p&gt;It is important to distinguish between the projective plane and the affine plane, but there’s nothing stopping us from visualizing what the rays satisfying an elliptic curve might look like in 3-dimensional space. This forms a surface in &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;\mathbb R^3&lt;/script&gt;&lt;/span&gt;.&lt;/p&gt;
-&lt;center&gt;
-&lt;div style=&quot;overflow-x:auto;&quot;&gt;
-
-&lt;table width=&quot;100%&quot; style=&quot;padding:0px;&quot;&gt;
-&lt;tr&gt;
-&lt;td&gt;
-&lt;center&gt;
-&lt;figure&gt;
-&lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b_blue.png?raw=true&quot; alt=&quot;&quot; /&gt;
-&lt;figcaption&gt; Affine Curve &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; y^2 + y = x^3 - x + 1 &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;/td&gt;
-&lt;td&gt;
-&lt;center&gt;
-&lt;figure&gt;
-&lt;img src=&quot;https://github.com/ctesta01/thesis-blog/blob/master/images/92b_spinning.gif?raw=true&quot; alt=&quot;&quot; /&gt;
-&lt;figcaption&gt;Projective with Affine Highlighted &lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt; Y^2Z = X^3 - X^2Z + Z^3  &lt;/script&gt;&lt;/span&gt;&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;/center&gt;
-&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/table&gt;
-&lt;/div&gt;
-&lt;/center&gt;
-&lt;h2&gt;So What Are They Good For?&lt;/h2&gt;
-&lt;p&gt;Elliptic Curves are of significance primarily to number theorists, and have had a major impact on problems like fast integer factorization and Fermat’s Last Theorem. Elliptic curve cryptography has been one of the most popular public key cryptography systems from 2004 to now (2017), and was originally suggested in the 1980s. Further, understanding their rational points is of such significance that for proving the Birch-Swinnerton-Dyer conjecture which relates the analytic rank to the algebraic rank one can win $&lt;span class=&quot;math&quot;&gt;&lt;script type=&quot;math/tex&quot;&gt;10^6&lt;/script&gt;&lt;/span&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lenstra_elliptic_curve_factorization&quot;&gt;Lenstra’s Elliptic Curve Factorization Algorithm&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Elliptic_curve_cryptography&quot;&gt;Elliptic Curve Cryptography&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Modularity_theorem&quot;&gt;The Modularity Theorem&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture&quot;&gt;The Birch and Swinnerton-Dyer Conjecture&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Where To From Here?&lt;/h2&gt;
-&lt;p&gt;At the Second International Congress in 1900 the incredible mathematician &lt;a href=&quot;https://en.wikipedia.org/wiki/David_Hilbert&quot;&gt;David Hilbert&lt;/a&gt; presented 10 of &lt;a href=&quot;http://mathworld.wolfram.com/HilbertsProblems.html&quot;&gt;23 problems&lt;/a&gt; that were then unsolved. The tenth of these was to find
-a general algorithm deciding the solvability of an arbitrary Diophantine equation. Matiyasevich’s Theorem from 1970 yielded the discovery that no such algorithm can exist. This certainly makes finding and describing the complete solution set of a Diophantine problem more difficult. Progress in Algebraic-Geometry and the proof of Fermat’s Last Theorem make Diophantine Equations an exciting subject, and the rational points on elliptic curves
-are one of many mysterious behaviors to explore within this subject.&lt;/p&gt;
-&lt;h2&gt;Want to Learn More?&lt;/h2&gt;
-&lt;p&gt;Here are some references that I particularly enjoy.
-&lt;ul&gt;
-&lt;li&gt; J.S. Milne&#39;s Elliptic Curves&lt;/li&gt;
-&lt;li&gt; Silverman and Tate&#39;s Rational Points on Elliptic Curves &lt;/li&gt;
-&lt;li&gt; Silverman&#39;s The Arithmetic of Elliptic Curves &amp;lt;/li
-&lt;li&gt; Silverman&#39;s Advanced Topics in the Arithmetic of Elliptic Curves &lt;/li&gt;
-&lt;li&gt; Koblitz&#39; Introduction to Elliptic Curves and Modular forms &lt;/li&gt;
-&lt;li&gt; Huseöller&#39;s Elliptic Curves &lt;/li&gt;
-&lt;/li&gt;&lt;/ul&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sun, 05 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Intro-to-Elliptic-Curves</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Intro-to-Elliptic-Curves</guid>
-        
-        <category>math</category>
-        
-        <category>elliptic-curves</category>
         
         
       </item>

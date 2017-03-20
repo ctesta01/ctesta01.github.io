@@ -5,7 +5,8 @@ excerpt: ""
 modified: ""
 tags: [R, web-app]
 comments: true
-image: http://ctesta.com/img/2017-03-17/QualtricsTools.png
+image:
+- http://ctesta.com/img/37a%20logo.png
 ---
 
 <center><a href="https://github.com/ctesta01/QualtricsTools">
