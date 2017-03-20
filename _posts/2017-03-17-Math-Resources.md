@@ -36,6 +36,7 @@ to find others to engage with mathematics together.
 - [Math Reddit](https://reddit.com/r/math)
 - [Math.StackExchange](https://math.stackexchange.com/)
 - [MathOverflow](https://mathoverflow.net/)
+- [Numberphile Videos](https://www.youtube.com/user/numberphile)
 
 ## Online Articles, Discussions, and Places of Wonder
 
@@ -44,7 +45,6 @@ I recommend losing yourself in them.
 
 - [Quanta Magazine's Math Section](https://www.quantamagazine.org/tag/mathematics/)
 - [Math.StackExchange ordered by Votes](https://math.stackexchange.com/questions?sort=votes)
-- [The Best Lecture Notes from Math.StackExchange](https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles)
 - [MathOverflow sorted by Votes](https://mathoverflow.net/questions?sort=votes)
 - [Elementary Short and Useful Proofs from MathOverflow](https://mathoverflow.net/questions/60457/elementaryshortuseful)
 - Wikipedia
@@ -76,6 +76,7 @@ can be free, perhaps many more will be able to appreciate the beauty of mathemat
 It is my hope that by aggregating this content and material, the barrier of
 entry into mathematics is (perhaps by some $\epsilon > 0$) slightly lowered.
 
+- [The Best Lecture Notes from Math.StackExchange](https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles)
 - [Efnet's Recommended Math Books](http://www.efnet-math.org/w/Book_Recommendations)
 - [University of Chicago's Undergrad Math Bibliography](https://github.com/ystael/chicago-ug-math-bib)
 - [Math Reddit's Video Lectures](https://www.reddit.com/r/math/comments/da36n/what_is_the_best_way_to_learn_more_math/)

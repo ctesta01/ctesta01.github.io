@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://ctesta.com/</link>
     <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 00:57:22 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 00:57:22 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 01:06:35 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 01:06:35 +0000</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -397,6 +397,7 @@ to find others to engage with mathematics together.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://reddit.com/r/math&quot;&gt;Math Reddit&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://math.stackexchange.com/&quot;&gt;Math.StackExchange&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mathoverflow.net/&quot;&gt;MathOverflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/numberphile&quot;&gt;Numberphile Videos&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;online-articles-discussions-and-places-of-wonder&quot;&gt;Online Articles, Discussions, and Places of Wonder&lt;/h2&gt;
@@ -407,7 +408,6 @@ I recommend losing yourself in them.&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.quantamagazine.org/tag/mathematics/&quot;&gt;Quanta Magazine’s Math Section&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://math.stackexchange.com/questions?sort=votes&quot;&gt;Math.StackExchange ordered by Votes&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles&quot;&gt;The Best Lecture Notes from Math.StackExchange&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mathoverflow.net/questions?sort=votes&quot;&gt;MathOverflow sorted by Votes&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://mathoverflow.net/questions/60457/elementaryshortuseful&quot;&gt;Elementary Short and Useful Proofs from MathOverflow&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;Wikipedia
@@ -446,6 +446,7 @@ can be free, perhaps many more will be able to appreciate the beauty of mathemat
 entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lowered.&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://math.stackexchange.com/questions/302023/best-sets-of-lecture-notes-and-articles&quot;&gt;The Best Lecture Notes from Math.StackExchange&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.efnet-math.org/w/Book_Recommendations&quot;&gt;Efnet’s Recommended Math Books&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/ystael/chicago-ug-math-bib&quot;&gt;University of Chicago’s Undergrad Math Bibliography&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.reddit.com/r/math/comments/da36n/what_is_the_best_way_to_learn_more_math/&quot;&gt;Math Reddit’s Video Lectures&lt;/a&gt;&lt;/li&gt;
