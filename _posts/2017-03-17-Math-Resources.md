@@ -83,3 +83,15 @@ entry into mathematics is (perhaps by some $\epsilon > 0$) slightly lowered.
 - [Math Reddit's Video Lectures](https://www.reddit.com/r/math/comments/da36n/what_is_the_best_way_to_learn_more_math/)
 - [MathOverflow's Video Lectures](https://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free)
 - [ICERM Video Lectures](https://icerm.brown.edu/video_archive/#/index)
+
+## Short and Recommended Reads
+
+- [A Brief History of Elliptic Curves by Paul Hewitt](http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf)
+- [A Mathematician's Apology by G. H. Hardy](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
+- [A Mathematician's Lament by Paul Lockhart](http://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- [Advice to a Young Mathematician](https://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf)
+- [Elliptic Curves from Mordell to Diophantus and Back by Ezra Brown and Bruce Myers](http://www.math.vt.edu/people/brown/doc/dioellip.pdf)
+- [List of Important Publications in Mathematics from Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics)
+- [Mathematical Knowledge: Internal, Social, and Cultural Aspects by Yuri Manin](https://arxiv.org/pdf/math/0703427v1.pdf)
+- [* Missed Opportunities by Freeman Dyson](https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964)
+- [On Proof and Progress in Mathematics by William Thurston](https://arxiv.org/pdf/math/9404236v1.pdf)
