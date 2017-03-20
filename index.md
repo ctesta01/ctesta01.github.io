@@ -18,5 +18,5 @@ references to many others fascinating work. Enjoy.
 - [Introduction to the Theory of Elliptic Curves](http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves)
 
 ## Casually Interesting
-- [The Buddhabrot Fractal in 4k](https://www.youtube.com/watch?v=zxIcydL7wwY)
+- [The Buddhabrot Fractal in 4k](http://ctesta.com/articles/2017-03/Buddhabrot.html)
 - [Ken Ono on the Partition Function](https://www.youtube.com/watch?v=aj4FozCSg8g)
