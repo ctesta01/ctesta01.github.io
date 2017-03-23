@@ -206,7 +206,7 @@ The 20th Century saw great progess in Algebraic-Geometry and as a
 result an elliptic curve's rational points, denoted $E(\mathbb Q)$, are
 somewhat better understood.
 In 1922 the Mordell-Weil Theorem was proven, which states that
-all abelian varieties over are finitely generated abelian groups.
+all abelian varieties over number fields are finitely generated abelian groups.
 Later in 1984 a conjecture by Mordell was proven by Faltings stating
 that the genus 0 curves over $\mathbb Q$ have either $\emptyset$ or
 infinitely many points, genus 1 curves have $\emptyset$,
