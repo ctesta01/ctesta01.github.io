@@ -273,6 +273,7 @@ still just beginning to understand their tremendous structure.
 
 ### Sources
 
+- [Alice Silverberg : Ranks Cheat Sheet](https://www.math.uci.edu/~asilverb/bibliography/RanksCheatSheet.pdf)
 - [Dale Husemöller : Elliptic Curves](https://books.google.com/books?isbn=0387215778)
 - [Ezra Brown and Bruce T. Myers : Elliptic Curves from Mordell to Diophantus and Back](http://www.math.vt.edu/people/brown/doc/dioellip.pdf)
 - [Freeman Dyson : Missed Opportunities](https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964)
