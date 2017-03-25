@@ -101,8 +101,8 @@ Point Addition and Multiplication
 </div>
 </center>
 
-Elliptic functions, before connecting to elliptic curves,
-were inverted and considered as elliptic integrals by mathematicians such
+Elliptic integrals, before connecting to elliptic curves,
+were inverted and considered as elliptic functions by mathematicians such
 as Abel, Gauss, Jacobi, and notably Weierstraß. The motivation for doing
 so is that the inverse of $\int \frac{dx}{\sqrt{1-x^2}} = \arcsin(x)$
 is significantly more friendly a function.  
@@ -151,9 +151,9 @@ Weierstraß discovered that all doubly periodic functions could be expressed
 through his $\wp$ function, and that it followed the differential
 equation:
 
-$$ \wp' (z)^2 = 4 \wp^3 (z) -g_2 \wp (z) - g_3,$$
+$$ \wp' (z)^2 = 4 \wp^3 (z) -g_4 \wp (z) - g_6,$$
 
-where $g_2 = 60G_4$ and $g_3 = 140G_6$ and $G_n$ is Eisenstein's series given by
+where $g_4 = 60G_4$ and $g_6 = 140G_6$ and $G_n$ is Eisenstein's series given by
 $$ G_n = \sum_{\omega \neq 0} \frac{1}{\omega^n}.$$
 
 Corresponding to this complex doubly periodic structure,
@@ -165,7 +165,7 @@ $$y^2 = x^3 + ax + b, \text{ provided } \text{characteristic}(k) \neq 2,3,$$
 
 $$\text{ and always at least } y^2 + a_1 xy + a_3y = x^3 + a_2x^2 + a_4 x + a_6 \text{ even if } \text{characteristic}(k) = 2,3. $$
 
-Indeed, Elliptic Curves defined over the Complex Numbers $\mathbb C$
+Indeed, Elliptic Curves defined over the complex numbers $\mathbb C$
 are isomorphic to complex lattices given by $\mathbb C / \Lambda$ for a lattice
 $\Lambda$. Startling connections were born of this fact.
 
