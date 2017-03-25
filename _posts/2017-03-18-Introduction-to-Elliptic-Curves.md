@@ -213,7 +213,7 @@ infinitely many points, genus 1 curves have $\emptyset$,
 finitely many, or infinitely many $\mathbb Q$-points.
 
 However, simultaneous progress was being made in the theory of
-Modular Forms. Ramanujan defined his $\tau$ function by the Fourier series
+Modular Forms. Ramanujan defined his $\tau$ function by the power series
 expansion of the discriminant $\Delta$.
 
 $$\sum_{n\geq 1}\tau(n)q^n=q\prod_{n\geq 1}(1-q^n)^{24} =\Delta(z),$$
