@@ -71,7 +71,11 @@ Elliptic curves are contemporarily thought of as plane curves,
 however they originally arose in the context of calculating arc-lengths
 of ellipses. It is these arc-lengths
 of ellipses which in part created elliptic curve's early ubiquity.
-These are the elliptic functions.
+These are the elliptic integrals.
+
+$$ \int R(t,\sqrt{P(t)}) dt, $$
+where $P(t)$ is a degree three or four nonsingular polynomial. An example
+might be derived from the pendulum, such as:
 
 $$ \int \frac{d\theta}{\sqrt{C + \cos \theta}} =
 - \int \frac{dx}{\sqrt{(1-x^2)(C+x)}} =
