@@ -245,11 +245,6 @@ p(7k+5) & \equiv 0 \pmod 7 \\
 p(11k+6) & \equiv 0 \pmod {11}.
 \end{align} $$
 
-These are some of the most beautiful congruences in Number Theory and Mathematics.
-In a 1972 lecture by Freeman Dyson on the *Missed Opportunities* between Mathematics
-and Physics, he begins with the story of the following MacDonald equation for
-Ramanujan's Tau Function.
-
 <center><a class="info" href="http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman">
 <div style="display: block; margin: auto">
 <img width='75%' height='30%' src="{{ site.url }}/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png">
@@ -260,8 +255,10 @@ Image Credit: The Concinnitas Project
 </div></a>
 </center>
 <br>
-
-The MacDonald Equation is an astonishing formula, but to have also found
+These are some of the most beautiful congruences in Number Theory and Mathematics.
+In a 1972 lecture by Freeman Dyson on the *Missed Opportunities* between Mathematics
+and Physics, he begins with the story of the following MacDonald equation for
+Ramanujan's Tau Function. The MacDonald Equation is an astonishing formula, but to have also found
 connections to physics highlights the depth to which Ramanujan's $\tau$-function,
 born out of the discriminant $\Delta$, reaches into the abstract world.
 
