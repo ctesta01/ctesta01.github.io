@@ -21,6 +21,7 @@ a comment letting me know you've dropped by.
 
 ## Photography
 - [Colorado State](http://ctesta.com/articles/2016-08/Colorado-State-Photography)
+- [Washington State](http://ctesta.com/articles/2016-08/Washington-State-Photography)
 
 ## Resources
 - [Mathematics Resources](http://ctesta.com/articles/2017-03/Math-Resources)

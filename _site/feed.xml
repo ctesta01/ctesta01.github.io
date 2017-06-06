@@ -5,8 +5,8 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jun 2017 13:13:23 +0000</pubDate>
-    <lastBuildDate>Tue, 06 Jun 2017 13:13:23 +0000</lastBuildDate>
+    <pubDate>Tue, 06 Jun 2017 17:18:24 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Jun 2017 17:18:24 +0000</lastBuildDate>
     <generator>Jekyll v3.4.1</generator>
     
       <item>
@@ -372,23 +372,19 @@ still just beginning to understand their tremendous structure.&lt;/p&gt;
     
       <item>
         <title>Mathematical Resources</title>
-        <description>&lt;p&gt;Knowledge is the Great Equalizer. And when we live in a time of great
-wealth inequality, I believe mathematics is a way forward to empower those
-who have found themselves as underdogs. Whether it is for personal need,
-for a job, for money, or for a grand cause, to find beauty and elegance in
-the world, mathematics is meant to be shared and enjoyed by many.
-Individuals may approach mathematics from different perspectives,
-motivations, and mindsets, and regardless, mathematics strengthens
-and mystifies those who consume it. It is my hope that among these
-links readers will find interesting ideas and useful directions for their
-own personal benefit.&lt;/p&gt;
+        <description>&lt;p&gt;I am writing here to encourage you to enjoy mathematics, to appreciate its beauty, 
+and recognize its incredible potential in application. The following are many links and resources which 
+I have found useful as well as inspiring. 
+Subjects which have the same profundity and beauty as mathematics are few and far between, 
+and to allow others to miss out on the humbling and world-expanding experiences available in the world 
+of mathematics would be a regret of mine for a long time to come.&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;“A mathematician is a device for turning coffee into theorems.”&lt;/li&gt;
   &lt;li&gt;“God may not play dice with the universe, but something strange
-is going on with the prime numbers.”&lt;/li&gt;
+is going on with the prime numbers.” -Carl Pomerance&lt;/li&gt;
+  &lt;li&gt;“A mathematician is a device for turning coffee into theorems.” -Alfréd Rényi&lt;/li&gt;
   &lt;li&gt;“It is not enough to be in the right place at the right time.
-You should also have an open mind at the right time.”&lt;/li&gt;
+You should also have an open mind at the right time.” -Paul Erdős&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;communities&quot;&gt;Communities&lt;/h2&gt;
@@ -435,6 +431,20 @@ I recommend losing yourself in them.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;https://jackschaedler.github.io/circles-sines-signals/&quot;&gt;Circles Sines and Signals&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&quot;short-and-recommended-reads&quot;&gt;Short and Recommended Reads&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf&quot;&gt;A Brief History of Elliptic Curves by Paul Hewitt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf&quot;&gt;A Mathematician’s Apology by G. H. Hardy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.maa.org/external_archive/devlin/LockhartsLament.pdf&quot;&gt;A Mathematician’s Lament by Paul Lockhart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf&quot;&gt;Advice to a Young Mathematician&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.math.vt.edu/people/brown/doc/dioellip.pdf&quot;&gt;Elliptic Curves from Mordell to Diophantus and Back by Ezra Brown and Bruce Myers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics&quot;&gt;List of Important Publications in Mathematics from Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/math/0703427v1.pdf&quot;&gt;Mathematical Knowledge: Internal, Social, and Cultural Aspects by Yuri Manin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964&quot;&gt;Missed Opportunities by Freeman Dyson&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/math/9404236v1.pdf&quot;&gt;On Proof and Progress in Mathematics by William Thurston&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
 &lt;h2 id=&quot;learning-material&quot;&gt;Learning Material&lt;/h2&gt;
 
 &lt;p&gt;Learning mathematics requires time, effort, and resources. Of course
@@ -458,19 +468,6 @@ entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lower
   &lt;li&gt;&lt;a href=&quot;https://icerm.brown.edu/video_archive/#/index&quot;&gt;ICERM Video Lectures&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&quot;short-and-recommended-reads&quot;&gt;Short and Recommended Reads&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf&quot;&gt;A Brief History of Elliptic Curves by Paul Hewitt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf&quot;&gt;A Mathematician’s Apology by G. H. Hardy&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.maa.org/external_archive/devlin/LockhartsLament.pdf&quot;&gt;A Mathematician’s Lament by Paul Lockhart&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf&quot;&gt;Advice to a Young Mathematician&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.math.vt.edu/people/brown/doc/dioellip.pdf&quot;&gt;Elliptic Curves from Mordell to Diophantus and Back by Ezra Brown and Bruce Myers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics&quot;&gt;List of Important Publications in Mathematics from Wikipedia&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/math/0703427v1.pdf&quot;&gt;Mathematical Knowledge: Internal, Social, and Cultural Aspects by Yuri Manin&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964&quot;&gt;* Missed Opportunities by Freeman Dyson&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://arxiv.org/pdf/math/9404236v1.pdf&quot;&gt;On Proof and Progress in Mathematics by William Thurston&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/articles/2017-03/Math-Resources</link>
@@ -483,46 +480,60 @@ entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lower
     
       <item>
         <title>Data Science Resources</title>
-        <description>&lt;p&gt;Data Science is the future. As humans become more technologically
-sophisticated, there is simply more data with more precision and with
-more meaning to be uncovered. Statistics, linear algebra, and algorithms
-have coalesced in the subject of data science, and its appeal stretches
-across amazingly diverse domains. In science, there is observation,
-conjecture, and proof. And Data Science has fundamentally sharpened
-the modern researcher’s observational step.&lt;/p&gt;
+        <description>&lt;p&gt;This page is principally for me to save the links that I intend to come back to time and 
+time again. However, anyone is welcome to take a look at what I have collected. I have 
+listed below some data science resources, followed by R-specific and Python-specific resources.&lt;/p&gt;
+
+&lt;h2 id=&quot;data-science&quot;&gt;Data Science&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://datasciencemasters.org/&quot;&gt;DataScienceMasters.org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rushter.com/dsreader/&quot;&gt;Artem Golubin’s Data Science Reader&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ndres.me/kaggle-past-solutions/&quot;&gt;Kaggle Past Solutions&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5&quot;&gt;Essential Cheat Sheets for Machine Learning and Deep Learning Engineers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pauli-space/foundations_for_deep_learning&quot;&gt;Foundations for Deep Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&quot;r&quot;&gt;R&lt;/h2&gt;
 
-&lt;p&gt;I have enjoyed working in R, despite its quirkiness as a language. The
+&lt;p&gt;I have absolutely enjoyed working in R. The
 libraries ggplot2, dplyr, htmltools, and d3 integrations make developing
-in R an exciting experience. At the R console raw data can be transformed in
-moments into rich visualizations, and this has always made R exciting for me.&lt;/p&gt;
+data-viz in R an exciting experience. 
+At the R console raw data can be transformed in
+moments into rich visualizations, and this always makes R exciting for me.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://arrgh.tim-smith.us&quot;&gt;aRrgh : An Angry Guide to R&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/qinwf/awesome-R&quot;&gt;Qinwf : Awesome-R&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.gitlogs.com/most_popular?language=R&quot;&gt;Gitlogs : Top R GitHub Repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://awesome-r.com/&quot;&gt;Awesome-R.com&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/138/free-resources-for-learning-r&quot;&gt;StackExchange : Best Free R Resources Thread&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://adv-r.had.co.nz/&quot;&gt;Hadley Wickham : (Book) Advanced R &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://r-pkgs.had.co.nz/&quot;&gt;Hadley Wickham : (Book) R Packages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://adv-r.had.co.nz/&quot;&gt;Hadley Wickham : Advanced R (Book)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r-pkgs.had.co.nz/&quot;&gt;Hadley Wickham : R Packages (Book)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/documentation/r/topics&quot;&gt;StackExchange Documentation : R&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.rstudio.com/resources/cheatsheets/&quot;&gt;Rstudio Cheat Sheets&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.htmlwidgets.org/&quot;&gt;HTML Widgets for R&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://shiny.rstudio.com/&quot;&gt;Shiny : A web application framework for R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gitlogs.com/most_popular?language=R&quot;&gt;Gitlogs : Top R GitHub Repositories&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h2 id=&quot;python&quot;&gt;Python&lt;/h2&gt;
 
-&lt;p&gt;Python is ubiquitous, writing Python feels natural, its community
+&lt;p&gt;Python is ubiquitous, writing Python feels natural, and its community
 has written packages for anything and everything.
-The quality of research enabled by Jupyter notebooks and the speed
-data can be processed at in parallel makes Python a powerful skill
-to have in one’s pocket. Access to these high precision and powerful tools
-creates new opportunity for both more subtle and more
+The quality of reproducible research enabled by Jupyter notebooks and the speed
+of Python in parallel makes Python a powerful skill
+to have in one’s pocket. Increased access to such incredibly performant tools
+like Python is always creating new opportunites for more subtle and more
 computationally intensive projects.&lt;/p&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/uwhpsc-2016&quot;&gt;Chris Swierczewski’s High Performance Computing Course at UW&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/documentation/python/topics&quot;&gt;StackOverflow Documentation : Python&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://awesome-python.com/&quot;&gt;Awesome-Python.com : Awesome-Python&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://python.libhunt.com/&quot;&gt;Python.Libhunt.com : Awesome Python&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/donnemartin/data-science-ipython-notebooks&quot;&gt;Data Science iPython Notebooks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jakevdp/PythonDataScienceHandbook&quot;&gt;O’Reilly’s Python Data Science Handbook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pandas.pydata.org/pandas-docs/stable/&quot;&gt;Pandas Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://matplotlib.org/users/beginner.html&quot;&gt;Begginer’s Guide to MatPlotLib&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/ujjwalkarn/DataSciencePython&quot;&gt;Ujjwalkarn : Python Data Science&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://jyotiska.github.io/blog/posts/python_libraries.html&quot;&gt;Jyotiska : Lesser Known Python Libraries&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/jonathanslenders/ptpython&quot;&gt;PtPython : A Better Python REPL&lt;/a&gt;&lt;/li&gt;
@@ -543,9 +554,8 @@ computationally intensive projects.&lt;/p&gt;
       <item>
         <title>Coding in Luxury</title>
         <description>&lt;p&gt;Customizing and tweaking the terminal is one way a geek can endlessly
-find delight.&lt;/p&gt;
-
-&lt;p&gt;Remember, Vim is the way of the Jedi, and may the Regex be with you.&lt;/p&gt;
+find delight. The following is a list of resources which I have found useful for 
+the command line tools and interfaces that I regularly use.&lt;/p&gt;
 
 &lt;h2 id=&quot;vim-&quot;&gt;Vim 🎑&lt;/h2&gt;
 
@@ -667,18 +677,67 @@ geometry,&lt;/p&gt;
       </item>
     
       <item>
+        <title>Washington State Photography</title>
+        <description>&lt;p&gt;In 2016 I visited Washington state, including Seattle, Olympic National Park, 
+and Olympic National Forest. The mist and fog hanging over the roads 
+through the mountains and forest on the way to Olympic National Park 
+made the experience calm and tranquil. The beach was beautiful, bright 
+blue with tide pools and anemone. The stacks of hard rock carved away by the tide
+coming in and out create a beautiful ocean and beach landscape, with a consistently 
+interesting horizon to fall in love with. Seattle had a very fun culture to appreciate, 
+from plenty of art museums, graffiti, monuments, and history. Absolutely check out the 
+beautiful art at the Chihuly glass museum if you get the chance. It is phenomenal and 
+impressive. I would love to visit Washington state again, and the first
+item on my agenda would be getting back to Olympic National Park.&lt;/p&gt;
+
+&lt;ul class=&quot;photo-gallery&quot;&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0010.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0031.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0032.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0212.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0451.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0502.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0596.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0607.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0623.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0645.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0894.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0905.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2016-08/Washington-State-Photography</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-08/Washington-State-Photography</guid>
+        
+        
+      </item>
+    
+      <item>
         <title>Colorado State Photography</title>
-        <description>&lt;p&gt;I went to Colorado in the summer of 2016 and found some heart-moving and completely 
+        <description>&lt;p&gt;I went to Colorado in the summer of 2016 and found some heart-moving and 
 serene photography opportunities. I spent time in Denver, Boulder, and, of course, the 
 Rocky Mountain National Park. I struggle to imagine a more picturesque
 photography experience than that with the brazen elk 
-right next to the road and the incredible towering mountain ranges spanning
+right next to the road and the incredible and towering mountain ranges spanning
 the park. The sense of peace that I could derive from 
 spending time in the park is a memory that will always
-continue to strengthen my desire to spend time in nature. 
+motivate my desire to spend more time in nature. 
 I truly enjoyed my time in Colorado, and I recommend that anybody 
-with an interest in the outdoors finds some time to relax and 
-enjoy the beautiful scenery there.&lt;/p&gt;
+with an interest in the outdoors find the time to enjoy
+the beautiful scenery there.&lt;/p&gt;
 
 &lt;ul class=&quot;photo-gallery&quot;&gt;
 
