@@ -10,9 +10,8 @@ image:
 ---
 
 Customizing and tweaking the terminal is one way a geek can endlessly
-find delight.
-
-Remember, Vim is the way of the Jedi, and may the Regex be with you.
+find delight. The following is a list of resources which I have found useful for 
+the command line tools and interfaces that I regularly use. 
 
 ## Vim 🎑
 
