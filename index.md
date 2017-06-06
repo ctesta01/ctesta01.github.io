@@ -24,8 +24,8 @@ a comment letting me know you dropped by.
 
 ## Resources
 - [Mathematics Resources](http://ctesta.com/articles/2017-03/Math-Resources)
-- [Data Science ](http://ctesta.com/articles/2017-03/Data-Science-Resources)
-- [Coding in Luxury : Tmux, Vim, Fish, and Git](http://ctesta.com/articles/2017-03/Coding-in-Luxury)
+- [Data Science](http://ctesta.com/articles/2017-03/Data-Science-Resources)
+- [Coding in Luxury: Vim, Tmux, Git, Bash, and Fish](http://ctesta.com/articles/2017-03/Coding-in-Luxury)
 
 ## My Projects
 - [Introduction to the Theory of Elliptic Curves](http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves)
