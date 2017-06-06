@@ -9,26 +9,21 @@ image:
     feature: "https://media.giphy.com/media/wi19UKOHzatY4/giphy.gif"
 ---
 
-Data Science is the future. As humans become more technologically
-sophisticated, there is simply more data with more precision and with
-more meaning to be uncovered. Statistics, linear algebra, and algorithms
-have coalesced in the subject of data science, and its appeal stretches
-across amazingly diverse domains. In science, there is observation,
-conjecture, and proof. And Data Science has fundamentally sharpened
-the modern researcher's observational step.
+
 
 ## R
 
-I have enjoyed working in R, despite its quirkiness as a language. The
+I have absolutely enjoyed working in R. The
 libraries ggplot2, dplyr, htmltools, and d3 integrations make developing
-in R an exciting experience. At the R console raw data can be transformed in
-moments into rich visualizations, and this has always made R exciting for me.
+data-viz in R an exciting experience. 
+At the R console raw data can be transformed in
+moments into rich visualizations, and this always makes R exciting for me.
 
 - [aRrgh : An Angry Guide to R](http://arrgh.tim-smith.us)
 - [Qinwf : Awesome-R](https://github.com/qinwf/awesome-R)
 - [Gitlogs : Top R GitHub Repositories](http://www.gitlogs.com/most_popular?language=R)
 - [StackExchange : Best Free R Resources Thread](https://stats.stackexchange.com/questions/138/free-resources-for-learning-r)
-- [Hadley Wickham : (Book) Advanced R ](http://adv-r.had.co.nz/)
+- [Hadley Wickham : (Book) Advanced R](http://adv-r.had.co.nz/)
 - [Hadley Wickham : (Book) R Packages](http://r-pkgs.had.co.nz/)
 - [Rstudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 - [HTML Widgets for R](http://www.htmlwidgets.org/)
@@ -36,14 +31,17 @@ moments into rich visualizations, and this has always made R exciting for me.
 
 ## Python
 
-Python is ubiquitous, writing Python feels natural, its community
+Python is ubiquitous, writing Python feels natural, and its community
 has written packages for anything and everything.
-The quality of research enabled by Jupyter notebooks and the speed
-data can be processed at in parallel makes Python a powerful skill
-to have in one's pocket. Access to these high precision and powerful tools
-creates new opportunity for both more subtle and more
+The quality of reproducible research enabled by Jupyter notebooks and the speed
+of Python in parallel makes Python a powerful skill
+to have in one's pocket. Increased access to such incredibly performant tools
+like Python is always creating new opportunites for more subtle and more
 computationally intensive projects.
 
+- [Chris Swierczewski's High Performance Computing Course at UW](https://github.com/uwhpsc-2016)
+- [Begginer's Guide to MatPlotLib](https://matplotlib.org/users/beginner.html)
+- [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 - [Awesome-Python.com : Awesome-Python](https://awesome-python.com/)
 - [Python.Libhunt.com : Awesome Python](https://python.libhunt.com/)
 - [Ujjwalkarn : Python Data Science](https://github.com/ujjwalkarn/DataSciencePython)
