@@ -11,11 +11,12 @@ image:
     creditlink: https://commons.wikimedia.org/wiki/File:A_150x150_Ulam_spiral_of_dots_with_varying_widths.svg
 ---
 
-I am writing here to invite you to enjoy mathematics with me. 
-The following are many links and resources which 
+I am writing here to encourage you to enjoy mathematics, to appreciate its beauty, 
+and recognize its incredible potential in application. The following are many links and resources which 
 I have found useful as well as inspiring. 
-Subjects which have such profundity and beauty are few and far between, 
-and to miss out 
+Subjects which have the same profundity and beauty as mathematics are few and far between, 
+and to allow others to miss out on the humbling and world-expanding experiences available in the world 
+of mathematics would be a regret of mine for a long time to come. 
 
 - "God may not play dice with the universe, but something strange
 is going on with the prime numbers." -Carl Pomerance
