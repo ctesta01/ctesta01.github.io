@@ -17,10 +17,9 @@ I have found useful as well as inspiring.
 Subjects which have such profundity and beauty are few and far between, 
 and to miss out 
 
-
-- "A mathematician is a device for turning coffee into theorems." -Alfréd Rényi
 - "God may not play dice with the universe, but something strange
 is going on with the prime numbers." -Carl Pomerance
+- "A mathematician is a device for turning coffee into theorems." -Alfréd Rényi
 - "It is not enough to be in the right place at the right time.
 You should also have an open mind at the right time." -Paul Erdős
 
