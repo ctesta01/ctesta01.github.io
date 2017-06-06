@@ -17,7 +17,7 @@ the economics of wealth inequality and poverty. My academic background heavily f
 on both theoretical and applied mathematics, including subjects such as high performance 
 computing, data analysis, numerical linear algebra, number theory, abstract algebra, and 
 plenty more. I hope you will find enjoyable content on my website, and feel free to leave
-a comment letting me know you dropped by.
+a comment letting me know you've dropped by.
 
 ## Photography
 - [Colorado State](http://ctesta.com/articles/2016-08/Colorado-State-Photography)
