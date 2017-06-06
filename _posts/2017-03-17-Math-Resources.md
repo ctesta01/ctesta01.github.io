@@ -6,13 +6,16 @@ modified: 2017-03-17
 tags: [math]
 comments: true
 image:
-    feature: "2017-03-17/polynomialroots05expi02.png"
-    credit: John Baez' Beauty of Roots
-    creditlink: https://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/
+    feature: https://upload.wikimedia.org/wikipedia/commons/4/45/A_150x150_Ulam_spiral_of_dots_with_varying_widths.svg
+    credit: A 150x150 Ulam Spiral from WikiMedia
+    creditlink: https://commons.wikimedia.org/wiki/File:A_150x150_Ulam_spiral_of_dots_with_varying_widths.svg
 ---
 
-Please, enjoy mathematics as I have. The following are many links and resources which 
+I am writing here to invite you to enjoy mathematics with me. 
+The following are many links and resources which 
 I have found useful as well as inspiring. 
+Subjects which have such profundity and beauty are few and far between, 
+and to miss out 
 
 
 - "A mathematician is a device for turning coffee into theorems." -Alfréd Rényi
