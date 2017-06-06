@@ -11,14 +11,15 @@ image:
     creditlink: https://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/
 ---
 
+Please, enjoy mathematics as I have. The following are many links and resources which 
+I have found useful as well as inspiring. 
+
+
 - "A mathematician is a device for turning coffee into theorems." -Alfréd Rényi
 - "God may not play dice with the universe, but something strange
 is going on with the prime numbers." -Carl Pomerance
 - "It is not enough to be in the right place at the right time.
 You should also have an open mind at the right time." -Paul Erdős
-
-Please, enjoy mathematics as I have. The following are many links and resources which 
-I have found useful as well as inspiring. 
 
 ## Communities
 
