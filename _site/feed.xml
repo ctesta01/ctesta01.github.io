@@ -3,11 +3,11 @@
   <channel>
     <title>Christian Testa | A Blog</title>
     <description>My blog about math, experiments, and life.</description>
-    <link>http://ctesta.com/</link>
-    <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 04:45:17 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 04:45:17 +0000</lastBuildDate>
-    <generator>Jekyll v3.1.6</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 06 Jun 2017 12:54:15 +0000</pubDate>
+    <lastBuildDate>Tue, 06 Jun 2017 12:54:15 +0000</lastBuildDate>
+    <generator>Jekyll v3.4.1</generator>
     
       <item>
         <title>YouTube Clipper</title>
@@ -29,8 +29,8 @@ This is a simple solution to a simple problem.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/YouTube-Clipper</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/YouTube-Clipper</guid>
+        <link>http://localhost:4000/articles/2017-03/YouTube-Clipper</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/YouTube-Clipper</guid>
         
         <category>javascript</category>
         
@@ -42,7 +42,7 @@ This is a simple solution to a simple problem.&lt;/p&gt;
       <item>
         <title>QualtricsTools : Automated Survey Processing</title>
         <description>&lt;center&gt;&lt;a href=&quot;https://github.com/ctesta01/QualtricsTools&quot;&gt;
-&lt;img src=&quot;http://ctesta.com/img/2017-03-17/QualtricsTools.png&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/2017-03-17/QualtricsTools.png&quot; width=&quot;90%&quot; /&gt;
 &lt;br /&gt;
 &lt;span class=&quot;image-credit&quot;&gt;QualtricsTools, an R web-app&lt;/span&gt;&lt;/a&gt;
 &lt;/center&gt;
@@ -53,8 +53,8 @@ in CSV format and automatically calculate tables and frequencies custom to the s
 questions types, format, and responses. Check out the GitHub project for more information.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Qualtrics-Tools</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Qualtrics-Tools</guid>
+        <link>http://localhost:4000/articles/2017-03/Qualtrics-Tools</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Qualtrics-Tools</guid>
         
         <category>R</category>
         
@@ -74,8 +74,8 @@ questions types, format, and responses. Check out the GitHub project for more in
 &lt;p&gt;It is a more complex version of the Mandelbrot fractal. Check out the &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhabrot&quot;&gt;Buddhabrot&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Mandelbrot_set&quot;&gt;the Mandelbrot set on Wikipedia&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Buddhabrot</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Buddhabrot</guid>
+        <link>http://localhost:4000/articles/2017-03/Buddhabrot</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Buddhabrot</guid>
         
         <category>math</category>
         
@@ -104,7 +104,7 @@ https://en.wikipedia.org/wiki/Blackboard_bold
 Sources:
 - Fluid Flow: https://web.stanford.edu/~cantwell/Difficult_to_find_publications/Elliptic_Curves_and_3D_flow_patterns_Cantwell_2000.pdf
 - Sphere Packing: http://www.jmilne.org/math/Books/ectext5.pdf
-- String Theory: Husemöller&#39;s Text on Elliptic Curves
+- String Theory: Husemöller's Text on Elliptic Curves
 - History of Curves
 - http://www.math.vt.edu/people/brown/doc/dioellip.pdf
 - http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf
@@ -123,7 +123,7 @@ are the degree three nonsingular algebraic plane curves with at least one
 rational point.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img width=&quot;65%&quot; src=&quot;http://ctesta.com/img/2017-03-05/three-example-curves.png&quot; /&gt;
+&lt;img width=&quot;65%&quot; src=&quot;http://localhost:4000/img/2017-03-05/three-example-curves.png&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;Their existence was considered by Diophantus in the 2nd century a.d. in
@@ -142,7 +142,13 @@ older sibling. This will be realized later through the concept of genus.&lt;/p&g
 however they originally arose in the context of calculating arc-lengths
 of ellipses. It is these arc-lengths
 of ellipses which in part created elliptic curve’s early ubiquity.
-These are the elliptic functions.&lt;/p&gt;
+These are the elliptic integrals&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\int R(t,\sqrt{P(t)}) dt,&lt;/script&gt;
+
+&lt;p&gt;where $P(t)$ is a degree three or four nonsingular polynomial and $R$ is a 
+rational function of $\sqrt{P(t)}$ and $t$. An example
+might be derived from the pendulum, such as:&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;\int \frac{d\theta}{\sqrt{C + \cos \theta}} =
 - \int \frac{dx}{\sqrt{(1-x^2)(C+x)}} =
@@ -165,15 +171,15 @@ to the rational points of an elliptic curve.&lt;/p&gt;
 
 &lt;center&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
-&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Addition&quot; src=&quot;http://ctesta.com/img/2017-03-17/ch2-point-addition.png&quot; /&gt;
-&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Multiplication&quot; src=&quot;http://ctesta.com/img/2017-03-17/ch2-point-multiplication.png&quot; /&gt;
+&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Addition&quot; src=&quot;http://localhost:4000/img/2017-03-17/ch2-point-addition.png&quot; /&gt;
+&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Multiplication&quot; src=&quot;http://localhost:4000/img/2017-03-17/ch2-point-multiplication.png&quot; /&gt;
 &lt;br /&gt;
 Point Addition and Multiplication
 &lt;/div&gt;
 &lt;/center&gt;
 
-&lt;p&gt;Elliptic functions, before connecting to elliptic curves,
-were inverted and considered as elliptic integrals by mathematicians such
+&lt;p&gt;Elliptic integrals, before connecting to elliptic curves,
+were inverted and considered as elliptic functions by mathematicians such
 as Abel, Gauss, Jacobi, and notably Weierstraß. The motivation for doing
 so is that the inverse of $\int \frac{dx}{\sqrt{1-x^2}} = \arcsin(x)$
 is significantly more friendly a function.&lt;/p&gt;
@@ -201,7 +207,7 @@ $\omega_2$ is normalized to 1, simply $\Lambda = \mathbb Z \omega + \mathbb Z$.&
 &lt;img height=&quot;15%&quot; width=&quot;15%&quot; alt=&quot;Wikipedia Lattice Construction&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Weierstrass_p.svg/150px-Weierstrass_p.svg.png&quot; /&gt;
 &lt;img height=&quot;15%&quot; width=&quot;15%&quot; alt=&quot;Wikipedia Lattice Construction&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weierstrass_elliptic_function_P.png/1280px-Weierstrass_elliptic_function_P.png&quot; /&gt;
 &lt;br /&gt;
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions&quot;&gt;Weierstraß&#39; $\wp$ function.&lt;/a&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions&quot;&gt;Weierstraß' $\wp$ function.&lt;/a&gt;
 &lt;/div&gt;
 &lt;/center&gt;
 
@@ -222,9 +228,9 @@ conics are genus zero curves.&lt;/p&gt;
 through his $\wp$ function, and that it followed the differential
 equation:&lt;/p&gt;
 
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\wp&#39; (z)^2 = 4 \wp^3 (z) -g_2 \wp (z) - g_3,&lt;/script&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\wp' (z)^2 = 4 \wp^3 (z) -g_4 \wp (z) - g_6,&lt;/script&gt;
 
-&lt;p&gt;where $g_2 = 60G_4$ and $g_3 = 140G_6$ and $G_n$ is Eisenstein’s series given by
+&lt;p&gt;where $g_4 = 60G_4$ and $g_6 = 140G_6$ and $G_n$ is Eisenstein’s series given by
 &lt;script type=&quot;math/tex&quot;&gt;G_n = \sum_{\omega \neq 0} \frac{1}{\omega^n}.&lt;/script&gt;&lt;/p&gt;
 
 &lt;p&gt;Corresponding to this complex doubly periodic structure,
@@ -236,7 +242,7 @@ can be transformed to Weierstraß form:&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;\text{ and always at least } y^2 + a_1 xy + a_3y = x^3 + a_2x^2 + a_4 x + a_6 \text{ even if } \text{characteristic}(k) = 2,3.&lt;/script&gt;
 
-&lt;p&gt;Indeed, Elliptic Curves defined over the Complex Numbers $\mathbb C$
+&lt;p&gt;Indeed, Elliptic Curves defined over the complex numbers $\mathbb C$
 are isomorphic to complex lattices given by $\mathbb C / \Lambda$ for a lattice
 $\Lambda$. Startling connections were born of this fact.&lt;/p&gt;
 
@@ -272,18 +278,18 @@ curve is singular.&lt;/p&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;The 20th Century saw great progess in Algebraic-Geometry and as a
+&lt;p&gt;The 20th Century saw great progress in Algebraic-Geometry and as a
 result an elliptic curve’s rational points, denoted $E(\mathbb Q)$, are
 somewhat better understood.
 In 1922 the Mordell-Weil Theorem was proven, which states that
-all abelian varieties over are finitely generated abelian groups.
+all abelian varieties over number fields are finitely generated abelian groups.
 Later in 1984 a conjecture by Mordell was proven by Faltings stating
 that the genus 0 curves over $\mathbb Q$ have either $\emptyset$ or
 infinitely many points, genus 1 curves have $\emptyset$,
 finitely many, or infinitely many $\mathbb Q$-points.&lt;/p&gt;
 
 &lt;p&gt;However, simultaneous progress was being made in the theory of
-Modular Forms. Ramanujan defined his $\tau$ function by the Fourier series
+Modular Forms. Ramanujan defined his $\tau$ function by the power series
 expansion of the discriminant $\Delta$.&lt;/p&gt;
 
 &lt;script type=&quot;math/tex; mode=display&quot;&gt;\sum_{n\geq 1}\tau(n)q^n=q\prod_{n\geq 1}(1-q^n)^{24} =\Delta(z),&lt;/script&gt;
@@ -310,23 +316,20 @@ p(7k+5) &amp; \equiv 0 \pmod 7 \\
 p(11k+6) &amp; \equiv 0 \pmod {11}.
 \end{align} %]]&gt;&lt;/script&gt;
 
-&lt;p&gt;These are some of the most beautiful congruences in Number Theory and Mathematics.
-In a 1972 lecture by Freeman Dyson on the &lt;em&gt;Missed Opportunities&lt;/em&gt; between Mathematics
-and Physics, he begins with the story of the following MacDonald equation for
-Ramanujan’s Tau Function.&lt;/p&gt;
-
 &lt;center&gt;&lt;a class=&quot;info&quot; href=&quot;http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman&quot;&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
-&lt;img width=&quot;75%&quot; height=&quot;30%&quot; src=&quot;http://ctesta.com/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png&quot; /&gt;
+&lt;img width=&quot;75%&quot; height=&quot;30%&quot; src=&quot;http://localhost:4000/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png&quot; /&gt;
 &lt;br /&gt;
 &lt;span class=&quot;image-credit&quot;&gt;
 Image Credit: The Concinnitas Project
 &lt;/span&gt;
 &lt;/div&gt;&lt;/a&gt;
 &lt;/center&gt;
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;The MacDonald Equation is an astonishing formula, but to have also found
+&lt;p&gt;&lt;br /&gt;
+These are some of the most beautiful congruences in Number Theory and Mathematics.
+In a 1972 lecture by Freeman Dyson on the &lt;em&gt;Missed Opportunities&lt;/em&gt; between Mathematics
+and Physics, he begins with the story of the following MacDonald equation for
+Ramanujan’s Tau Function. The MacDonald Equation is an astonishing formula, but to have also found
 connections to physics highlights the depth to which Ramanujan’s $\tau$-function,
 born out of the discriminant $\Delta$, reaches into the abstract world.&lt;/p&gt;
 
@@ -344,6 +347,7 @@ still just beginning to understand their tremendous structure.&lt;/p&gt;
 &lt;h3 id=&quot;sources&quot;&gt;Sources&lt;/h3&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.math.uci.edu/~asilverb/bibliography/RanksCheatSheet.pdf&quot;&gt;Alice Silverberg : Ranks Cheat Sheet&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?isbn=0387215778&quot;&gt;Dale Husemöller : Elliptic Curves&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.vt.edu/people/brown/doc/dioellip.pdf&quot;&gt;Ezra Brown and Bruce T. Myers : Elliptic Curves from Mordell to Diophantus and Back&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964&quot;&gt;Freeman Dyson : Missed Opportunities&lt;/a&gt;&lt;/li&gt;
@@ -356,8 +360,8 @@ still just beginning to understand their tremendous structure.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves</guid>
+        <link>http://localhost:4000/articles/2017-03/Introduction-to-Elliptic-Curves</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Introduction-to-Elliptic-Curves</guid>
         
         <category>elliptic-curves</category>
         
@@ -458,7 +462,7 @@ entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lower
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf&quot;&gt;A Brief History of Elliptic Curves by Paul Hewitt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.math.ualberta.ca/mss/misc/A%20Mathematician&#39;s%20Apology.pdf&quot;&gt;A Mathematician’s Apology by G. H. Hardy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf&quot;&gt;A Mathematician’s Apology by G. H. Hardy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.maa.org/external_archive/devlin/LockhartsLament.pdf&quot;&gt;A Mathematician’s Lament by Paul Lockhart&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf&quot;&gt;Advice to a Young Mathematician&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.vt.edu/people/brown/doc/dioellip.pdf&quot;&gt;Elliptic Curves from Mordell to Diophantus and Back by Ezra Brown and Bruce Myers&lt;/a&gt;&lt;/li&gt;
@@ -469,8 +473,8 @@ entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lower
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Math-Resources</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Math-Resources</guid>
+        <link>http://localhost:4000/articles/2017-03/Math-Resources</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Math-Resources</guid>
         
         <category>math</category>
         
@@ -528,8 +532,8 @@ computationally intensive projects.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Data-Science-Resources</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Data-Science-Resources</guid>
+        <link>http://localhost:4000/articles/2017-03/Data-Science-Resources</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Data-Science-Resources</guid>
         
         <category>data-science</category>
         
@@ -619,8 +623,8 @@ functionality I’m looking for in packages.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Coding-in-Luxury</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Coding-in-Luxury</guid>
+        <link>http://localhost:4000/articles/2017-03/Coding-in-Luxury</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Coding-in-Luxury</guid>
         
         <category>coding</category>
         
@@ -654,10 +658,58 @@ geometry,&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/first-post</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/first-post</guid>
+        <link>http://localhost:4000/articles/2017-03/first-post</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/first-post</guid>
         
         <category>about-me</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Colorado State Photography</title>
+        <description>&lt;p&gt;I went to Colorado in the summer of 2016 and found some heart-moving and completely 
+serene photography opportunities. I spent time in Denver, Boulder, and, of course, the 
+Rocky Mountain National Park. I struggle to imagine a more picturesque
+photography experience than that with the brazen elk 
+right next to the road and the incredible towering mountain ranges spanning
+the park. The sense of peace that I could derive from 
+spending time in the park is a memory that will always
+continue to strengthen my desire to spend time in nature. 
+I truly enjoyed my time in Colorado, and I recommend that anybody 
+with an interest in the outdoors finds some time to relax and 
+enjoy the beautiful scenery there.&lt;/p&gt;
+
+&lt;ul class=&quot;photo-gallery&quot;&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0044.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0045.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0064.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0111.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0144.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0338.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0431.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0549.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0640.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0738.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0769.jpg&quot; /&gt;&lt;/li&gt;
+
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2016-08/Colorado-State-Photography</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-08/Colorado-State-Photography</guid>
         
         
       </item>
