@@ -37,6 +37,7 @@ moments into rich visualizations, and this always makes R exciting for me.
 - [Hadley Wickham : R Packages (Book)](http://r-pkgs.had.co.nz/)
 - [StackExchange Documentation : R](https://stackoverflow.com/documentation/r/topics)
 - [Rstudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+- [The Tidyverse](http://tidyverse.org/)
 - [HTML Widgets for R](http://www.htmlwidgets.org/)
 - [Shiny : A web application framework for R](https://shiny.rstudio.com/)
 - [Gitlogs : Top R GitHub Repositories](http://www.gitlogs.com/most_popular?language=R)
