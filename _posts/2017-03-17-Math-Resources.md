@@ -11,22 +11,14 @@ image:
     creditlink: https://johncarlosbaez.wordpress.com/2011/12/11/the-beauty-of-roots/
 ---
 
-Knowledge is the Great Equalizer. And when we live in a time of great
-wealth inequality, I believe mathematics is a way forward to empower those
-who have found themselves as underdogs. Whether it is for personal need,
-for a job, for money, or for a grand cause, to find beauty and elegance in
-the world, mathematics is meant to be shared and enjoyed by many.
-Individuals may approach mathematics from different perspectives,
-motivations, and mindsets, and regardless, mathematics strengthens
-and mystifies those who consume it. It is my hope that among these
-links readers will find interesting ideas and useful directions for their
-own personal benefit.
-
-- "A mathematician is a device for turning coffee into theorems."
+- "A mathematician is a device for turning coffee into theorems." -Alfréd Rényi
 - "God may not play dice with the universe, but something strange
-is going on with the prime numbers."
+is going on with the prime numbers." -Carl Pomerance
 - "It is not enough to be in the right place at the right time.
-You should also have an open mind at the right time."
+You should also have an open mind at the right time." -Paul Erdős
+
+Please, enjoy mathematics as I have. The following are many links and resources which 
+I have found useful as well as inspiring. 
 
 ## Communities
 
@@ -63,6 +55,19 @@ These are websites and blogs I find enlightening and entertaining.
 - [Terence Tao's What's New](https://terrytao.wordpress.com/)
 - [Circles Sines and Signals](https://jackschaedler.github.io/circles-sines-signals/)
 
+## Short and Recommended Reads
+
+- [A Brief History of Elliptic Curves by Paul Hewitt](http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf)
+- [A Mathematician's Apology by G. H. Hardy](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
+- [A Mathematician's Lament by Paul Lockhart](http://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
+- [Advice to a Young Mathematician](https://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf)
+- [Elliptic Curves from Mordell to Diophantus and Back by Ezra Brown and Bruce Myers](http://www.math.vt.edu/people/brown/doc/dioellip.pdf)
+- [List of Important Publications in Mathematics from Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics)
+- [Mathematical Knowledge: Internal, Social, and Cultural Aspects by Yuri Manin](https://arxiv.org/pdf/math/0703427v1.pdf)
+- [Missed Opportunities by Freeman Dyson](https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964)
+- [On Proof and Progress in Mathematics by William Thurston](https://arxiv.org/pdf/math/9404236v1.pdf)
+
+
 ## Learning Material
 
 Learning mathematics requires time, effort, and resources. Of course
@@ -84,14 +89,3 @@ entry into mathematics is (perhaps by some $\epsilon > 0$) slightly lowered.
 - [MathOverflow's Video Lectures](https://mathoverflow.net/questions/54430/video-lectures-of-mathematics-courses-available-online-for-free)
 - [ICERM Video Lectures](https://icerm.brown.edu/video_archive/#/index)
 
-## Short and Recommended Reads
-
-- [A Brief History of Elliptic Curves by Paul Hewitt](http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf)
-- [A Mathematician's Apology by G. H. Hardy](https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf)
-- [A Mathematician's Lament by Paul Lockhart](http://www.maa.org/external_archive/devlin/LockhartsLament.pdf)
-- [Advice to a Young Mathematician](https://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf)
-- [Elliptic Curves from Mordell to Diophantus and Back by Ezra Brown and Bruce Myers](http://www.math.vt.edu/people/brown/doc/dioellip.pdf)
-- [List of Important Publications in Mathematics from Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_mathematics)
-- [Mathematical Knowledge: Internal, Social, and Cultural Aspects by Yuri Manin](https://arxiv.org/pdf/math/0703427v1.pdf)
-- [* Missed Opportunities by Freeman Dyson](https://projecteuclid.org/download/pdf_1/euclid.bams/1183533964)
-- [On Proof and Progress in Mathematics by William Thurston](https://arxiv.org/pdf/math/9404236v1.pdf)
