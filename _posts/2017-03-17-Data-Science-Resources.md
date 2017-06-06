@@ -15,11 +15,9 @@ listed below some data science resources, followed by R-specific and Python-spec
 
 ## Data Science
 
-- [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 - [DataScienceMasters.org](http://datasciencemasters.org/)
 - [Artem Golubin's Data Science Reader](http://rushter.com/dsreader/)
 - [Kaggle Past Solutions](http://ndres.me/kaggle-past-solutions/)
-- [O'Reilly's Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
 - [Foundations for Deep Learning](https://github.com/pauli-space/foundations_for_deep_learning)
 
@@ -58,6 +56,8 @@ computationally intensive projects.
 - [StackOverflow Documentation : Python](https://stackoverflow.com/documentation/python/topics)
 - [Awesome-Python.com : Awesome-Python](https://awesome-python.com/)
 - [Python.Libhunt.com : Awesome Python](https://python.libhunt.com/)
+- [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [O'Reilly's Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
 - [Begginer's Guide to MatPlotLib](https://matplotlib.org/users/beginner.html)
 - [Ujjwalkarn : Python Data Science](https://github.com/ujjwalkarn/DataSciencePython)
