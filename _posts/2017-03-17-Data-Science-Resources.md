@@ -9,6 +9,19 @@ image:
     feature: "https://media.giphy.com/media/wi19UKOHzatY4/giphy.gif"
 ---
 
+This page is principally for me to save the links that I intend to come back to time and 
+time again. However, anyone is welcome to take a look at what I have collected. I have 
+listed below some data science resources, followed by R-specific and Python-specific resources. 
+
+## Data Science
+
+- [Data Science iPython Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+- [DataScienceMasters.org](http://datasciencemasters.org/)
+- [Artem Golubin's Data Science Reader](http://rushter.com/dsreader/)
+- [Kaggle Past Solutions](http://ndres.me/kaggle-past-solutions/)
+- [O'Reilly's Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Essential Cheat Sheets for Machine Learning and Deep Learning Engineers](https://medium.com/@kailashahirwar/essential-cheat-sheets-for-machine-learning-and-deep-learning-researchers-efb6a8ebd2e5)
+- [Foundations for Deep Learning](https://github.com/pauli-space/foundations_for_deep_learning)
 
 
 ## R
