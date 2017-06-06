@@ -8,7 +8,7 @@ image:
 
 # Welcome to my blog.
 
-This is my blog, hosted through GitHub pages using Ruby's Jekyll static-site generator. 
+This is my blog, hosted through GitHub pages using Ruby's static-site generator Jekyll. 
 I do photography, ballroom dance, mathematics, data science, programming, 
 craft cocktail making, and bicycling. I want to use mathematics and data science to 
 work in socially responsible scientific research and industries such as 
