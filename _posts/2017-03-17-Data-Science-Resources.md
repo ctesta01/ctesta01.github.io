@@ -20,14 +20,16 @@ At the R console raw data can be transformed in
 moments into rich visualizations, and this always makes R exciting for me.
 
 - [aRrgh : An Angry Guide to R](http://arrgh.tim-smith.us)
-- [Qinwf : Awesome-R](https://github.com/qinwf/awesome-R)
-- [Gitlogs : Top R GitHub Repositories](http://www.gitlogs.com/most_popular?language=R)
+- [Awesome-R.com](https://awesome-r.com/)
 - [StackExchange : Best Free R Resources Thread](https://stats.stackexchange.com/questions/138/free-resources-for-learning-r)
 - [Hadley Wickham : Advanced R (Book)](http://adv-r.had.co.nz/)
 - [Hadley Wickham : R Packages (Book)](http://r-pkgs.had.co.nz/)
+- [StackExchange Documentation : R](https://stackoverflow.com/documentation/r/topics)
 - [Rstudio Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
 - [HTML Widgets for R](http://www.htmlwidgets.org/)
 - [Shiny : A web application framework for R](https://shiny.rstudio.com/)
+- [Gitlogs : Top R GitHub Repositories](http://www.gitlogs.com/most_popular?language=R)
+
 
 ## Python
 
@@ -40,10 +42,11 @@ like Python is always creating new opportunites for more subtle and more
 computationally intensive projects.
 
 - [Chris Swierczewski's High Performance Computing Course at UW](https://github.com/uwhpsc-2016)
-- [Begginer's Guide to MatPlotLib](https://matplotlib.org/users/beginner.html)
-- [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
+- [StackOverflow Documentation : Python](https://stackoverflow.com/documentation/python/topics)
 - [Awesome-Python.com : Awesome-Python](https://awesome-python.com/)
 - [Python.Libhunt.com : Awesome Python](https://python.libhunt.com/)
+- [Pandas Documentation](http://pandas.pydata.org/pandas-docs/stable/)
+- [Begginer's Guide to MatPlotLib](https://matplotlib.org/users/beginner.html)
 - [Ujjwalkarn : Python Data Science](https://github.com/ujjwalkarn/DataSciencePython)
 - [Jyotiska : Lesser Known Python Libraries](http://jyotiska.github.io/blog/posts/python_libraries.html)
 - [PtPython : A Better Python REPL](https://github.com/jonathanslenders/ptpython)
