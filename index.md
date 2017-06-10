@@ -17,7 +17,7 @@ I do photography, ballroom dance, mathematics, data science, programming, and bi
 - [Washington State](http://ctesta.com/articles/2016-08/Washington-State-Photography)
 
 ## Resources
-- [Mathematics Resources](http://ctesta.com/articles/2017-03/Math-Resources)
+- [Mathematics](http://ctesta.com/articles/2017-03/Math-Resources)
 - [Data Science](http://ctesta.com/articles/2017-03/Data-Science-Resources)
 - [Coding in Luxury: Vim, Tmux, Git, Bash, and Fish](http://ctesta.com/articles/2017-03/Coding-in-Luxury)
 
