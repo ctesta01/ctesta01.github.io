@@ -2,9 +2,6 @@
 layout: page
 permalink: /about-me
 title: Christian Testa | About Me
-image:
-    feature: /img/2017-03-17/about-me.jpg
-    credit: At Rocky Mountain National Park, shot by Michael Testa
 ---
 
 # I am a mathematician and programmer.
@@ -14,6 +11,9 @@ image:
 <img width="55%" src="{{ site.url }}/img/2017-03-17/about-me.jpg">
 </div>
 </center>
+<span class="image-credit">
+At Rocky Mountain National Park, shot by Michael Testa
+</span>
 
 I want to use mathematics and data science to 
  in socially responsible scientific research and industries such as 
