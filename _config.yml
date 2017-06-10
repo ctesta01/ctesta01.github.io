@@ -39,7 +39,6 @@ owner:
   email: christian.testa@tufts.edu
   disqus-shortname: ctesta
   twitter: ctesta000
-  facebook: ctesta000
   google:
     plus: #username
     analytics:
@@ -49,8 +48,8 @@ owner:
   bing-verify:
   github: ctesta01
   gitlab: #username
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  stackoverflow: 3161979/ctesta01   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: christian-testa-0062b361
   skype: #username
   xing: #username
   instagram: #username
