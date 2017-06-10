@@ -9,15 +9,8 @@ image:
 # Welcome to my blog.
 
 This is my blog, hosted through GitHub pages using Ruby's static-site generator Jekyll. 
-I do photography, ballroom dance, mathematics, data science, programming, 
-craft cocktail making, and bicycling. I want to use mathematics and data science to 
-work in socially responsible scientific research and industries such as 
-environmental science, public health, privacy advocacy, and 
-the economics of wealth inequality and poverty. My academic background heavily focuses 
-on both theoretical and applied mathematics, including subjects such as high performance 
-computing, data analysis, numerical linear algebra, number theory, abstract algebra, and 
-plenty more. I hope you will find enjoyable content on my website, and feel free to leave
-a comment letting me know you've dropped by.
+I do photography, ballroom dance, mathematics, data science, programming, and bicycling. 
+
 
 ## Photography
 - [Colorado State](http://ctesta.com/articles/2016-08/Colorado-State-Photography)
