@@ -12,7 +12,7 @@ title: Christian Testa | About Me
 </div>
 </center>
 <span class="image-credit">
-At Rocky Mountain National Park, shot by Michael Testa
+Photo Credit: At Rocky Mountain National Park, shot by Michael Testa.
 </span>
 
 I want to use mathematics and data science to 
