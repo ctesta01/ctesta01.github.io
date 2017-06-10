@@ -12,18 +12,13 @@ title: Christian Testa | About Me
 </div>
 </center>
 
-My experience is vast and varied. In 2017, I am graduating from Tufts
-culminating with a Seniors Honors Thesis on Elliptic Curves, the subject
-of one my first posts. I have focused on subjects like Web Engineering,
-Abstract Algebra, High Performance Computing, and Data Analysis.
-In the past, I have worked for HostGator on Linux
-and Apache web stacks. At the Tufts Office of Institutional Research
-with R building web apps automating processing Qualtrics survey data.
-For the Journal of Medical Insight I worked on *"Docker-izing"* a
-Django rebuild of their website. I dream of architecting combinations
-of Mathematics and Technology, empowering more people to appreciate the
-beauty of theory, while harnessing the power of the web as a medium.
-
-My interests include Number Theory, Web Engineering, and Data Visualization.
+I want to use mathematics and data science to 
+ in socially responsible scientific research and industries such as 
+environmental science, public health, privacy advocacy, and 
+the economics of wealth inequality and poverty. My academic background heavily focuses 
+on both theoretical and applied mathematics, including subjects such as high performance 
+computing, data analysis, numerical linear algebra, number theory, abstract algebra, and 
+plenty more. I hope you will find enjoyable content on my website, and feel free to leave
+a comment letting me know you've dropped by.
 
 - [Curriculum Vitae]({{ site.url }}/assets/Christian%20Testa%20-%20Resume.pdf)
