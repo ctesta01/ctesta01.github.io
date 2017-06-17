@@ -12,20 +12,39 @@ This is my blog, hosted through GitHub pages using Ruby's static-site generator 
 I do photography, ballroom dance, mathematics, data science, programming, and bicycling. 
 
 
-## Photography
-- [Colorado State](http://ctesta.com/articles/2016-08/Colorado-State-Photography)
-- [Washington State](http://ctesta.com/articles/2016-08/Washington-State-Photography)
-
-## Resources
-- [Mathematics](http://ctesta.com/articles/2017-03/Math-Resources)
-- [Data Science](http://ctesta.com/articles/2017-03/Data-Science-Resources)
-- [Coding in Luxury: Vim, Tmux, Git, Bash, and Fish](http://ctesta.com/articles/2017-03/Coding-in-Luxury)
-
-## My Projects
-- [Introduction to the Theory of Elliptic Curves](http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves)
-- [QualtricsTools : An R Web App](http://ctesta.com/articles/2017-03/Qualtrics-Tools)
-- [YouTube Clipper : A Simple Static Site](http://ctesta.com/articles/2017-03/YouTube-Clipper)
-
-## Casually Interesting
-- [The Buddhabrot Fractal in 4k](http://ctesta.com/articles/2017-03/Buddhabrot.html)
-- [Ken Ono on the Partition Function](https://www.youtube.com/watch?v=aj4FozCSg8g)
+<table>
+<tr>
+<th style="vertical-align: top;">
+<h2 id="photography">Photography</h2>
+<ul>
+<li><a href="http://ctesta.com/articles/2016-08/Colorado-State-Photography">Colorado State</a></li>
+<li><a href="http://ctesta.com/articles/2016-08/Washington-State-Photography">Washington State</a></li>
+</ul>
+</th>
+<th style="vertical-align: top;" >
+<h2 id="myprojects">My Projects</h2>
+<ul>
+<li><a href="http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves">Introduction to the Theory of Elliptic Curves</a></li>
+<li><a href="http://ctesta.com/articles/2017-03/Qualtrics-Tools">QualtricsTools : An R Web App</a></li>
+<li><a href="http://ctesta.com/articles/2017-03/YouTube-Clipper">YouTube Clipper : A Simple Static Site</a></li>
+</ul>
+</th>
+</tr>
+<tr>
+<th style="vertical-align: top;" >
+<h2 id="resources">Resources</h2>
+<ul>
+<li><a href="http://ctesta.com/articles/2017-03/Math-Resources">Mathematics</a></li>
+<li><a href="http://ctesta.com/articles/2017-03/Data-Science-Resources">Data Science</a></li>
+<li><a href="http://ctesta.com/articles/2017-03/Coding-in-Luxury">Coding in Luxury: Vim, Tmux, Git, Bash, and Fish</a></li>
+</ul>
+</th>
+<th style="vertical-align: top;" >
+<h2 id="interestinglinks">Interesting Links</h2>
+<ul>
+<li><a href="http://ctesta.com/articles/2017-03/Buddhabrot.html">The Buddhabrot Fractal in 4k</a></li>
+<li><a href="https://www.youtube.com/watch?v=aj4FozCSg8g">Ken Ono on the Partition Function</a></li>
+</ul>
+</th>
+</tr>
+</table>

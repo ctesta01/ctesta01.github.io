@@ -3,11 +3,11 @@
   <channel>
     <title>Christian Testa | A Blog</title>
     <description>My blog about math, experiments, and life.</description>
-    <link>http://localhost:4000/</link>
-    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 06 Jun 2017 17:18:24 +0000</pubDate>
-    <lastBuildDate>Tue, 06 Jun 2017 17:18:24 +0000</lastBuildDate>
-    <generator>Jekyll v3.4.1</generator>
+    <link>http://ctesta.com/</link>
+    <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Jun 2017 19:57:17 +0000</pubDate>
+    <lastBuildDate>Sat, 17 Jun 2017 19:57:17 +0000</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>YouTube Clipper</title>
@@ -29,8 +29,8 @@ This is a simple solution to a simple problem.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/YouTube-Clipper</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/YouTube-Clipper</guid>
+        <link>http://ctesta.com/articles/2017-03/YouTube-Clipper</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/YouTube-Clipper</guid>
         
         <category>javascript</category>
         
@@ -42,7 +42,7 @@ This is a simple solution to a simple problem.&lt;/p&gt;
       <item>
         <title>QualtricsTools : Automated Survey Processing</title>
         <description>&lt;center&gt;&lt;a href=&quot;https://github.com/ctesta01/QualtricsTools&quot;&gt;
-&lt;img src=&quot;http://localhost:4000/img/2017-03-17/QualtricsTools.png&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;http://ctesta.com/img/2017-03-17/QualtricsTools.png&quot; width=&quot;90%&quot; /&gt;
 &lt;br /&gt;
 &lt;span class=&quot;image-credit&quot;&gt;QualtricsTools, an R web-app&lt;/span&gt;&lt;/a&gt;
 &lt;/center&gt;
@@ -53,8 +53,8 @@ in CSV format and automatically calculate tables and frequencies custom to the s
 questions types, format, and responses. Check out the GitHub project for more information.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/Qualtrics-Tools</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Qualtrics-Tools</guid>
+        <link>http://ctesta.com/articles/2017-03/Qualtrics-Tools</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Qualtrics-Tools</guid>
         
         <category>R</category>
         
@@ -74,8 +74,8 @@ questions types, format, and responses. Check out the GitHub project for more in
 &lt;p&gt;It is a more complex version of the Mandelbrot fractal. Check out the &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhabrot&quot;&gt;Buddhabrot&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Mandelbrot_set&quot;&gt;the Mandelbrot set on Wikipedia&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/Buddhabrot</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Buddhabrot</guid>
+        <link>http://ctesta.com/articles/2017-03/Buddhabrot</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Buddhabrot</guid>
         
         <category>math</category>
         
@@ -104,7 +104,7 @@ https://en.wikipedia.org/wiki/Blackboard_bold
 Sources:
 - Fluid Flow: https://web.stanford.edu/~cantwell/Difficult_to_find_publications/Elliptic_Curves_and_3D_flow_patterns_Cantwell_2000.pdf
 - Sphere Packing: http://www.jmilne.org/math/Books/ectext5.pdf
-- String Theory: Husemöller's Text on Elliptic Curves
+- String Theory: Husemöller&#39;s Text on Elliptic Curves
 - History of Curves
 - http://www.math.vt.edu/people/brown/doc/dioellip.pdf
 - http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf
@@ -123,7 +123,7 @@ are the degree three nonsingular algebraic plane curves with at least one
 rational point.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img width=&quot;65%&quot; src=&quot;http://localhost:4000/img/2017-03-05/three-example-curves.png&quot; /&gt;
+&lt;img width=&quot;65%&quot; src=&quot;http://ctesta.com/img/2017-03-05/three-example-curves.png&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;Their existence was considered by Diophantus in the 2nd century a.d. in
@@ -171,8 +171,8 @@ to the rational points of an elliptic curve.&lt;/p&gt;
 
 &lt;center&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
-&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Addition&quot; src=&quot;http://localhost:4000/img/2017-03-17/ch2-point-addition.png&quot; /&gt;
-&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Multiplication&quot; src=&quot;http://localhost:4000/img/2017-03-17/ch2-point-multiplication.png&quot; /&gt;
+&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Addition&quot; src=&quot;http://ctesta.com/img/2017-03-17/ch2-point-addition.png&quot; /&gt;
+&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Multiplication&quot; src=&quot;http://ctesta.com/img/2017-03-17/ch2-point-multiplication.png&quot; /&gt;
 &lt;br /&gt;
 Point Addition and Multiplication
 &lt;/div&gt;
@@ -207,7 +207,7 @@ $\omega_2$ is normalized to 1, simply $\Lambda = \mathbb Z \omega + \mathbb Z$.&
 &lt;img height=&quot;15%&quot; width=&quot;15%&quot; alt=&quot;Wikipedia Lattice Construction&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Weierstrass_p.svg/150px-Weierstrass_p.svg.png&quot; /&gt;
 &lt;img height=&quot;15%&quot; width=&quot;15%&quot; alt=&quot;Wikipedia Lattice Construction&quot; src=&quot;https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Weierstrass_elliptic_function_P.png/1280px-Weierstrass_elliptic_function_P.png&quot; /&gt;
 &lt;br /&gt;
-&lt;a href=&quot;https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions&quot;&gt;Weierstraß' $\wp$ function.&lt;/a&gt;
+&lt;a href=&quot;https://en.wikipedia.org/wiki/Weierstrass%27s_elliptic_functions&quot;&gt;Weierstraß&#39; $\wp$ function.&lt;/a&gt;
 &lt;/div&gt;
 &lt;/center&gt;
 
@@ -228,7 +228,7 @@ conics are genus zero curves.&lt;/p&gt;
 through his $\wp$ function, and that it followed the differential
 equation:&lt;/p&gt;
 
-&lt;script type=&quot;math/tex; mode=display&quot;&gt;\wp' (z)^2 = 4 \wp^3 (z) -g_4 \wp (z) - g_6,&lt;/script&gt;
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\wp&#39; (z)^2 = 4 \wp^3 (z) -g_4 \wp (z) - g_6,&lt;/script&gt;
 
 &lt;p&gt;where $g_4 = 60G_4$ and $g_6 = 140G_6$ and $G_n$ is Eisenstein’s series given by
 &lt;script type=&quot;math/tex&quot;&gt;G_n = \sum_{\omega \neq 0} \frac{1}{\omega^n}.&lt;/script&gt;&lt;/p&gt;
@@ -318,7 +318,7 @@ p(11k+6) &amp; \equiv 0 \pmod {11}.
 
 &lt;center&gt;&lt;a class=&quot;info&quot; href=&quot;http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman&quot;&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
-&lt;img width=&quot;75%&quot; height=&quot;30%&quot; src=&quot;http://localhost:4000/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png&quot; /&gt;
+&lt;img width=&quot;75%&quot; height=&quot;30%&quot; src=&quot;http://ctesta.com/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png&quot; /&gt;
 &lt;br /&gt;
 &lt;span class=&quot;image-credit&quot;&gt;
 Image Credit: The Concinnitas Project
@@ -360,8 +360,8 @@ still just beginning to understand their tremendous structure.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/Introduction-to-Elliptic-Curves</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Introduction-to-Elliptic-Curves</guid>
+        <link>http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves</guid>
         
         <category>elliptic-curves</category>
         
@@ -435,7 +435,7 @@ I recommend losing yourself in them.&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;http://livetoad.org/Courses/Documents/132d/Notes/history_of_elliptic_curves.pdf&quot;&gt;A Brief History of Elliptic Curves by Paul Hewitt&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.math.ualberta.ca/mss/misc/A%20Mathematician's%20Apology.pdf&quot;&gt;A Mathematician’s Apology by G. H. Hardy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.math.ualberta.ca/mss/misc/A%20Mathematician&#39;s%20Apology.pdf&quot;&gt;A Mathematician’s Apology by G. H. Hardy&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.maa.org/external_archive/devlin/LockhartsLament.pdf&quot;&gt;A Mathematician’s Lament by Paul Lockhart&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://press.princeton.edu/chapters/gowers/gowers_VIII_6.pdf&quot;&gt;Advice to a Young Mathematician&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.math.vt.edu/people/brown/doc/dioellip.pdf&quot;&gt;Elliptic Curves from Mordell to Diophantus and Back by Ezra Brown and Bruce Myers&lt;/a&gt;&lt;/li&gt;
@@ -470,8 +470,8 @@ entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lower
 
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/Math-Resources</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Math-Resources</guid>
+        <link>http://ctesta.com/articles/2017-03/Math-Resources</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Math-Resources</guid>
         
         <category>math</category>
         
@@ -506,10 +506,12 @@ moments into rich visualizations, and this always makes R exciting for me.&lt;/p
   &lt;li&gt;&lt;a href=&quot;http://arrgh.tim-smith.us&quot;&gt;aRrgh : An Angry Guide to R&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://awesome-r.com/&quot;&gt;Awesome-R.com&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://stats.stackexchange.com/questions/138/free-resources-for-learning-r&quot;&gt;StackExchange : Best Free R Resources Thread&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://adv-r.had.co.nz/&quot;&gt;Hadley Wickham : Advanced R (Book)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://r-pkgs.had.co.nz/&quot;&gt;Hadley Wickham : R Packages (Book)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://adv-r.had.co.nz/&quot;&gt;Advanced R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r-pkgs.had.co.nz/&quot;&gt;R Packages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r4ds.had.co.nz/introduction.html&quot;&gt;R for Data Science&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/documentation/r/topics&quot;&gt;StackExchange Documentation : R&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.rstudio.com/resources/cheatsheets/&quot;&gt;Rstudio Cheat Sheets&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tidyverse.org/&quot;&gt;The Tidyverse&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.htmlwidgets.org/&quot;&gt;HTML Widgets for R&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://shiny.rstudio.com/&quot;&gt;Shiny : A web application framework for R&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.gitlogs.com/most_popular?language=R&quot;&gt;Gitlogs : Top R GitHub Repositories&lt;/a&gt;&lt;/li&gt;
@@ -543,8 +545,8 @@ computationally intensive projects.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/Data-Science-Resources</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Data-Science-Resources</guid>
+        <link>http://ctesta.com/articles/2017-03/Data-Science-Resources</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Data-Science-Resources</guid>
         
         <category>data-science</category>
         
@@ -633,8 +635,8 @@ functionality I’m looking for in packages.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/Coding-in-Luxury</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Coding-in-Luxury</guid>
+        <link>http://ctesta.com/articles/2017-03/Coding-in-Luxury</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Coding-in-Luxury</guid>
         
         <category>coding</category>
         
@@ -668,8 +670,8 @@ geometry,&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2017-03/first-post</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/first-post</guid>
+        <link>http://ctesta.com/articles/2017-03/first-post</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/first-post</guid>
         
         <category>about-me</category>
         
@@ -692,35 +694,35 @@ item on my agenda would be getting back to Olympic National Park.&lt;/p&gt;
 
 &lt;ul class=&quot;photo-gallery&quot;&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0010.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0010.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0031.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0031.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0032.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0032.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0212.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0212.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0451.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0451.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0502.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0502.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0596.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0596.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0607.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0607.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0623.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0623.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0645.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0645.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0894.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0894.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0905.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0905.jpg&quot; /&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2016-08/Washington-State-Photography</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2016-08/Washington-State-Photography</guid>
+        <link>http://ctesta.com/articles/2016-08/Washington-State-Photography</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2016-08/Washington-State-Photography</guid>
         
         
       </item>
@@ -741,34 +743,34 @@ the beautiful scenery there.&lt;/p&gt;
 
 &lt;ul class=&quot;photo-gallery&quot;&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0044.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0044.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0045.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0045.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0064.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0064.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0111.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0111.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0144.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0144.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0338.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0338.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0431.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0431.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0549.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0549.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0640.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0640.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0738.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0738.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0769.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0769.jpg&quot; /&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 
 </description>
         <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2016-08/Colorado-State-Photography</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2016-08/Colorado-State-Photography</guid>
+        <link>http://ctesta.com/articles/2016-08/Colorado-State-Photography</link>
+        <guid isPermaLink="true">http://ctesta.com/articles/2016-08/Colorado-State-Photography</guid>
         
         
       </item>
