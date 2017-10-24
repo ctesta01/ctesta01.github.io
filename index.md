@@ -9,7 +9,7 @@ image:
 # Welcome to my blog.
 
 This is my blog, hosted through GitHub pages using Ruby's static-site generator Jekyll. 
-I do photography, ballroom dance, mathematics, data science, programming, and bicycling. 
+I enjoy photography, ballroom dance, mathematics, data science, programming, cooking and a whole lot more. 
 
 
 <table>
