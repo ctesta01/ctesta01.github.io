@@ -1,20 +1,23 @@
 ---
 layout: post
 title: "Getting Started in R"
+toc: true
 ---
 
 This is an introduction to the R programming language. I would like this
 introduction to be as accessible and useful as possible for users of all
 proficiency levels. Every link below will include free resources.
 
-Before diving into the R programming language, I would highly recommend
-installing the [RStudio](https://www.rstudio.com/) development environment.
-It makes a lot of interactions with the R programming language and peripheral
-programming related tasks (version controlling, connecting to databases, code-formatting, etc.) much easier.
+{{ content | toc }}
 
 ---
 
 ### Beginner Resources
+
+Before diving into the R programming language, I would highly recommend
+installing the [RStudio](https://www.rstudio.com/) development environment.
+It makes a lot of interactions with the R programming language and peripheral
+programming related tasks (version controlling, connecting to databases, code-formatting, etc.) much easier.
 
 If you're a beginner and you want to get started with R as fast as possible, 
 I recommend the following guides: 
