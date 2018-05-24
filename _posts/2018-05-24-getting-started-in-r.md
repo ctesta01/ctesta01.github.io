@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Started in R
+title: "Getting Started in R"
 ---
 
 This is an introduction to the R programming language. I would like this
