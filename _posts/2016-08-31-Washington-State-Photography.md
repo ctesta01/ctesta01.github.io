@@ -2,6 +2,8 @@
 layout: post
 image:
     feature: 2016-08-31-Washington/DSC_0607.jpg
+categories: [photography]
+tags: [photography]
 images:
 - image_path: /img/2016-08-31-Washington/DSC_0010.jpg
 - image_path: /img/2016-08-31-Washington/DSC_0031.jpg

@@ -2,7 +2,8 @@
 layout: post
 title: "Data Science Resources"
 modified: 2017-03-17
-tags: [data-science]
+tags: [data-science, programming, resources]
+categories: [resources]
 comments: true
 image:
     feature: "https://media.giphy.com/media/wi19UKOHzatY4/giphy.gif"

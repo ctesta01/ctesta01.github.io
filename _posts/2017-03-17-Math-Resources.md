@@ -2,7 +2,8 @@
 layout: post
 title: "Mathematical Resources"
 modified: 2017-03-17
-tags: [math]
+tags: [mathematics, resources]
+categories: [mathematics]
 comments: true
 image:
     feature: "2018-06-28/mathematics.png"

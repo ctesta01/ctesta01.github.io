@@ -2,7 +2,7 @@
 layout: post
 title: "YouTube Clipper"
 modified: ""
-tags: [javascript, web-app]
+tags: [javascript, web-apps]
 categories: [web-programming]
 comments: true
 image: http://ctesta.com/img/2017-03-17/YouTube-Clipper.png

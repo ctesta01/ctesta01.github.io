@@ -3,11 +3,193 @@
   <channel>
     <title>Christian Testa</title>
     <description>My blog about math, experiments, and life.</description>
-    <link>http://ctesta.com/</link>
-    <atom:link href="http://ctesta.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jun 2018 17:36:11 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Jun 2018 17:36:11 +0000</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 28 Jun 2018 18:04:15 +0000</pubDate>
+    <lastBuildDate>Thu, 28 Jun 2018 18:04:15 +0000</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
+    
+      <item>
+        <title>Getting Started in R</title>
+        <description>&lt;p&gt;This is an introduction to the R programming language. I would like this
+introduction to be as accessible and useful as possible for users of all
+proficiency levels. Every link below will include free resources.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;beginner-resources&quot;&gt;Beginner Resources&lt;/h3&gt;
+
+&lt;p&gt;Before diving into the R programming language, I would highly recommend
+installing the &lt;a href=&quot;https://www.rstudio.com/&quot;&gt;RStudio&lt;/a&gt; development environment.
+It makes a lot of interactions with the R programming language and peripheral
+programming related tasks (version controlling, connecting to databases, code-formatting, etc.) much easier.&lt;/p&gt;
+
+&lt;p&gt;If you’re a beginner and you want to get started with R as fast as possible, 
+I recommend the following guides:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://swirlstats.com/&quot;&gt;Swirl : Learn R, in R&lt;/a&gt; - Swirl allows newcomers to
+start interacting with the R programming language through guided tutorials 
+primarily aimed at beginners.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://learnxinyminutes.com/docs/r/&quot;&gt;Learn X in Y Minutes : R&lt;/a&gt; - Learn X
+in Y Minutes walks readers through an example script which demonstrates
+many of the important R language features without getting too bogged down
+on any specific topic. This is a great quick reference for the syntax of R.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.johndcook.com/blog/r_language_for_programmers/&quot;&gt;R Language for Programmers&lt;/a&gt; - If you have any experience programming but are new to R, or would simply like a quick refresher on the basic language features of R, this is a good reference.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.cookbook-r.com/&quot;&gt;Cookbook for R&lt;/a&gt; - This website (and its corresponding book) provide examples and tutorials on many of the most common tasks that programmers are accomplishing with R.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Lastly, I want to encourage people to use the &lt;code class=&quot;highlighter-rouge&quot;&gt;help.start()&lt;/code&gt; feature in R.
+Open the R console, type &lt;code class=&quot;highlighter-rouge&quot;&gt;help.start()&lt;/code&gt;, and hit enter. A window will open
+which allows you to view the R manuals, check out packages’ documentation, 
+and search for keywords on R-specific sites and resources.&lt;/p&gt;
+
+&lt;p&gt;Keep in mind that you can always use &lt;code class=&quot;highlighter-rouge&quot;&gt;?command&lt;/code&gt; or &lt;code class=&quot;highlighter-rouge&quot;&gt;help()&lt;/code&gt; to look up help
+without leaving your R or RStudio session.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;more-technical-resources&quot;&gt;More Technical Resources&lt;/h3&gt;
+
+&lt;p&gt;Once you have some familiarity with R and want to understand it more
+rigorously, I think these resources can help with that:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cran.r-project.org/doc/manuals/R-intro.pdf&quot;&gt;An Introduction to R&lt;/a&gt; - This introduction to R is quite comprehensive and technical. I should 
+point out that while other guides may discuss packages outside the base R language, this introduction focuses entirely on the base R language. Many people will recommend that it is important to understand the base R language, and then to quickly move onto using the nearly self-contained ecosystems 
+implemented in packages like the tidyverse,&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://arrgh.tim-smith.us/&quot;&gt;aRrgh, a newcomer’s (angry) guide to R&lt;/a&gt; -
+aRrgh takes the stance that as R is a programming language predominantly
+developed by statisticians and not programmers, it has some very quirky and
+at times outright offensive features. Despite this, R comes with tools and
+ideas that make it uniquely suitable for statistical data analysis and
+after learning its quirks many people find R to be an indespensible tool
+they frequently reach for. aRrgh is a guide on those quirks and “gotchas.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.burns-stat.com/pages/Tutor/R_inferno.pdf&quot;&gt;The R
+Inferno&lt;/a&gt; - “If you are
+using R and you think you’re in hell, this is a map for you.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.r-bloggers.com/how-to-learn-r-2/&quot;&gt;R-Bloggers : Tutorials for Learning
+R&lt;/a&gt; - R-Bloggers is a popular
+website among R users where R tutorials and blogposts are aggregated and
+widely distributed. This is a great post, similar to this one of mine, delineating resources in an ordering suitable for newcomers to the R language.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://csgillespie.github.io/efficientR/index.html&quot;&gt;Efficient R Programming&lt;/a&gt; - This book takes a dive into the topic of writing R code which is efficient while keeping the prerequisite knowledge of the language to a minimum.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://r-pkgs.had.co.nz/intro.html&quot;&gt;R Packages&lt;/a&gt; - R Packages are an 
+integral part of the R ecosystem, and it is considered good practice to
+format your work as a package where possible due to the many added perks
+gained from R’s package development tools.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://adv-r.had.co.nz/&quot;&gt;Advanced R&lt;/a&gt; - Advanced R takes a closer look at
+the technical features of the R programming language to help users improve
+their R programming skills.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cran.r-project.org/&quot;&gt;The R Manuals&lt;/a&gt; - The R Manuals from CRAN are
+for those who want to take a deep dive into the fundamentals of the R
+programming language. In particular, I recommend checking out The R Language
+Definition and R Internals if you really want to understand how R works.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&quot;topic-specific-resources&quot;&gt;Topic-Specific Resources&lt;/h3&gt;
+
+&lt;p&gt;While some may spend lifetimes understanding R’s internals and subtleties,
+others may have the goal of just getting things done. For achieving this, I
+would make different recommendations than I would to those who want to
+rigorously understand the language. To accomplish specific goals and finish
+your projects implemented in R, I would recommend the following resources:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.rstudio.com/resources/cheatsheets/&quot;&gt;RStudio’s Cheat Sheets&lt;/a&gt; -
+RStudio’s Cheat Sheets are great at-a-glance reference cards for many of the
+popular packages and features of R. They have ones for many topics, 
+including 
+&lt;a href=&quot;http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf&quot;&gt;base R&lt;/a&gt;,
+&lt;a href=&quot;https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf&quot;&gt;the RStudio development environment&lt;/a&gt;, 
+&lt;a href=&quot;https://github.com/rstudio/cheatsheets/raw/master/data-visualization-2.1.pdf&quot;&gt;ggplot2, a data visualization package&lt;/a&gt;, 
+and many, many more.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://cran.r-project.org/web/views/&quot;&gt;CRAN’s Task Views&lt;/a&gt; - CRAN’s Task Views organize packages into topics to make them more easily discoverable.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://awesome-r.com/&quot;&gt;Awesome-R&lt;/a&gt; - Awesome R is a curated list of R packages and tools which is great for discovering new and popular packages to 
+help you accomplish a given task.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://r4ds.had.co.nz/&quot;&gt;R for Data Science&lt;/a&gt; - R for Data Science, or R4DS, is a very popular book in the R community which teaches users to perform statistical analyses, visualize them, and to communicate their results effectively using the tools the R community has to offer.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://web.stanford.edu/~hastie/ElemStatLearn/&quot;&gt;The Elements of Statistical Learning: Data Mining, Inference, and Prediction&lt;/a&gt; is the 2nd edition of a popular, mathematically rigorous, treatment of statistical learning with R examples. The PDF of the book is available for free, and a real gift to the community.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.tidytextmining.com/&quot;&gt;Text Mining with R : A Tidy Approach&lt;/a&gt; - Another popular topic these days is natural language processing. Text Mining with R introduces ideas on how one can use the &lt;em&gt;tidy data&lt;/em&gt; paradigm to ease their textual analyses.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://shiny.rstudio.com/&quot;&gt;Shiny from RStudio&lt;/a&gt; - Shiny is a web framework for R with ever-improving documentation and articles. Shiny makes it easy 
+for users to interact with data analyses through web-interfaces that functions
+through a reactive programming paradigm.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.showmeshiny.com/&quot;&gt;Show Me Shiny&lt;/a&gt; - In addition to the references available on RStudio’s website for Shiny, I also highly recommend the examples available at showmeshiny.com. These showcase many nontrivial and novel use-cases for Shiny and can often serve as inspirational material.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.htmlwidgets.org/&quot;&gt;htmlwidgets for R&lt;/a&gt; - Create JavaScript based
+widgets to render interactive data visualizations within R.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.cookbook-r.com/Graphs/&quot;&gt;R Graphics Cookbook&lt;/a&gt; - This resource
+appears as if it is just one chapter inside the R Cookbook already linked
+above, but in actuality it is a whole book on its own dedicated to the
+subject of producing graphics and plots with R. This book makes heavy use of
+ggplot2, one of the most popular graphics frameworks which employs a theory
+of the &lt;em&gt;grammar of graphics&lt;/em&gt; to make writing code to produce graphics more
+natural and straightforward.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://www.rcpp.org/&quot;&gt;Rcpp&lt;/a&gt;, &lt;a href=&quot;http://dirk.eddelbuettel.com/code/rcpp/Rcpp-introduction.pdf&quot;&gt;Rcpp-introduction&lt;/a&gt;, and the &lt;a href=&quot;https://cran.r-project.org/web/packages/Rcpp/vignettes/&quot;&gt;Rcpp vignettes&lt;/a&gt; - Rcpp is a package which provides a seamless interface between C++ and R. This is a great utility for speeding up projects in R&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 24 May 2018 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2018-05/getting-started-in-r</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2018-05/getting-started-in-r</guid>
+        
+        <category>rstats</category>
+        
+        <category>resources</category>
+        
+        <category>programming</category>
+        
+        
+        <category>rstats</category>
+        
+        <category>programming</category>
+        
+      </item>
     
       <item>
         <title>YouTube Clipper</title>
@@ -29,12 +211,12 @@ This is a simple solution to a simple problem.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/YouTube-Clipper</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/YouTube-Clipper</guid>
+        <link>http://localhost:4000/articles/2017-03/YouTube-Clipper</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/YouTube-Clipper</guid>
         
         <category>javascript</category>
         
-        <category>web-app</category>
+        <category>web-apps</category>
         
         
         <category>web-programming</category>
@@ -44,7 +226,7 @@ This is a simple solution to a simple problem.&lt;/p&gt;
       <item>
         <title>QualtricsTools : Automated Survey Processing</title>
         <description>&lt;center&gt;&lt;a href=&quot;https://github.com/ctesta01/QualtricsTools&quot;&gt;
-&lt;img src=&quot;http://ctesta.com/img/2017-03-17/QualtricsTools.png&quot; width=&quot;90%&quot; /&gt;
+&lt;img src=&quot;http://localhost:4000/img/2017-03-17/QualtricsTools.png&quot; width=&quot;90%&quot; /&gt;
 &lt;br /&gt;
 &lt;span class=&quot;image-credit&quot;&gt;QualtricsTools, an R web-app&lt;/span&gt;&lt;/a&gt;
 &lt;/center&gt;
@@ -55,12 +237,12 @@ in CSV format and automatically calculate tables and frequencies custom to the s
 questions types, format, and responses. Check out the GitHub project for more information.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Qualtrics-Tools</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Qualtrics-Tools</guid>
+        <link>http://localhost:4000/articles/2017-03/Qualtrics-Tools</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Qualtrics-Tools</guid>
         
-        <category>R</category>
+        <category>rstats</category>
         
-        <category>web-app</category>
+        <category>web-apps</category>
         
         
         <category>web-programming</category>
@@ -78,10 +260,10 @@ questions types, format, and responses. Check out the GitHub project for more in
 &lt;p&gt;It is a more complex version of the Mandelbrot fractal. Check out the &lt;a href=&quot;https://en.wikipedia.org/wiki/Buddhabrot&quot;&gt;Buddhabrot&lt;/a&gt; and &lt;a href=&quot;https://en.wikipedia.org/wiki/Mandelbrot_set&quot;&gt;the Mandelbrot set on Wikipedia&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 19 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Buddhabrot</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Buddhabrot</guid>
+        <link>http://localhost:4000/articles/2017-03/Buddhabrot</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Buddhabrot</guid>
         
-        <category>math</category>
+        <category>mathematics</category>
         
         
         <category>cool stuff</category>
@@ -126,7 +308,7 @@ are the degree three nonsingular algebraic plane curves with at least one
 rational point.&lt;/p&gt;
 
 &lt;center&gt;
-&lt;img width=&quot;65%&quot; src=&quot;http://ctesta.com/img/2017-03-05/three-example-curves.png&quot; /&gt;
+&lt;img width=&quot;65%&quot; src=&quot;http://localhost:4000/img/2017-03-05/three-example-curves.png&quot; /&gt;
 &lt;/center&gt;
 
 &lt;p&gt;Their existence was considered by Diophantus in the 2nd century a.d. in
@@ -176,8 +358,8 @@ to the rational points of an elliptic curve.&lt;/p&gt;
 
 &lt;center&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
-&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Addition&quot; src=&quot;http://ctesta.com/img/2017-03-17/ch2-point-addition.png&quot; /&gt;
-&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Multiplication&quot; src=&quot;http://ctesta.com/img/2017-03-17/ch2-point-multiplication.png&quot; /&gt;
+&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Addition&quot; src=&quot;http://localhost:4000/img/2017-03-17/ch2-point-addition.png&quot; /&gt;
+&lt;img height=&quot;35%&quot; width=&quot;35%&quot; alt=&quot;Point Multiplication&quot; src=&quot;http://localhost:4000/img/2017-03-17/ch2-point-multiplication.png&quot; /&gt;
 &lt;br /&gt;
 Point Addition and Multiplication
 &lt;/div&gt;
@@ -323,7 +505,7 @@ p(11k+6) &amp; \equiv 0 \pmod {11}.
 
 &lt;center&gt;&lt;a class=&quot;info&quot; href=&quot;http://www.concinnitasproject.org/portfolio/gallery.php?id=Dyson_Freeman&quot;&gt;
 &lt;div style=&quot;display: block; margin: auto&quot;&gt;
-&lt;img width=&quot;75%&quot; height=&quot;30%&quot; src=&quot;http://ctesta.com/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png&quot; /&gt;
+&lt;img width=&quot;75%&quot; height=&quot;30%&quot; src=&quot;http://localhost:4000/img/2017-03-05/Dyson Freeman MacDonald Tau Equation.png&quot; /&gt;
 &lt;br /&gt;
 &lt;span class=&quot;image-credit&quot;&gt;
 Image Credit: The Concinnitas Project
@@ -365,13 +547,15 @@ still just beginning to understand their tremendous structure.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Sat, 18 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves</guid>
+        <link>http://localhost:4000/articles/2017-03/Introduction-to-Elliptic-Curves</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Introduction-to-Elliptic-Curves</guid>
         
         <category>elliptic-curves</category>
         
-        <category>math</category>
+        <category>mathematics</category>
         
+        
+        <category>mathematics</category>
         
       </item>
     
@@ -478,11 +662,15 @@ entry into mathematics is (perhaps by some $\epsilon &amp;gt; 0$) slightly lower
 
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Math-Resources</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Math-Resources</guid>
+        <link>http://localhost:4000/articles/2017-03/Math-Resources</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Math-Resources</guid>
         
-        <category>math</category>
+        <category>mathematics</category>
         
+        <category>resources</category>
+        
+        
+        <category>mathematics</category>
         
       </item>
     
@@ -555,11 +743,17 @@ computationally intensive projects.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Data-Science-Resources</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Data-Science-Resources</guid>
+        <link>http://localhost:4000/articles/2017-03/Data-Science-Resources</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Data-Science-Resources</guid>
         
         <category>data-science</category>
         
+        <category>programming</category>
+        
+        <category>resources</category>
+        
+        
+        <category>resources</category>
         
       </item>
     
@@ -646,11 +840,15 @@ functionality I’m looking for in packages.&lt;/p&gt;
 &lt;/ul&gt;
 </description>
         <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2017-03/Coding-in-Luxury</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2017-03/Coding-in-Luxury</guid>
+        <link>http://localhost:4000/articles/2017-03/Coding-in-Luxury</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2017-03/Coding-in-Luxury</guid>
         
-        <category>coding</category>
+        <category>programming</category>
         
+        <category>resources</category>
+        
+        
+        <category>programming</category>
         
       </item>
     
@@ -672,36 +870,40 @@ item on my agenda would be getting back to Olympic National Park.&lt;/p&gt;
 
 &lt;ul class=&quot;photo-gallery&quot;&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0010.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0010.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0031.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0031.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0032.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0032.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0212.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0212.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0451.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0451.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0502.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0502.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0596.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0596.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0607.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0607.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0623.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0623.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0645.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0645.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0894.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0894.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Washington/DSC_0905.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Washington/DSC_0905.jpg&quot; /&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 </description>
         <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2016-08/Washington-State-Photography</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2016-08/Washington-State-Photography</guid>
+        <link>http://localhost:4000/articles/2016-08/Washington-State-Photography</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-08/Washington-State-Photography</guid>
         
+        <category>photography</category>
+        
+        
+        <category>photography</category>
         
       </item>
     
@@ -723,32 +925,32 @@ the beautiful scenery there.&lt;/p&gt;
 
 &lt;ul class=&quot;photo-gallery&quot;&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0045.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0045.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0064.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0064.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0111.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0111.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0144.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0144.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0338.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0338.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0431.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0431.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0549.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0549.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0640.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0640.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0738.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0738.jpg&quot; /&gt;&lt;/li&gt;
 
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://ctesta.com/img/2016-08-31-Colorado/DSC_0769.jpg&quot; /&gt;&lt;/li&gt;
+&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0769.jpg&quot; /&gt;&lt;/li&gt;
 
 &lt;/ul&gt;
 
 </description>
         <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://ctesta.com/articles/2016-08/Colorado-State-Photography</link>
-        <guid isPermaLink="true">http://ctesta.com/articles/2016-08/Colorado-State-Photography</guid>
+        <link>http://localhost:4000/articles/2016-08/Colorado-State-Photography</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2016-08/Colorado-State-Photography</guid>
         
         <category>photography</category>
         

@@ -2,7 +2,8 @@
 layout: post
 title: "Coding in Luxury"
 modified: 2017-03-17
-tags: [coding]
+tags: [programming, resources]
+categories: [programming]
 comments: true
 image:
     feature: "https://media.giphy.com/media/opmkK81PuaNAk/giphy.gif"

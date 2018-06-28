@@ -2,7 +2,7 @@
 layout: post
 title: "QualtricsTools : Automated Survey Processing"
 modified: ""
-tags: [R, web-app]
+tags: [rstats, web-apps]
 categories: [web-programming]
 comments: true
 image:

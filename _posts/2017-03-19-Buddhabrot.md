@@ -2,7 +2,7 @@
 layout: post
 title: "Buddhabrot Fractal"
 modified: ""
-tags: [math]
+tags: [mathematics]
 categories: [cool stuff]
 comments: true
 ---

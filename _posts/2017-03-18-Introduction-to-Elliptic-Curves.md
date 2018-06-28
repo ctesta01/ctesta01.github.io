@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Introduction to the Theory of Elliptic Curves"
-tags: [elliptic-curves, math]
+tags: [elliptic-curves, mathematics]
+categories: [mathematics]
 comments: true
 extra-css:
   - http://ctesta.com/css/2017-03-18-D3js.css
