@@ -5,11 +5,11 @@ modified: ""
 tags: [javascript, web-apps]
 categories: [web-programming]
 comments: true
-image: http://ctesta.com/img/2017-03-17/YouTube-Clipper.png
+image: 2017-03-17/YouTube-Clipper.png
 ---
 
 <center><a href="https://ctesta01.github.io/youtube-clipper/">
-<img src="http://ctesta.com/img/2017-03-17/YouTube-Clipper.png" width="90%">
+<img src="{{ site.url }}/img/2017-03-17/YouTube-Clipper.png" width="90%">
 <br>
 <span class='image-credit'>YouTube Clipper is a simple static site
 to create trimmed embed codes for YouTube videos.</span></a>
