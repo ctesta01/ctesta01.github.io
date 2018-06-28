@@ -8,6 +8,7 @@ image:
     creditlink: https://unsplash.com/@epicantus
 categories: [rstats, programming]
 tags: [rstats, resources, programming]
+comments: true
 ---
 
 This is an introduction to the R programming language. I would like this
