@@ -25,7 +25,7 @@ scripted with very powerful.
 - [vimsheet](http://vimsheet.com/)
 - [vim after 11 years](https://statico.github.io/vim.html)
 - [everything missed in vim after 11 years](https://statico.github.io/vim2.html)
-- [book : practical vim](https://books.google.com/books?id=RxOcCgAAQBAJ), and [a bookzz search](http://bookzz.org/?ft=on&q=practical+vim)
+- [book : practical vim](https://books.google.com/books?id=RxOcCgAAQBAJ)
 - [vimawesome : plugins](http://vimawesome.com/)
 - [master.vim : master vim through a script](https://gist.github.com/gmccreight/7519289)
 - [vim koans](https://sanctum.geek.nz/arabesque/vim-koans/)
