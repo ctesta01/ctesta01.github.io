@@ -1,7 +1,10 @@
 ---
 layout: post
+categories: [photography]
+tags: [photography]
+image:
+    feature: /2016-08-31-Colorado/DSC_0044.jpg
 images:
-    - image_path: /img/2016-08-31-Colorado/DSC_0044.jpg
     - image_path: /img/2016-08-31-Colorado/DSC_0045.jpg
     - image_path: /img/2016-08-31-Colorado/DSC_0064.jpg
     - image_path: /img/2016-08-31-Colorado/DSC_0111.jpg
@@ -26,6 +29,7 @@ I truly enjoyed my time in Colorado, and I recommend that anybody
 with an interest in the outdoors find the time to enjoy
 the beautiful scenery there. 
 
+<!--more-->
 
 <ul class="photo-gallery">
 {% for image in page.images %}

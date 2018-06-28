@@ -1,5 +1,7 @@
 ---
 layout: post
+image:
+    feature: 2016-08-31-Washington/DSC_0607.jpg
 images:
 - image_path: /img/2016-08-31-Washington/DSC_0010.jpg
 - image_path: /img/2016-08-31-Washington/DSC_0031.jpg
@@ -27,6 +29,7 @@ beautiful art at the Chihuly glass museum if you get the chance. It is phenomena
 impressive. I would love to visit Washington state again, and the first
 item on my agenda would be getting back to Olympic National Park.
 
+<!--more-->
 
 <ul class="photo-gallery">
 {% for image in page.images %}

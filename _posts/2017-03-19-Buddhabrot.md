@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Buddhabrot Fractal"
-excerpt: ""
 modified: ""
 tags: [math]
+categories: [cool stuff]
 comments: true
 ---
 

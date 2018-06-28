@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "QualtricsTools : Automated Survey Processing"
-excerpt: ""
 modified: ""
 tags: [R, web-app]
+categories: [web-programming]
 comments: true
 image:
 - http://ctesta.com/img/37a%20logo.png

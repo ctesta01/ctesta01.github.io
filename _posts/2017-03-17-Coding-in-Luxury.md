@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Coding in Luxury"
-excerpt: ""
 modified: 2017-03-17
 tags: [coding]
 comments: true
@@ -12,6 +11,7 @@ image:
 Customizing and tweaking the terminal is one way a geek can endlessly
 find delight. The following is a list of resources which I have found useful for 
 the command line tools and interfaces that I regularly use. 
+<!--more-->
 
 ## Vim 🎑
 

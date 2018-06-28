@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Introduction to the Theory of Elliptic Curves"
-excerpt: ""
-modified: ""
 tags: [elliptic-curves, math]
 comments: true
 extra-css:
@@ -12,7 +10,6 @@ extra-js:
   - http://ctesta.com/js/2017-03-18-D3js2.js
 ---
 
-### First, An Elliptic Curve Subject Area Wikipedia Hyperlink Graph
 <!-- I learned how to set up the extra-css and extra-js from
 this stackoverflow post:
 https://stackoverflow.com/questions/14113559/how-to-tune-layout-for-a-particular-page-post-in-jekyll
@@ -41,8 +38,6 @@ Sources:
 
 -->
 
-### An Introduction to the Theory of Elliptic Curves
-
 Elliptic curves are a subject, simple to construct and ubiquitous, that have found
 themselves at the forefront of Number Theory and Algebraic Geometry research.
 The subject has roots in some of the oldest Mathematics, and its modern
@@ -61,6 +56,8 @@ in modern language: "To divide a given number into two numbers such that their
 product is a cube minus its side." That is, given $a \in \mathbb N$ find
 $x,y \in \mathbb Z$ such that
 $$y(a-y) = x^3 - x.$$
+
+<!--more-->
 
 Most individuals are familiar with the plane conics, the degree
 two nonsingular algebraic curves. Elliptic curves, in some sense,

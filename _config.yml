@@ -3,7 +3,7 @@
 # Site wide configuration
 ####################################
 #
-title: Christian Testa | A Blog
+title: Christian Testa
 email:
 description: My blog about math, experiments, and life.
 url: http://ctesta.com
@@ -34,9 +34,9 @@ kramdown:
 owner:
   name: Christian Testa
   avatar: 37a logo.png
-  job: "A student in all things abstract"
+  job: ""
   bio: ""
-  email: christian.testa@tufts.edu
+  email: ctesta@hsph.harvard.edu
   disqus-shortname: ctesta
   twitter: ctesta000
   google:
@@ -47,8 +47,8 @@ owner:
     ad-slot:
   bing-verify:
   github: ctesta01
-  gitlab: #username
-  stackoverflow: 3161979/ctesta01   from a "http://stackoverflow.com/users/123456/username" link
+  gitlab: ctesta000
+  stackoverflow: 3161979/ctesta01
   linkedin: christian-testa-0062b361
   skype: #username
   xing: #username
@@ -60,7 +60,7 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
-  soundcloud: #username
+  soundcloud: testa-christian
   weibo: #username
   flickr: #username
   500px: #username

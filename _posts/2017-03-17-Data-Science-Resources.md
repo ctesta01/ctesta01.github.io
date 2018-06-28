@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Data Science Resources"
-excerpt: ""
 modified: 2017-03-17
 tags: [data-science]
 comments: true
@@ -12,6 +11,8 @@ image:
 This page is principally for me to save the links that I intend to come back to time and 
 time again. However, anyone is welcome to take a look at what I have collected. I have 
 listed below some data science resources, followed by R-specific and Python-specific resources. 
+
+<!--more-->
 
 ## Data Science
 

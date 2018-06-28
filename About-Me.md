@@ -15,13 +15,38 @@ title: Christian Testa | About Me
 Photo Credit: At Rocky Mountain National Park, shot by Michael Testa.
 </span>
 
-I want to use mathematics and data science to 
- in socially responsible scientific research and industries such as 
-environmental science, public health, privacy advocacy, and 
-the economics of wealth inequality and poverty. My academic background heavily focuses 
-on both theoretical and applied mathematics, including subjects such as high performance 
-computing, data analysis, numerical linear algebra, number theory, abstract algebra, and 
-plenty more. I hope you will find enjoyable content on my website, and feel free to leave
-a comment letting me know you've dropped by.
+I want to use mathematics and statistics in socially responsible
+scientific research to achieve a positive impact on the lives of others.
+Subjects such as environmental science, public health, and the economics of
+wealth inequality motivate me to become more skillful at mathematics and
+effective communication.
 
-- [Curriculum Vitae]({{ site.url }}/assets/Christian%20Testa%20-%20Resume.pdf)
+My interests include: 
+
+- Coffee
+- Craft Cocktails
+- Dance
+- Data Journalism
+- Data Visualization
+- Expository Writing
+- Learning Languages
+- Mathematical Modeling
+- Origami
+- Teaching
+- Photography
+- Programming
+- Public Health
+- Pure Mathematics
+- Text Analysis
+- Web Design
+- Wildlife and Nature Appreciation
+
+Please feel free to reach out and connect! 
+
+Below are several of my public profiles, 
+which you are welcome to follow, like, or subscribe to. 
+
+{% if page.author %} {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %} {% endif %}
+{% include social-links.html %}
+
+
