@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Getting Started in R"
-toc: true
 image:
     feature: 2018-06-28/R.jpg
     credit: Daria Nepriakhina on Unsplash

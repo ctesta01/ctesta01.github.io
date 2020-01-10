@@ -5,9 +5,62 @@
     <description>My blog about math, experiments, and life.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 28 Jun 2018 18:12:53 +0000</pubDate>
-    <lastBuildDate>Thu, 28 Jun 2018 18:12:53 +0000</lastBuildDate>
-    <generator>Jekyll v3.7.3</generator>
+    <pubDate>Fri, 10 Jan 2020 15:24:06 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jan 2020 15:24:06 +0000</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Reflections on 2019</title>
+        <description>&lt;p&gt;This is a bit of a best of 2019 post.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;I’m engaged now; I really couldn’t be happier about this one!&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&quot;https://journals.lww.com/stdjournal/Abstract/publishahead/The_potential_population_level_impact_of_different.98009.aspx&quot;&gt;paper on gonorrhea in Baltimore and San
+Francisco&lt;/a&gt;
+was published this last December. It’s exciting to have
+my first paper and to be one of two co-first authors on it.&lt;/p&gt;
+
+&lt;p&gt;The web application I’ve been developing at work,
+&lt;a href=&quot;https://ppmltools.org/tabby2&quot;&gt;Tabby2&lt;/a&gt; passed the &lt;a href=&quot;https://cdc.gov&quot;&gt;Center for Disease Control
+and Prevention&lt;/a&gt;’s Scientific Web Tool Clearance and is now
+live online for public access!&lt;/p&gt;
+
+&lt;p&gt;Another collaborator and I have submitted our paper on syphilis in Louisiana 
+and Massachusetts to the CDC for clearance and will be heading to journals 
+soon to publish.&lt;/p&gt;
+
+&lt;p&gt;I’ve had two amazing trips to Colorado this year; My fiancée and I went to
+visit my grandparents in Denver and got to see some of the lovely national
+parks near there, and my dad, his girlfriend, and I went camping near Gunnison
+National Forest.&lt;/p&gt;
+
+&lt;p&gt;My dad is working on his food truck and it brings me great joy to see his 
+progress as he makes his dream a reality.&lt;/p&gt;
+
+&lt;p&gt;My friends all seem to be doing well – It’s incredibly inspiring to see my
+friends enjoying themselves and doing brilliant things in all kinds of
+different ways and places.&lt;/p&gt;
+
+&lt;p&gt;I’m really pleased with 2019. It was a year that I put a lot of work in and got
+a lot out of it. But I also feel that it was a year that I became more
+confident in myself.&lt;/p&gt;
+
+&lt;p&gt;Of my new years goals, the one I want to mention here is that I’m aiming to
+improve my self-study skills by reading five books on statistics and machine
+learning and publishing problem sets from each of them here this semester. 
+Please feel free to ask about the details in the comments!&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading; hopefully posts will become more frequent here.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+        <link>http://localhost:4000/articles/2020-01/Reflections-on-2019</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/2020-01/Reflections-on-2019</guid>
+        
+        
+      </item>
     
       <item>
         <title>Getting Started in R</title>
@@ -776,7 +829,7 @@ scripted with very powerful.&lt;/p&gt;
   &lt;li&gt;&lt;a href=&quot;http://vimsheet.com/&quot;&gt;vimsheet&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://statico.github.io/vim.html&quot;&gt;vim after 11 years&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://statico.github.io/vim2.html&quot;&gt;everything missed in vim after 11 years&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?id=RxOcCgAAQBAJ&quot;&gt;book : practical vim&lt;/a&gt;, and &lt;a href=&quot;http://bookzz.org/?ft=on&amp;amp;q=practical+vim&quot;&gt;a bookzz search&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://books.google.com/books?id=RxOcCgAAQBAJ&quot;&gt;book : practical vim&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://vimawesome.com/&quot;&gt;vimawesome : plugins&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://gist.github.com/gmccreight/7519289&quot;&gt;master.vim : master vim through a script&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://sanctum.geek.nz/arabesque/vim-koans/&quot;&gt;vim koans&lt;/a&gt;&lt;/li&gt;
@@ -899,58 +952,6 @@ item on my agenda would be getting back to Olympic National Park.&lt;/p&gt;
         <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
         <link>http://localhost:4000/articles/2016-08/Washington-State-Photography</link>
         <guid isPermaLink="true">http://localhost:4000/articles/2016-08/Washington-State-Photography</guid>
-        
-        <category>photography</category>
-        
-        
-        <category>photography</category>
-        
-      </item>
-    
-      <item>
-        <title>Colorado State Photography</title>
-        <description>&lt;p&gt;I went to Colorado in the summer of 2016 and found some heart-moving and 
-serene photography opportunities. I spent time in Denver, Boulder, and, of course, the 
-Rocky Mountain National Park. I struggle to imagine a more picturesque
-photography experience than that with the brazen elk 
-right next to the road and the incredible and towering mountain ranges spanning
-the park. The sense of peace that I could derive from 
-spending time in the park is a memory that will always
-motivate my desire to spend more time in nature. 
-I truly enjoyed my time in Colorado, and I recommend that anybody 
-with an interest in the outdoors find the time to enjoy
-the beautiful scenery there.&lt;/p&gt;
-
-&lt;!--more--&gt;
-
-&lt;ul class=&quot;photo-gallery&quot;&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0045.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0064.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0111.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0144.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0338.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0431.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0549.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0640.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0738.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;li style=&quot;list-style: none;&quot;&gt;&lt;img src=&quot;http://localhost:4000/img/2016-08-31-Colorado/DSC_0769.jpg&quot; /&gt;&lt;/li&gt;
-
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Wed, 31 Aug 2016 00:00:00 +0000</pubDate>
-        <link>http://localhost:4000/articles/2016-08/Colorado-State-Photography</link>
-        <guid isPermaLink="true">http://localhost:4000/articles/2016-08/Colorado-State-Photography</guid>
         
         <category>photography</category>
         
