@@ -24,7 +24,6 @@ effective communication.
 My interests include: 
 
 - Coffee
-- Craft Cocktails
 - Dance
 - Data Journalism
 - Data Visualization
