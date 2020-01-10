@@ -47,9 +47,10 @@ a lot out of it. But I also feel that it was a year that I became more
 confident in myself.
 
 Of my new years goals, the one I want to mention here is that I'm aiming to
-improve my self-study skills by reading five books on statistics and machine
-learning and publishing problem sets from each of them here this semester. 
-Please feel free to ask about the details in the comments! 
+improve my technical writing skills by reading five books on statistics and
+machine learning and publishing problem sets or write-ups about them and their
+topics here this semester. Please feel free to ask about the details in the
+comments! 
 
 Thanks for reading; hopefully posts will become more frequent here. 
 
