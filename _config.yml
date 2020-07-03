@@ -37,7 +37,7 @@ owner:
   job: ""
   bio: ""
   email: ctesta@hsph.harvard.edu
-  disqus-shortname: ctesta
+  # disqus-shortname: ctesta
   twitter: 
   google:
     plus: #username
