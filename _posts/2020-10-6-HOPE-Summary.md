@@ -33,12 +33,12 @@ realized everyone hates TurboTax.”
 [![Screenshot of MuckRock website]({{site.url}}/img/2020-10-6/muckrock-screenshot.png)](https://www.muckrock.com/)
 
 
-What started out as an attempt to get public records out of the Sommerville
-local government turned into the realization that with enough sustained effort
-through FOIA requests, the public could pressure the government into being more
-transparent, often even proactively so. After over a decade of automating the
-process for submitting FOIA requests, they've unearthed some pretty interesting
-stuff.
+What started out as an attempt to get public records out of the Somerville,
+Massachusetts local government turned into the realization that with enough
+sustained effort through FOIA requests, the public could pressure the
+government into being more transparent, often even proactively so. After over a
+decade of automating the process for submitting FOIA requests, they've
+unearthed some pretty interesting stuff.
 
 Check out some of their most interesting work:
 
