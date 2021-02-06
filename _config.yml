@@ -66,3 +66,18 @@ owner:
   500px: #username
   codepen: #username
 
+# The URL for the staticman API bridge endpoint
+# You will want to modify some of the values:
+#  ${github-username}: the username of the account with which you publish your blog
+#  ${blog-repo}: the name of your blog repository in github
+#  master: this the branch out of which your blog is published, often master or gh-pages
+#  ${bridge_app_name}: the name you chose in Heroku for your bridge API
+#  comments: the so-called property, this defines the key in staticman.yml where the configuration is found
+#
+# for me, this line reads:
+# https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+staticman_url: https://ctesta-comments.herokuapp.com/v2/entry/ctesta01/ctesta.com/master/comments
+
+reCaptcha:
+  siteKey: 6Ld9HE0aAAAAAC2O_flxA5pggtf0mmll-GEbjiQg
+  secret: DTdg+1fpWz7uz2h1JGc8BO9sr2QKIhmKMXKpDGSqea9crFiABxQI/f4dIvEWs7UdptuqRBRJY70u/ZIpkbeaDnmlw92cXibBzIPBKzZb33MmHx7T3GjUSKw3sufkyrFRAoS5xWMrbEb4VCGn+gdmgVfdz4tY7fWGadXJXPPLYODMnY2vIWTojJFDfAEFTdAhb5Bj6+a3077JG+bs9PVyjQKPz/9AJWvpubofD6IKRaCwZeIiDQn7ZWOcTqgKKKD+MKPWUGsbwgRG4arPPK3eQWM5bphizaqT0/o4zbqDIcABcFs9gIQKpmdTzyKAMUumxq3J5WJ8plOXWYMkZx2EVr5KEQ/SmK61+wT4uCF9C3U42EXOadHq51tUM1xVFUNEyXoIf/MlWCn4aKh6FPDEdp+frGGbAadgmdcLyUTPhHa4xiGkTjKbgKzFkHYOlnHrYsRkFwhiykTgnjvkljdbPziDERWSXh+1hHAFSARagWtm1QnZnuszloF07Kq7Rrvr9TeRiuW7fThmhZu8hmOVrfEmya2eUsoC3JsaQhV18TA7Hu/9tpoy9B25jGt/OwZS4Qwrey7D42nIiHr5mt4yLgMrcg9d7elzvRpAi9MDcVDFG5HF66o72xFh5kDbZmkRNFW2ODzLoRy3ybdAB/nbvHnAhzbpUS1MLaOoUoahx1U=
