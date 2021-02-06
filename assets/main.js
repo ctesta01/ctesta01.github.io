@@ -6,9 +6,18 @@
   $('.js-form').submit(function () {
     var form = this;
 
+    $('.js-close-modal').click(function () {
+      $('body').removeClass('show-modal');
+    });
+
+    function showModal(title, message) {
+      $('.js-modal-title').text(title);
+      $('.js-modal-text').html(message);
+      $('body').addClass('show-modal');
+    }
 
     $("#comment-form-submit").html(
-      '<svg class="icon spin"><use xlink:href="#icon-loading"></use></svg> Sending...'
+      'Sending...'
     );
     $(form).addClass('disabled');
 
@@ -39,15 +48,6 @@
     return false;
   });
 
-  $('.js-close-modal').click(function () {
-    $('body').removeClass('show-modal');
-  });
-
-  function showModal(title, message) {
-    $('.js-modal-title').text(title);
-    $('.js-modal-text').html(message);
-    $('body').addClass('show-modal');
-  }
 })(jQuery);
 
 // Staticman comment replies, from https://github.com/mmistakes/made-mistakes-jekyll
