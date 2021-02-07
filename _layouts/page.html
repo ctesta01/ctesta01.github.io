@@ -26,7 +26,7 @@ layout: default
   </div><!-- end page content -->
 
 
-  {% if site.owner.disqus-shortname and page.comments == true %}
-  <div id="disqus_thread"></div>
-  {% include disqus.html %}
-  {% endif %}
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
+

@@ -3,6 +3,7 @@ layout: post
 title: "My Favorite HOPE 2020 Talks"
 categories: []
 tags: []
+comments: true
 ---
 
 [HOPE 2020](https://www.hope.net/) took place July 25th through August 2nd and for the 
