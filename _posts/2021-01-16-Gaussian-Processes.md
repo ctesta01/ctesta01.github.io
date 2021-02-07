@@ -15,10 +15,9 @@ Gaussian distributions and Gaussian process models can be useful for modeling sm
 functions as well.
 </p>
 <!--more-->
-</div>
 <div id="definition" class="section level3">
 <h3>A helpful definition</h3>
-<p>A random variable <span class="math inline">\(X\)</span> in <span class="math inline">\(d\)</span> dimensions is multivariate normally distributed (written <span class="math inline">\(X \sim \cal N_d(\mu&#39;, \Sigma)\)</span>) if <span class="math inline">\(\Sigma \alpha_i X_i \sim \cal N(\mu&#39;, \sigma&#39;)\)</span> for any choice of <span class="math inline">\(\{ \alpha_i \}\)</span> and <span class="math inline">\(i\)</span> taken across any subset of <span class="math inline">\(\{1, ..., d\}\)</span> for some <span class="math inline">\(\mu&#39;\)</span> and <span class="math inline">\(\sigma&#39;\)</span>.</p>
+<p>A random variable <span class="math inline">\(X\)</span> in <span class="math inline">\(d\)</span> dimensions is multivariate normally distributed e.g. <span class="math inline">\(X \sim \cal N_d(\mu&#39;, \Sigma)\</span>) if <span class="math inline">\(\Sigma_i \alpha_i X_i \sim \cal N(\mu&#39;, \sigma&#39;)\)</span> for any choice of <span class="math inline">\(\{ \alpha_i \}\)</span> and <span class="math inline">\(i\)</span> taken across any subset of <span class="math inline">\(\{1, ..., d\}\)</span> for some <span class="math inline">\(\mu&#39;\)</span> and <span class="math inline">\(\sigma&#39;\)</span>.</p>
 </div>
 <div id="understanding-the-role-of-the-covariance-matrix-sigma" class="section level3">
 <h3>Understanding the Role of the Covariance Matrix,</h3>
