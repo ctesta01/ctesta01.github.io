@@ -12,7 +12,7 @@ image:
 <!-- <h3>Introduction</h3> -->
 <p>In this article I'm going to try to provide some intuition around how multivariate
 Gaussian distributions and Gaussian process models can be useful for modeling smooth 
-functions as well.
+functions.
 </p>
 <!--more-->
 <div id="definition" class="section level3">
