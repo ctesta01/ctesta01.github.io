@@ -6,8 +6,8 @@ tags: []
 comments: true
 image:
   feature: 2020-10-6/solarpunk-a-promise-not-a-warning.png
-  credit: <a href="https://www.artstation.com/flagflagflagflag">
-Art Credit: 白色风车 by Liuying J.P</a>
+  credit: |
+    <a href="https://www.artstation.com/flagflagflagflag">Art by 白色风车 by Liuying J.P</a>, <a href='https://alxd.org/'>Slide by Pawel Ngei</a>
 ---
 
 [HOPE 2020](https://www.hope.net/) took place July 25th through August 2nd and for the 
