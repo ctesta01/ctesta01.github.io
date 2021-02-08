@@ -5,7 +5,7 @@ message: >-
   Elliptic curves are much more familiar to me from an analytic/geometric
   perspective. Is there a way of getting an intuition for the number-theoretic
   properties of these special functions through the geometry of the moduli space
-  of complex tori, e.g. through the geometry of how PSL(2, R) acts on the upper
+  of complex tori, e.g. through the geometry of how PSL(2, Z) acts on the upper
   half-plane?
 name: Alex Nolte
 email: ''
