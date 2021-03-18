@@ -10,6 +10,14 @@ title: Publications - Christian Testa
 <div>
 <h4>2021</h4>
 
+
+<a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00465-7/fulltext">
+Missing again: US racial and ethnic data for COVID-19 vaccination
+</a>
+<div class='details'>
+Krieger N, Waterman PD, Chen JT, <b>Testa C</b>, Hanage WP. The Lancet.
+</div>
+
 <a href="https://link.springer.com/article/10.1007/s10654-020-00689-2">
 COVID-19: US federal accountability for entry, spread, and inequities—lessons for the future
 </a>
