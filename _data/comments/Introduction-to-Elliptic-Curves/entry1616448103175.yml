@@ -1,7 +1,7 @@
 _id: 993b34c0-8b54-11eb-9ca8-0ba5a403d7ff
 _parent: 'https://ctesta.com/articles/2017-03/Introduction-to-Elliptic-Curves'
 replying_to_uid: aa15f500-69a8-11eb-8c0f-8d1d1a869f6b
-message: "Hi Alex, \r\n\r\nI really wish I could provide you a more thorough answer that could elucidate some of the intuitions, but I'm really very much a novice in this area.  My hunch is that if you wanted to understand how the geometry of PSL(2,Z) and the number theoretic properties of elliptic curves relate, I would dig into the literature on the [J-invariant](https://en.wikipedia.org/wiki/J-invariant). \r\n\r\n-Testa"
+message: "Hi Alex, \r\n\r\nI really wish I could provide you a more thorough answer that could elucidate some of the intuitions, but I'm really very much a novice in this area.  My hunch is that if you wanted to understand how the geometry of PSL(2,Z) and the number theoretic properties of elliptic curves relate, I would dig into the literature on the [J-invariant](https://en.wikipedia.org/wiki/J-invariant). It would also be good to look into [Complex Multiplication](https://en.wikipedia.org/wiki/Complex_multiplication). \r\n\r\n-Testa"
 name: Testa
 email: ''
 hp: ''
