@@ -10,6 +10,13 @@ title: Publications - Christian Testa
 <div>
 <h4>2021</h4>
 
+<a href="https://journals.lww.com/stdjournal/Abstract/9000/Modeling_the_Cost_Effectiveness_of_Express.97664.aspx">
+Modeling the Cost-Effectiveness of Express Multi-Site Gonorrhea Screening among Men Who Have Sex with Men in the United States
+</a>
+<div class='details'>
+Earnest R, Rönn MM, Bellerose M, Menon-Johansson AS, Berruti AA, Chesson HW, Gift TL, Hsu KK, <b>Testa C</b>, Zhu L, Malyuta Y, Menzies NA, Salomon JA. Sexually Transmitted Diseases.
+</div>
+
 
 <a href="https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00465-7/fulltext">
 Missing again: US racial and ethnic data for COVID-19 vaccination
